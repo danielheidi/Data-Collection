@@ -323,3 +323,185 @@ GitHub,https://github.com/motech/MOTECH-Ghana.git,MOTECH-Ghana,Git,https://githu
 GitHub,https://github.com/vaskoz/spring3-mvc.git,spring3-mvc,Git,https://github.com/vaskoz/spring3-mvc/issues,Git
 GitHub,https://github.com/jmbyun/MarkSlide.git,MarkSlide,Git,https://github.com/jmbyun/MarkSlide/issues,Git
 GitHub,https://github.com/sweemeng/lolshield-data-bar-display.git,lolshield-data-bar-display,Git,https://github.com/sweemeng/lolshield-data-bar-display/issues,Git
+Apache,https://github.com/apache/abdera.git,Apache Abdera,Git,https://issues.apache.org/jira/browse/AGILA,JIRA
+Apache,https://github.com/apache/accumulo.git,Apache Accumulo,Git,https://issues.apache.org/jira/browse/ABDERA,JIRA
+Apache,https://github.com/apache/ace.git,Apache Ace,Git,,JIRA
+Apache,https://github.com/apache/activemq-6.git,Apache ActiveMQ 6,Git,,JIRA
+Apache,https://github.com/apache/activemq-activeio.git,Apache ActiveMQ Active IO,Git,,JIRA
+Apache,https://github.com/apache/activemq-apollo.git,Apache ActiveMQ Apollo,Git,,JIRA
+Apache,https://github.com/apache/activemq-cpp.git,Apache ActiveMQ CPP,Git,,JIRA
+Apache,https://github.com/apache/activemq-openwire.git,Apache ActiveMQ OpenWire,Git,,JIRA
+Apache,https://github.com/apache/activemq-protobuf.git,Apache ActiveMQ Protobuf,Git,,JIRA
+Apache,https://github.com/apache/activemq-stomp.git,Apache ActiveMQ Stomp,Git,,JIRA
+Apache,https://github.com/apache/activemq.git,Apache ActiveMQ,Git,,JIRA
+Apache,https://github.com/apache/airavata-labs.git,Apache Airavata Labs,Git,,JIRA
+Apache,https://github.com/apache/airavata-php-gateway.git,Apache Airavata PHP Gateway,Git,,JIRA
+Apache,https://github.com/apache/airavata-sandbox.git,Apache Airavata,Git,,JIRA
+Apache,https://github.com/apache/airavata.git,Apache Airavata,Git,,JIRA
+Apache,https://github.com/apache/allura.git,Apache Allura,Git,,JIRA
+Apache,https://github.com/apache/ambari.git,Apache Ambari,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-antunit.git,Apache AntUnit - Unit Test Framework for Ant Tasks,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-compress.git,Apache Compress Antlib,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-dotnet.git,Apache DotNet Antlib,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-props.git,Apache Props Antlib,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-svn.git,Apache SVN Antlib,Git,,JIRA
+Apache,https://github.com/apache/ant-antlibs-vss.git,Apache VSS Antlib,Git,,JIRA
+Apache,https://github.com/apache/ant-easyant-buildtypes.git,Apache EasyAnt build types,Git,,JIRA
+Apache,https://github.com/apache/ant-easyant-core.git,Apache EasyAnt core,Git,,JIRA
+Apache,https://github.com/apache/ant-easyant-easyant4e.git,Apache EasyAnt for Eclipse,Git,,JIRA
+Apache,https://github.com/apache/ant-easyant-skeletons.git,Apache EasyAnt skeletons,Git,,JIRA
+Apache,https://github.com/apache/ant-easyant-tasks.git,Apache EasyAnt tasks,Git,,JIRA
+Apache,https://github.com/apache/ant-ivy.git,Apache Ant Ivy,Git,,JIRA
+Apache,https://github.com/apache/ant-ivyde.git,Apache Ivy Eclipse Plugin,Git,,JIRA
+Apache,https://github.com/apache/ant.git,Apache Ant,Git,,JIRA
+Apache,https://github.com/apache/apr-iconv.git,Apache Portable Runtime iconv,Git,,JIRA
+Apache,https://github.com/apache/apr-util.git,Apache Portable Runtime util,Git,,JIRA
+Apache,https://github.com/apache/apr.git,Apache APR,Git,,JIRA
+Apache,https://github.com/apache/apreq.git,Apache HTTP Request Library,Git,,JIRA
+Apache,https://github.com/apache/archiva-redback-core.git,Apache Archiva,Git,,JIRA
+Apache,https://github.com/apache/archiva-sandbox.git,Apache Archiva sandbox,Git,,JIRA
+Apache,https://github.com/apache/archiva.git,Apache Archiva,Git,,JIRA
+Apache,https://github.com/apache/aries.git,Apache Aries,Git,,JIRA
+Apache,https://github.com/apache/avro.git,Apache Avro,Git,,JIRA
+Apache,https://github.com/apache/axis1-java.git,Axis1 Java,Git,,JIRA
+Apache,https://github.com/apache/axis1.git,Apache Axis1,Git,,JIRA
+Apache,https://github.com/apache/axis2-c.git,Apache Axis2/C,Git,,JIRA
+Apache,https://github.com/apache/axis2-java.git,Apache Axis2/Java,Git,,JIRA
+Apache,https://github.com/apache/axis2-transports.git,Apache Axis2 transports,Git,,JIRA
+Apache,https://github.com/apache/batik.git,Apache Batik,Git,,JIRA
+Apache,https://github.com/apache/bigtop.git,Apache Bigtop,Git,,JIRA
+Apache,https://github.com/apache/bloodhound.git,Apache Bloodhound,Git,,JIRA
+Apache,https://github.com/apache/bookkeeper.git,Apache BookKeeper,Git,,JIRA
+Apache,https://github.com/apache/buildr.git,Apache Buildr,Git,,JIRA
+Apache,https://github.com/apache/bval.git,Apache BVal,Git,,JIRA
+Apache,https://github.com/apache/camel.git,Apache Camel,Git,,JIRA
+Apache,https://github.com/apache/cassandra.git,Apache Cassandra,Git,,JIRA
+Apache,https://github.com/apache/cayenne.git,Apache Cayenne,Git,,JIRA
+Apache,https://github.com/apache/celix.git,Apache Celix,Git,,JIRA
+Apache,https://github.com/apache/chainsaw.git,Apache Chainsaw,Git,,JIRA
+Apache,https://github.com/apache/chemistry-cmislib.git,Apache Chemistry CMISLib,Git,,JIRA
+Apache,https://github.com/apache/chemistry-dotcmis.git,Apache Chemistry DotCMIS,Git,,JIRA
+Apache,https://github.com/apache/chemistry-objectivecmis.git,Apache Chemistry ObjectiveCMIS,Git,,JIRA
+Apache,https://github.com/apache/chemistry-opencmis.git,Apache Chemistry OpenCMIS,Git,,JIRA
+Apache,https://github.com/apache/chemistry-phpclient.git,Apache Chemistry PHPClient,Git,,JIRA
+Apache,https://github.com/apache/chukwa.git,Apache Chukwa,Git,,JIRA
+Apache,https://github.com/apache/clerezza.git,Apache Clerezza,Git,,JIRA
+Apache,https://github.com/apache/click.git,Apache Click,Git,,JIRA
+Apache,https://github.com/apache/climate.git,Apache Open Climate Workbench,Git,,JIRA
+Apache,https://github.com/apache/cloudstack-cloudmonkey.git,Apache Cloudstack Cloudmonkey,Git,,JIRA
+Apache,https://github.com/apache/cloudstack.git,Apache Cloudstack,Git,,JIRA
+Apache,https://github.com/apache/cocoon.git,Apache Cocoon,Git,,JIRA
+Apache,https://github.com/apache/commons-attributes.git,Apache Commons Attributes,Git,,JIRA
+Apache,https://github.com/apache/commons-bcel.git,Apache Commons BCEL,Git,,JIRA
+Apache,https://github.com/apache/commons-beanutils.git,Apache Commons Beanutils,Git,,JIRA
+Apache,https://github.com/apache/commons-bsf.git,Apache Commons BSF,Git,,JIRA
+Apache,https://github.com/apache/commons-chain.git,Apache Commons Chain,Git,,JIRA
+Apache,https://github.com/apache/commons-cli.git,Apache Commons CLI,Git,,JIRA
+Apache,https://github.com/apache/commons-codec.git,Apache Commons Codec,Git,,JIRA
+Apache,https://github.com/apache/commons-collections.git,Apache Commons Collections,Git,,JIRA
+Apache,https://github.com/apache/commons-compress.git,Apache Commons Compress,Git,,JIRA
+Apache,https://github.com/apache/commons-configuration.git,Apache Commons Configuration,Git,,JIRA
+Apache,https://github.com/apache/commons-csv.git,Apache Commons CSV,Git,,JIRA
+Apache,https://github.com/apache/commons-daemon.git,Apache Commons Daemon,Git,,JIRA
+Apache,https://github.com/apache/commons-dbcp.git,Apache Commons DBCP,Git,,JIRA
+Apache,https://github.com/apache/commons-dbutils.git,Apache Commons DbUtils,Git,,JIRA
+Apache,https://github.com/apache/commons-digester.git,Apache Commons Digester,Git,,JIRA
+Apache,https://github.com/apache/commons-discovery.git,Apache Commons Discovery,Git,,JIRA
+Apache,https://github.com/apache/commons-el.git,Apache Commons EL,Git,,JIRA
+Apache,https://github.com/apache/commons-email.git,Apache Commons Email,Git,,JIRA
+Apache,https://github.com/apache/commons-exec.git,Apache Commons Exec,Git,,JIRA
+Apache,https://github.com/apache/commons-fileupload.git,Apache Commons FileUpload,Git,,JIRA
+Apache,https://github.com/apache/commons-functor.git,Apache Commons Functor,Git,,JIRA
+Apache,https://github.com/apache/commons-imaging.git,Apache Commons Imaging,Git,,JIRA
+Apache,https://github.com/apache/commons-io.git,Apache Commons IO,Git,,JIRA
+Apache,https://github.com/apache/commons-jci.git,Apache Commons JCI,Git,,JIRA
+Apache,https://github.com/apache/commons-jcs.git,Apache Commons JCS,Git,,JIRA
+Apache,https://github.com/apache/commons-jelly.git,Apache Commons Jelly,Git,,JIRA
+Apache,https://github.com/apache/commons-jexl.git,Apache Commons Jexl,Git,,JIRA
+Apache,https://github.com/apache/commons-jxpath.git,Apache Commons JXPath,Git,,JIRA
+Apache,https://github.com/apache/commons-lang.git,Apache Commons Lang,Git,,JIRA
+Apache,https://github.com/apache/commons-launcher.git,Apache Commons Launcher,Git,,JIRA
+Apache,https://github.com/apache/commons-logging.git,Apache Commons Logging,Git,,JIRA
+Apache,https://github.com/apache/commons-math.git,Apache Commons Math,Git,,JIRA
+Apache,https://github.com/apache/commons-modeler.git,Apache Commons Modeler,Git,,JIRA
+Apache,https://github.com/apache/commons-net.git,Apache Commons Net,Git,,JIRA
+Apache,https://github.com/apache/commons-ognl.git,Apache Commons OGNL,Git,,JIRA
+Apache,https://github.com/apache/commons-pool.git,Apache Commons Pool,Git,,JIRA
+Apache,https://github.com/apache/commons-primitives.git,Apache Commons Primitives,Git,,JIRA
+Apache,https://github.com/apache/commons-proxy.git,Apache Commons Proxy,Git,,JIRA
+Apache,https://github.com/apache/commons-text.git,Apache Commons Text,Git,,JIRA
+Apache,https://github.com/apache/commons-transaction.git,Apache Commons Transaction,Git,,JIRA
+Apache,https://github.com/apache/commons-validator.git,Apache Commons Validator,Git,,JIRA
+Apache,https://github.com/apache/commons-vfs.git,Apache Commons VFS,Git,,JIRA
+Apache,https://github.com/apache/commons-weaver.git,Apache Commons Weaver,Git,,JIRA
+Apache,https://github.com/apache/continuum.git,Apache Continuum,Git,,JIRA
+Apache,https://github.com/apache/cordova-amazon-fireos.git,Apache Cordova,Git,,JIRA
+Apache,https://github.com/apache/cordova-android.git,Apache Cordova Android,Git,,JIRA
+Apache,https://github.com/apache/cordova-bada.git,Apache Cordova bada,Git,,JIRA
+Apache,https://github.com/apache/cordova-ios.git,Apache Cordova iOS,Git,,JIRA
+Apache,https://github.com/apache/cordova-osx.git,Apache Cordova mac,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-camera.git,Apache Cordova Plugin camera,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-contacts.git,Apache Cordova Plugin contacts,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-globalization.git,Apache Cordova Plugin globalization,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-inappbrowser.git,Apache Cordova Plugin inappbrowser,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-legacy-whitelist.git,Apache Cordova plugin legacy whitelist,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-media-capture.git,Apache Cordova Plugin media-capture,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-splashscreen.git,Apache Cordova Plugin splashscreen,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-statusbar.git,Apache Cordova,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-vibration.git,Apache Cordova Plugin vibration,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugin-whitelist.git,Apache Cordova plugin whitelist,Git,,JIRA
+Apache,https://github.com/apache/cordova-plugins.git,Apache Cordova,Git,,JIRA
+Apache,https://github.com/apache/cordova-qt.git,Apache Cordova Qt,Git,,JIRA
+Apache,https://github.com/apache/cordova-ubuntu.git,Apache Cordova,Git,,JIRA
+Apache,https://github.com/apache/cordova-wp7.git,Apache Cordova wp7,Git,,JIRA
+Apache,https://github.com/apache/cordova-wp8.git,Apache Cordova WP8,Git,,JIRA
+Apache,https://github.com/apache/couchdb-b64url.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-couch-collate.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-documentation.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-goldrush.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-jiffy.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-khash.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-query-server-spidermonkey.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-rebar.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-snappy.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb-twig.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/couchdb.git,Apache CouchDB,Git,,JIRA
+Apache,https://github.com/apache/creadur-rat.git,Apache Creadur - RAT,Git,,JIRA
+Apache,https://github.com/apache/creadur-tentacles.git,Apache Tentacles,Git,,JIRA
+Apache,https://github.com/apache/creadur-whisker.git,Apache Whisker,Git,,JIRA
+Apache,https://github.com/apache/crunch.git,Apache Crunch,Git,,JIRA
+Apache,https://github.com/apache/ctakes.git,Apache cTAKES,Git,,JIRA
+Apache,https://github.com/apache/curator.git,Apache Curator,Git,,JIRA
+Apache,https://github.com/apache/cxf-build-utils.git,Apache CXF,Git,,JIRA
+Apache,https://github.com/apache/cxf-dosgi.git,Apache CXF,Git,,JIRA
+Apache,https://github.com/apache/cxf-fediz.git,Apache CXF,Git,,JIRA
+Apache,https://github.com/apache/cxf-xjc-utils.git,Apache CXF,Git,,JIRA
+Apache,https://github.com/apache/cxf.git,Apache CXF,Git,,JIRA
+Apache,https://github.com/apache/ddlutils.git,Apache DB DdlUtils,Git,,JIRA
+Apache,https://github.com/apache/deltacloud.git,Apache DeltaCloud,Git,,JIRA
+Apache,https://github.com/apache/deltaspike.git,Apache Deltaspike,Git,,JIRA
+Apache,https://github.com/apache/derby.git,Apache Derby,Git,,JIRA
+Apache,https://github.com/apache/directmemory-lightning.git,Apache Directmemory - Lightning,Git,,JIRA
+Apache,https://github.com/apache/directmemory.git,Apache DirectMemory,Git,,JIRA
+Apache,https://github.com/apache/directory-clients.git,Apache Directory Clients,Git,,JIRA
+Apache,https://github.com/apache/directory-daemon.git,Apache Directory Daemon,Git,,JIRA
+Apache,https://github.com/apache/directory-installers.git,Apache Directory Installers,Git,,JIRA
+Apache,https://github.com/apache/directory-project.git,Apache Directory Project,Git,,JIRA
+Apache,https://github.com/apache/directory-samples.git,Apache Directory Samples,Git,,JIRA
+Apache,https://github.com/apache/directory-server.git,Apache Directory Server,Git,,JIRA
+Apache,https://github.com/apache/directory-shared.git,Apache Directory Shared,Git,,JIRA
+Apache,https://github.com/apache/directory-studio-plugin.git,Apache Directory Studio Plugin,Git,,JIRA
+Apache,https://github.com/apache/directory-studio.git,Apache Directory Studio,Git,,JIRA
+Apache,https://github.com/apache/dispatch.git,Apache Qpid Dispatch,Git,,JIRA
+Apache,https://github.com/apache/drill.git,Apache Drill (Incubating),Git,,JIRA
+Apache,https://github.com/apache/empire-db.git,Apache Empire-db,Git,,JIRA
+Apache,https://github.com/apache/esme.git,Apache ESME (incubating),Git,,JIRA
+Apache,https://github.com/apache/etch.git,Apache Etch (incubating),Git,,JIRA
+Apache,https://github.com/apache/falcon.git,Apache Falcon,Git,,JIRA
+Apache,https://github.com/apache/felix.git,Apache Felix,Git,,JIRA
+Apache,https://github.com/apache/flex-blazeds.git,Apache Flex BlazeDS,Git,,JIRA
+Apache,https://github.com/apache/flex-external.git,Apache Flex External,Git,,JIRA
+Apache,https://github.com/apache/flex-falcon.git,Apache Flex Falcon,Git,,JIRA
+Apache,https://github.com/apache/flink.git,Apache Flink,Git,,JIRA
+Apache,https://github.com/apache/flood.git,Apache Flood,Git,,JIRA
+Apache,https://github.com/apache/flume.git,Apache Flume,Git,,JIRA
