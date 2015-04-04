@@ -1,529 +1,730 @@
-SourceRepoName,SourceLink,ProjectName,VerControlToolName,BugsTrackerLink,BugsTrackerToolName,
-GitHub,https://github.com/divmain/GitSavvy.git,GitSavvy,Git,https://github.com/divmain/GitSavvy/issues,Git,
-GitHub,https://github.com/CiscoCloud/microservices-infrastructure.git,microservices-infrastructure,Git,https://github.com/CiscoCloud/microservices-infrastructure/issues,Git,
-GitHub,https://github.com/antiboredom/audiogrep.git,audiogrep,Git,https://github.com/antiboredom/audiogrep/issues,Git,
-GitHub,https://github.com/goagent/goagent.git,goagent,Git,https://github.com/goagent/goagent/issues,Git,
-GitHub,https://github.com/vinta/awesome-python.git,awesome-python,Git,https://github.com/vinta/awesome-python/issues,Git,
-GitHub,https://github.com/django/django.git,django,Git,https://github.com/django/django/issues,Git,
-GitHub,https://github.com/lra/mackup.git,mackup,Git,https://github.com/lra/mackup/issues,Git,
-GitHub,https://github.com/ansible/ansible.git,ansible,Git,https://github.com/ansible/ansible/issues,Git,
-GitHub,https://github.com/rg3/youtube-dl.git,youtube-dl,Git,https://github.com/rg3/youtube-dl/issues,Git,
-GitHub,https://github.com/kennethreitz/requests.git,requests,Git,https://github.com/kennethreitz/requests/issues,Git,
-GitHub,https://github.com/ipython/ipython.git,ipython,Git,https://github.com/ipython/ipython/issues,Git,
-GitHub,https://github.com/jupyter/jupyterhub.git,jupyterhub,Git,https://github.com/jupyter/jupyterhub/issues,Git,
-GitHub,https://github.com/PeterDing/iScript.git,iScript,Git,https://github.com/PeterDing/iScript/issues,Git,
-GitHub,https://github.com/nccgroup/autopwn.git,autopwn,Git,https://github.com/nccgroup/autopwn/issues,Git,
-GitHub,https://github.com/tomchristie/django-rest-framework.git,django-rest-framework,Git,https://github.com/tomchristie/django-rest-framework/issues,Git,
-GitHub,https://github.com/datamade/dedupe.git,dedupe,Git,https://github.com/datamade/dedupe/issues,Git,
-GitHub,https://github.com/benschwarz/developers.whatwg.org.git,developers.whatwg.org,Git,https://github.com/benschwarz/developers.whatwg.org/issues,Git,
-GitHub,https://github.com/binux/pyspider.git,pyspider,Git,https://github.com/binux/pyspider/issues,Git,
-GitHub,https://github.com/sdg-mit/gitless.git,gitless,Git,https://github.com/sdg-mit/gitless/issues,Git,
-GitHub,https://github.com/mitsuhiko/flask.git,flask,Git,https://github.com/mitsuhiko/flask/issues,Git,
-GitHub,https://github.com/scikit-image/scikit-image.git,scikit-image,Git,https://github.com/scikit-image/scikit-image/issues,Git,
-GitHub,https://github.com/saltstack/salt.git,salt,Git,https://github.com/saltstack/salt/issues,Git,
-GitHub,https://github.com/docker/compose.git,compose,Git,https://github.com/docker/compose/issues,Git,
-GitHub,https://github.com/Valloric/YouCompleteMe.git,YouCompleteMe,Git,https://github.com/Valloric/YouCompleteMe/issues,Git,
-GitHub,https://github.com/scrapy/scrapy.git,scrapy,Git,https://github.com/scrapy/scrapy/issues,Git,
-GitHub,https://github.com/elasticsearch/elasticsearch.git,elasticsearch,Git,https://github.com/elasticsearch/elasticsearch/issues,Git,
-GitHub,https://github.com/nathanmarz/storm.git,storm,Git,https://github.com/nathanmarz/storm/issues,Git,
-GitHub,https://github.com/nostra13/Android-Universal-Image-Loader.git,Android-Universal-Image-Loader,Git,https://github.com/nostra13/Android-Universal-Image-Loader/issues,Git,
-GitHub,https://github.com/jfeinstein10/SlidingMenu.git,SlidingMenu,Git,https://github.com/jfeinstein10/SlidingMenu/issues,Git,
-GitHub,https://github.com/JakeWharton/ActionBarSherlock.git,ActionBarSherlock,Git,https://github.com/JakeWharton/ActionBarSherlock/issues,Git,
-GitHub,https://github.com/google/iosched.git,iosched,Git,https://github.com/google/iosched/issues,Git,
-GitHub,https://github.com/libgdx/libgdx.git,libgdx,Git,https://github.com/libgdx/libgdx/issues,Git,
-GitHub,https://github.com/github/android.git,android,Git,https://github.com/github/android/issues,Git,
-GitHub,https://github.com/loopj/android-async-http.git,android-async-http,Git,https://github.com/loopj/android-async-http/issues,Git,
-GitHub,https://github.com/square/picasso.git,picasso,Git,https://github.com/square/picasso/issues,Git,
-GitHub,https://github.com/spring-projects/spring-framework.git,spring-framework,Git,https://github.com/spring-projects/spring-framework/issues,Git,
-GitHub,https://github.com/JakeWharton/ViewPagerIndicator.git,ViewPagerIndicator,Git,https://github.com/JakeWharton/ViewPagerIndicator/issues,Git,
-GitHub,https://github.com/ReactiveX/RxJava.git,RxJava,Git,https://github.com/ReactiveX/RxJava/issues,Git,
-GitHub,https://github.com/excilys/androidannotations.git,androidannotations,Git,https://github.com/excilys/androidannotations/issues,Git,
-GitHub,https://github.com/chrisbanes/Android-PullToRefresh.git,Android-PullToRefresh,Git,https://github.com/chrisbanes/Android-PullToRefresh/issues,Git,
-GitHub,https://github.com/square/retrofit.git,retrofit,Git,https://github.com/square/retrofit/issues,Git,
-GitHub,https://github.com/netty/netty.git,netty,Git,https://github.com/netty/netty/issues,Git,
-GitHub,https://github.com/zxing/zxing.git,zxing,Git,https://github.com/zxing/zxing/issues,Git,
-GitHub,https://github.com/clojure/clojure.git,clojure,Git,https://github.com/clojure/clojure/issues,Git,
-GitHub,https://github.com/Bearded-Hen/Android-Bootstrap.git,Android-Bootstrap,Git,https://github.com/Bearded-Hen/Android-Bootstrap/issues,Git,
-GitHub,https://github.com/greenrobot/EventBus.git,EventBus,Git,https://github.com/greenrobot/EventBus/issues,Git,
-GitHub,https://github.com/WhisperSystems/TextSecure.git,TextSecure,Git,https://github.com/WhisperSystems/TextSecure/issues,Git,
-GitHub,https://github.com/square/okhttp.git,okhttp,Git,https://github.com/square/okhttp/issues,Git,
-GitHub,https://github.com/AndroidBootstrap/android-bootstrap.git,android-bootstrap,Git,https://github.com/AndroidBootstrap/android-bootstrap/issues,Git,
-GitHub,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git,FizzBuzzEnterpriseEdition,Git,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues,Git,
-GitHub,https://github.com/eclipse/vert.x.git,vert.x,Git,https://github.com/eclipse/vert.x/issues,Git,
-GitHub,https://github.com/junit-team/junit.git,junit,Git,https://github.com/junit-team/junit/issues,Git,
-GitHub,https://github.com/nhaarman/ListViewAnimations.git,ListViewAnimations,Git,https://github.com/nhaarman/ListViewAnimations/issues,Git,
-GitHub,https://github.com/facebook/facebook-android-sdk.git,facebook-android-sdk,Git,https://github.com/facebook/facebook-android-sdk/issues,Git,
-GitHub,https://github.com/etsy/AndroidStaggeredGrid.git,AndroidStaggeredGrid,Git,https://github.com/etsy/AndroidStaggeredGrid/issues,Git,
-GitHub,https://github.com/sparklemotion/nokogiri.git,nokogiri,Git,https://github.com/sparklemotion/nokogiri/issues,Git,
-GitHub,https://github.com/gabrielemariotti/cardslib.git,cardslib,Git,https://github.com/gabrielemariotti/cardslib/issues,Git,
-GitHub,https://github.com/facebook/presto.git,presto,Git,https://github.com/facebook/presto/issues,Git,
-GitHub,https://github.com/chrisbanes/PhotoView.git,PhotoView,Git,https://github.com/chrisbanes/PhotoView/issues,Git,
-GitHub,https://github.com/JakeWharton/butterknife.git,butterknife,Git,https://github.com/JakeWharton/butterknife/issues,Git,
-GitHub,https://github.com/square/dagger.git,dagger,Git,https://github.com/square/dagger/issues,Git,
-GitHub,https://github.com/iluwatar/java-design-patterns.git,java-design-patterns,Git,https://github.com/iluwatar/java-design-patterns/issues,Git,
-GitHub,https://github.com/astuetz/PagerSlidingTabStrip.git,PagerSlidingTabStrip,Git,https://github.com/astuetz/PagerSlidingTabStrip/issues,Git,
-GitHub,https://github.com/Netflix/Hystrix.git,Hystrix,Git,https://github.com/Netflix/Hystrix/issues,Git,
-GitHub,https://github.com/aporter/coursera-android.git,coursera-android,Git,https://github.com/aporter/coursera-android/issues,Git,
-GitHub,https://github.com/futurice/android-best-practices.git,android-best-practices,Git,https://github.com/futurice/android-best-practices/issues,Git,
-GitHub,https://github.com/OpenRefine/OpenRefine.git,OpenRefine,Git,https://github.com/OpenRefine/OpenRefine/issues,Git,
-GitHub,https://github.com/thinkaurelius/titan.git,titan,Git,https://github.com/thinkaurelius/titan/issues,Git,
-GitHub,https://github.com/Netflix/SimianArmy.git,SimianArmy,Git,https://github.com/Netflix/SimianArmy/issues,Git,
-GitHub,https://github.com/google/j2objc.git,j2objc,Git,https://github.com/google/j2objc/issues,Git,
-GitHub,https://github.com/emilsjolander/StickyListHeaders.git,StickyListHeaders,Git,https://github.com/emilsjolander/StickyListHeaders/issues,Git,
-GitHub,https://github.com/cyrilmottier/GreenDroid.git,GreenDroid,Git,https://github.com/cyrilmottier/GreenDroid/issues,Git,
-GitHub,https://github.com/nicolasgramlich/AndEngine.git,AndEngine,Git,https://github.com/nicolasgramlich/AndEngine/issues,Git,
-GitHub,https://github.com/daimajia/AndroidSwipeLayout.git,AndroidSwipeLayout,Git,https://github.com/daimajia/AndroidSwipeLayout/issues,Git,
-GitHub,https://github.com/nwjs/nw.js.git,nw.js,Git,https://github.com/nwjs/nw.js/issues,Git,
-GitHub,https://github.com/ariya/phantomjs.git,phantomjs,Git,https://github.com/ariya/phantomjs/issues,Git,
-GitHub,https://github.com/facebook/hhvm.git,hhvm,Git,https://github.com/facebook/hhvm/issues,Git,
-GitHub,https://github.com/textmate/textmate.git,textmate,Git,https://github.com/textmate/textmate/issues,Git,
-GitHub,https://github.com/rethinkdb/rethinkdb.git,rethinkdb,Git,https://github.com/rethinkdb/rethinkdb/issues,Git,
-GitHub,https://github.com/mongodb/mongo.git,mongo,Git,https://github.com/mongodb/mongo/issues,Git,
-GitHub,https://github.com/bitcoin/bitcoin.git,bitcoin,Git,https://github.com/bitcoin/bitcoin/issues,Git,
-GitHub,https://github.com/atom/atom-shell.git,atom-shell,Git,https://github.com/atom/atom-shell/issues,Git,
-GitHub,https://github.com/cocos2d/cocos2d-x.git,cocos2d-x,Git,https://github.com/cocos2d/cocos2d-x/issues,Git,
-GitHub,https://github.com/Itseez/opencv.git,opencv,Git,https://github.com/Itseez/opencv/issues,Git,
-GitHub,https://github.com/paulasmuth/fnordmetric.git,fnordmetric,Git,https://github.com/paulasmuth/fnordmetric/issues,Git,
-GitHub,https://github.com/facebook/folly.git,folly,Git,https://github.com/facebook/folly/issues,Git,
-GitHub,https://github.com/keithw/mosh.git,mosh,Git,https://github.com/keithw/mosh/issues,Git,
-GitHub,https://github.com/dotnet/coreclr.git,coreclr,Git,https://github.com/dotnet/coreclr/issues,Git,
-GitHub,https://github.com/xbmc/xbmc.git,xbmc,Git,https://github.com/xbmc/xbmc/issues,Git,
-GitHub,https://github.com/facebook/osquery.git,osquery,Git,https://github.com/facebook/osquery/issues,Git,
-GitHub,https://github.com/coolwanglu/pdf2htmlEX.git,pdf2htmlEX,Git,https://github.com/coolwanglu/pdf2htmlEX/issues,Git,
-GitHub,https://github.com/bliker/cmder.git,cmder,Git,https://github.com/bliker/cmder/issues,Git,
-GitHub,https://github.com/TTimo/doom3.gpl.git,doom3.gpl,Git,https://github.com/TTimo/doom3.gpl/issues,Git,
-GitHub,https://github.com/facebook/rocksdb.git,rocksdb,Git,https://github.com/facebook/rocksdb/issues,Git,
-GitHub,https://github.com/msgpack/msgpack.git,msgpack,Git,https://github.com/msgpack/msgpack/issues,Git,
-GitHub,https://github.com/sass/libsass.git,libsass,Git,https://github.com/sass/libsass/issues,Git,
-GitHub,https://github.com/google/protobuf.git,protobuf,Git,https://github.com/google/protobuf/issues,Git,
-GitHub,https://github.com/JohnLangford/vowpal_wabbit.git,vowpal_wabbit,Git,https://github.com/JohnLangford/vowpal_wabbit/issues,Git,
-GitHub,https://github.com/ivansafrin/Polycode.git,Polycode,Git,https://github.com/ivansafrin/Polycode/issues,Git,
-GitHub,https://github.com/haoel/leetcode.git,leetcode,Git,https://github.com/haoel/leetcode/issues,Git,
-GitHub,https://github.com/mangos/MaNGOS.git,MaNGOS,Git,https://github.com/mangos/MaNGOS/issues,Git,
-GitHub,https://github.com/LaurentGomila/SFML.git,SFML,Git,https://github.com/LaurentGomila/SFML/issues,Git,
-GitHub,https://github.com/GarageGames/Torque3D.git,Torque3D,Git,https://github.com/GarageGames/Torque3D/issues,Git,
-GitHub,https://github.com/google/liquidfun.git,liquidfun,Git,https://github.com/google/liquidfun/issues,Git,
-GitHub,https://github.com/sandstorm-io/capnproto.git,capnproto,Git,https://github.com/sandstorm-io/capnproto/issues,Git,
-GitHub,https://github.com/v8/v8.git,v8,Git,https://github.com/v8/v8/issues,Git,
-GitHub,https://github.com/pagespeed/ngx_pagespeed.git,ngx_pagespeed,Git,https://github.com/pagespeed/ngx_pagespeed/issues,Git,
-GitHub,https://github.com/google/flatbuffers.git,flatbuffers,Git,https://github.com/google/flatbuffers/issues,Git,
-GitHub,https://github.com/paralect/robomongo.git,robomongo,Git,https://github.com/paralect/robomongo/issues,Git,
-GitHub,https://github.com/zealdocs/zeal.git,zeal,Git,https://github.com/zealdocs/zeal/issues,Git,
-GitHub,https://github.com/sandstorm-io/sandstorm.git,sandstorm,Git,https://github.com/sandstorm-io/sandstorm/issues,Git,
-GitHub,https://github.com/ideawu/ssdb.git,ssdb,Git,https://github.com/ideawu/ssdb/issues,Git,
-GitHub,https://github.com/Automattic/node-canvas.git,node-canvas,Git,https://github.com/Automattic/node-canvas/issues,Git,
-GitHub,https://github.com/breach/thrust.git,thrust,Git,https://github.com/breach/thrust/issues,Git,
-GitHub,https://github.com/tjanczuk/edge.git,edge,Git,https://github.com/tjanczuk/edge/issues,Git,
-GitHub,https://github.com/codebutler/firesheep.git,firesheep,Git,https://github.com/codebutler/firesheep/issues,Git,
-GitHub,https://github.com/zeromq/libzmq.git,libzmq,Git,https://github.com/zeromq/libzmq/issues,Git,
-GitHub,https://github.com/philsquared/Catch.git,Catch,Git,https://github.com/philsquared/Catch/issues,Git,
-GitHub,https://github.com/ValveSoftware/ToGL.git,ToGL,Git,https://github.com/ValveSoftware/ToGL/issues,Git,
-GitHub,https://github.com/id-Software/DOOM-3-BFG.git,DOOM-3-BFG,Git,https://github.com/id-Software/DOOM-3-BFG/issues,Git,
-GitHub,https://github.com/google/leveldb.git,leveldb,Git,https://github.com/google/leveldb/issues,Git,
-GitHub,https://github.com/antimatter15/ocrad.js.git,ocrad.js,Git,https://github.com/antimatter15/ocrad.js/issues,Git,
-GitHub,https://github.com/trevorlinton/webkit.js.git,webkit.js,Git,https://github.com/trevorlinton/webkit.js/issues,Git,
-GitHub,https://github.com/hrydgard/ppsspp.git,ppsspp,Git,https://github.com/hrydgard/ppsspp/issues,Git,
-GitHub,https://github.com/torvalds/linux.git,linux,Git,https://github.com/torvalds/linux/issues,Git,
-GitHub,https://github.com/antirez/redis.git,redis,Git,https://github.com/antirez/redis/issues,Git,
-GitHub,https://github.com/git/git.git,git,Git,https://github.com/git/git/issues,Git,
-GitHub,https://github.com/kripken/emscripten.git,emscripten,Git,https://github.com/kripken/emscripten/issues,Git,
-GitHub,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System.git,How-to-Make-a-Computer-Operating-System,Git,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues,Git,
-GitHub,https://github.com/irungentoo/toxcore.git,toxcore,Git,https://github.com/irungentoo/toxcore/issues,Git,
-GitHub,https://github.com/julycoding/The-Art-Of-Programming-By-July.git,The-Art-Of-Programming-By-July,Git,https://github.com/julycoding/The-Art-Of-Programming-By-July/issues,Git,
-GitHub,https://github.com/php/php-src.git,php-src,Git,https://github.com/php/php-src/issues,Git,
-GitHub,https://github.com/ggreer/the_silver_searcher.git,the_silver_searcher,Git,https://github.com/ggreer/the_silver_searcher/issues,Git,
-GitHub,https://github.com/scikit-learn/scikit-learn.git,scikit-learn,Git,https://github.com/scikit-learn/scikit-learn/issues,Git,
-GitHub,https://github.com/memcached/memcached.git,memcached,Git,https://github.com/memcached/memcached/issues,Git,
-GitHub,https://github.com/openframeworks/openFrameworks.git,openFrameworks,Git,https://github.com/openframeworks/openFrameworks/issues,Git,
-GitHub,https://github.com/matz/streem.git,streem,Git,https://github.com/matz/streem/issues,Git,
-GitHub,https://github.com/coolwanglu/vim.js.git,vim.js,Git,https://github.com/coolwanglu/vim.js/issues,Git,
-GitHub,https://github.com/robertdavidgraham/masscan.git,masscan,Git,https://github.com/robertdavidgraham/masscan/issues,Git,
-GitHub,https://github.com/mozilla/firefox-ios.git,firefox-ios,Git,https://github.com/mozilla/firefox-ios/issues,Git,
-GitHub,https://github.com/mruby/mruby.git,mruby,Git,https://github.com/mruby/mruby/issues,Git,
-GitHub,https://github.com/fogleman/Craft.git,Craft,Git,https://github.com/fogleman/Craft/issues,Git,
-GitHub,https://github.com/h2o/h2o.git,h2o,Git,https://github.com/h2o/h2o/issues,Git,
-GitHub,https://github.com/haiwen/seafile.git,seafile,Git,https://github.com/haiwen/seafile/issues,Git,
-GitHub,https://github.com/vmg/redcarpet.git,redcarpet,Git,https://github.com/vmg/redcarpet/issues,Git,
-GitHub,https://github.com/fastos/fastsocket.git,fastsocket,Git,https://github.com/fastos/fastsocket/issues,Git,
-GitHub,https://github.com/alibaba/tengine.git,tengine,Git,https://github.com/alibaba/tengine/issues,Git,
-GitHub,https://github.com/orangeduck/libCello.git,libCello,Git,https://github.com/orangeduck/libCello/issues,Git,
-GitHub,https://github.com/lpereira/lwan.git,lwan,Git,https://github.com/lpereira/lwan/issues,Git,
-GitHub,https://github.com/kr/beanstalkd.git,beanstalkd,Git,https://github.com/kr/beanstalkd/issues,Git,
-GitHub,https://github.com/draios/sysdig.git,sysdig,Git,https://github.com/draios/sysdig/issues,Git,
-GitHub,https://github.com/facebook/watchman.git,watchman,Git,https://github.com/facebook/watchman/issues,Git,
-GitHub,https://github.com/Xfennec/cv.git,cv,Git,https://github.com/Xfennec/cv/issues,Git,
-GitHub,https://github.com/cloudwu/skynet.git,skynet,Git,https://github.com/cloudwu/skynet/issues,Git,
-GitHub,https://github.com/cinder/Cinder.git,Cinder,Git,https://github.com/cinder/Cinder/issues,Git,
-GitHub,https://github.com/grpc/grpc.git,grpc,Git,https://github.com/grpc/grpc/issues,Git,
-GitHub,https://github.com/jonas/tig.git,tig,Git,https://github.com/jonas/tig/issues,Git,
-GitHub,https://github.com/sparkle-project/Sparkle.git,Sparkle,Git,https://github.com/sparkle-project/Sparkle/issues,Git,
-GitHub,https://github.com/numpy/numpy.git,numpy,Git,https://github.com/numpy/numpy/issues,Git,
-GitHub,https://github.com/nanomsg/nanomsg.git,nanomsg,Git,https://github.com/nanomsg/nanomsg/issues,Git,
-GitHub,https://github.com/laverdet/node-fibers.git,node-fibers,Git,https://github.com/laverdet/node-fibers/issues,Git,
-GitHub,https://github.com/FFmpeg/FFmpeg.git,FFmpeg,Git,https://github.com/FFmpeg/FFmpeg/issues,Git,
-GitHub,https://github.com/SoftEtherVPN/SoftEtherVPN.git,SoftEtherVPN,Git,https://github.com/SoftEtherVPN/SoftEtherVPN/issues,Git,
-GitHub,https://github.com/cesanta/mongoose.git,mongoose,Git,https://github.com/cesanta/mongoose/issues,Git,
-GitHub,https://github.com/DuXiaoXing/Camera.git,Camera,Git,https://github.com/DuXiaoXing/Camera/issues,Git,
-GitHub,https://github.com/haoyuexing/DoNotTapTheWhiteTile.git,DoNotTapTheWhiteTile,Git,https://github.com/haoyuexing/DoNotTapTheWhiteTile/issues,Git,
-GitHub,https://github.com/yyny1789/LMObjSerialization.git,LMObjSerialization,Git,https://github.com/yyny1789/LMObjSerialization/issues,Git,
-GitHub,https://github.com/Thinkful-Ed/Instagram-Search-by-Hashtag.git,Instagram-Search-by-Hashtag,Git,https://github.com/Thinkful-Ed/Instagram-Search-by-Hashtag/issues,Git,
-GitHub,https://github.com/sarah-j-smith/Cocos2DInSwift.git,Cocos2DInSwift,Git,https://github.com/sarah-j-smith/Cocos2DInSwift/issues,Git,
-GitHub,https://github.com/dgon-jd/JDSplitViewController.git,JDSplitViewController,Git,https://github.com/dgon-jd/JDSplitViewController/issues,Git,
-GitHub,https://github.com/kivlara/iOSOpenDev-root-app.git,iOSOpenDev-root-app,Git,https://github.com/kivlara/iOSOpenDev-root-app/issues,Git,
-GitHub,https://github.com/Rannie/HRTableCollectionBindingHelper.git,HRTableCollectionBindingHelper,Git,https://github.com/Rannie/HRTableCollectionBindingHelper/issues,Git,
-GitHub,https://github.com/kevindelord/UIImage-Autoresize.git,UIImage-Autoresize,Git,https://github.com/kevindelord/UIImage-Autoresize/issues,Git,
-GitHub,https://github.com/shinrenpan/Script-Monkey.git,Script-Monkey,Git,https://github.com/shinrenpan/Script-Monkey/issues,Git,
-GitHub,https://github.com/Airmail/Mailchimp-AMPlug.git,Mailchimp-AMPlug,Git,https://github.com/Airmail/Mailchimp-AMPlug/issues,Git,
-GitHub,https://github.com/udayasri/fraud-video-analyzer.git,fraud-video-analyzer,Git,https://github.com/udayasri/fraud-video-analyzer/issues,Git,
-GitHub,https://github.com/lihei12345/KPController.git,KPController,Git,https://github.com/lihei12345/KPController/issues,Git,
-GitHub,https://github.com/07cs07/Ottran.git,Ottran,Git,https://github.com/07cs07/Ottran/issues,Git,
-GitHub,https://github.com/sapanbhuta/HackWatch.git,HackWatch,Git,https://github.com/sapanbhuta/HackWatch/issues,Git,
-GitHub,https://github.com/phillipou94/PhillipOuFashionProject.git,PhillipOuFashionProject,Git,https://github.com/phillipou94/PhillipOuFashionProject/issues,Git,
-GitHub,https://github.com/jdkizer9/WeAreHere.git,WeAreHere,Git,https://github.com/jdkizer9/WeAreHere/issues,Git,
-GitHub,https://github.com/paulw11/BTBackground.git,BTBackground,Git,https://github.com/paulw11/BTBackground/issues,Git,
-GitHub,https://github.com/lintmachine/LMCircularScrollingFlowLayout.git,LMCircularScrollingFlowLayout,Git,https://github.com/lintmachine/LMCircularScrollingFlowLayout/issues,Git,
-GitHub,https://github.com/iosweekend-samples/AdaptAppFor6.git,AdaptAppFor6,Git,https://github.com/iosweekend-samples/AdaptAppFor6/issues,Git,
-GitHub,https://github.com/imanzarrabian/Formation.git,Formation,Git,https://github.com/imanzarrabian/Formation/issues,Git,
-GitHub,https://github.com/viezel/NappWaveformView.git,NappWaveformView,Git,https://github.com/viezel/NappWaveformView/issues,Git,
-GitHub,https://github.com/niw/safari_hack.git,safari_hack,Git,https://github.com/niw/safari_hack/issues,Git,
-GitHub,https://github.com/rad3ks/RSZInAppNotifications.git,RSZInAppNotifications,Git,https://github.com/rad3ks/RSZInAppNotifications/issues,Git,
-GitHub,https://github.com/lzbob/TestRailiOSClient.git,TestRailiOSClient,Git,https://github.com/lzbob/TestRailiOSClient/issues,Git,
-GitHub,https://github.com/edwinbosire/Tinder-Hack-Client.git,Tinder-Hack-Client,Git,https://github.com/edwinbosire/Tinder-Hack-Client/issues,Git,
-GitHub,https://github.com/kpham13/SwapMeet.git,SwapMeet,Git,https://github.com/kpham13/SwapMeet/issues,Git,
-GitHub,https://github.com/ziyuanliu/nyzr.git,nyzr,Git,https://github.com/ziyuanliu/nyzr/issues,Git,
-GitHub,https://github.com/wuyuedefeng/NSDictionary-Model-Interconversion.git,NSDictionary-Model-Interconversion,Git,https://github.com/wuyuedefeng/NSDictionary-Model-Interconversion/issues,Git,
-GitHub,https://github.com/mrdrozdov/SlideInView.git,SlideInView,Git,https://github.com/mrdrozdov/SlideInView/issues,Git,
-GitHub,https://github.com/bczhang/jaeger-iOS-iPad.git,jaeger-iOS-iPad,Git,https://github.com/bczhang/jaeger-iOS-iPad/issues,Git,
-GitHub,https://github.com/afbrandt/ABConnectivity.git,ABConnectivity,Git,https://github.com/afbrandt/ABConnectivity/issues,Git,
-GitHub,https://github.com/YixiangChen/EHomeEducationApp.git,EHomeEducationApp,Git,https://github.com/YixiangChen/EHomeEducationApp/issues,Git,
-GitHub,https://github.com/YilmazGursoy/StickHeroCloneGame.git,StickHeroCloneGame,Git,https://github.com/YilmazGursoy/StickHeroCloneGame/issues,Git,
-GitHub,https://github.com/PFei-He/PFTableViewCell-Static_Library.git,PFTableViewCell-Static_Library,Git,https://github.com/PFei-He/PFTableViewCell-Static_Library/issues,Git,
-GitHub,https://github.com/onevcat/LandscapeViewControllerDemo.git,LandscapeViewControllerDemo,Git,https://github.com/onevcat/LandscapeViewControllerDemo/issues,Git,
-GitHub,https://github.com/fuermosi777/xunwei-ios-app.git,xunwei-ios-app,Git,https://github.com/fuermosi777/xunwei-ios-app/issues,Git,
-GitHub,https://github.com/boredzo/Parallel-copy-and-verify.git,Parallel-copy-and-verify,Git,https://github.com/boredzo/Parallel-copy-and-verify/issues,Git,
-GitHub,https://github.com/gerryisaac/iPhone-CTA-Bus-Tracker-App.git,iPhone-CTA-Bus-Tracker-App,Git,https://github.com/gerryisaac/iPhone-CTA-Bus-Tracker-App/issues,Git,
-GitHub,https://github.com/davidchiles/XMPPCapabilities.git,XMPPCapabilities,Git,https://github.com/davidchiles/XMPPCapabilities/issues,Git,
-GitHub,https://github.com/domuro/Blueberry.git,Blueberry,Git,https://github.com/domuro/Blueberry/issues,Git,
-GitHub,https://github.com/kunzmainali/ColorCognition.git,ColorCognition,Git,https://github.com/kunzmainali/ColorCognition/issues,Git,
-GitHub,https://github.com/oscii/OS-X-Display-Arrangement-Saver.git,OS-X-Display-Arrangement-Saver,Git,https://github.com/oscii/OS-X-Display-Arrangement-Saver/issues,Git,
-GitHub,https://github.com/mootjeuh/Prettier-Banners.git,Prettier-Banners,Git,https://github.com/mootjeuh/Prettier-Banners/issues,Git,
-GitHub,https://github.com/pm-ping/objc-openidconnect-library.git,objc-openidconnect-library,Git,https://github.com/pm-ping/objc-openidconnect-library/issues,Git,
-GitHub,https://github.com/tjwudi/Assetee.git,Assetee,Git,https://github.com/tjwudi/Assetee/issues,Git,
-GitHub,https://github.com/mikeooye/BPLoadingMoreControl.git,BPLoadingMoreControl,Git,https://github.com/mikeooye/BPLoadingMoreControl/issues,Git,
-GitHub,https://github.com/shiweifu/SFTagView.git,SFTagView,Git,https://github.com/shiweifu/SFTagView/issues,Git,
-GitHub,https://github.com/ayatr/AYTAlert.git,AYTAlert,Git,https://github.com/ayatr/AYTAlert/issues,Git,
-GitHub,https://github.com/hyperoslo/HYPPopoverBackgroundView.git,HYPPopoverBackgroundView,Git,https://github.com/hyperoslo/HYPPopoverBackgroundView/issues,Git,
-GitHub,https://github.com/zeasy/XCodeUnusedImageClear.git,XCodeUnusedImageClear,Git,https://github.com/zeasy/XCodeUnusedImageClear/issues,Git,
-GitHub,https://github.com/impekable/starbucks-watchkit.git,starbucks-watchkit,Git,https://github.com/impekable/starbucks-watchkit/issues,Git,
-GitHub,https://github.com/istepanov/ISAlertView.git,ISAlertView,Git,https://github.com/istepanov/ISAlertView/issues,Git,
-GitHub,https://github.com/leonardoobaptistaa/FeedbackMe.git,FeedbackMe,Git,https://github.com/leonardoobaptistaa/FeedbackMe/issues,Git,
-GitHub,https://github.com/dougdiego/DDLicenseViewController.git,DDLicenseViewController,Git,https://github.com/dougdiego/DDLicenseViewController/issues,Git,
-GitHub,https://github.com/glekli/InstaLogin.git,InstaLogin,Git,https://github.com/glekli/InstaLogin/issues,Git,
-GitHub,https://github.com/kcwdevllc/ios-background-downloader.git,ios-background-downloader,Git,https://github.com/kcwdevllc/ios-background-downloader/issues,Git,
-GitHub,https://github.com/kaiinui/PushablePusher.git,PushablePusher,Git,https://github.com/kaiinui/PushablePusher/issues,Git,
-GitHub,https://github.com/erparker/iOSAbstractClasses.git,iOSAbstractClasses,Git,https://github.com/erparker/iOSAbstractClasses/issues,Git,
-GitHub,https://github.com/HubSpot/BidHub-iOS.git,BidHub-iOS,Git,https://github.com/HubSpot/BidHub-iOS/issues,Git,
-GitHub,https://github.com/exmex/HS_Multilang.git,HS_Multilang,Git,https://github.com/exmex/HS_Multilang/issues,Git,
-GitHub,https://github.com/julesjacobs/ImmutableCollections.git,ImmutableCollections,Git,https://github.com/julesjacobs/ImmutableCollections/issues,Git,
-GitHub,https://github.com/isabgol/QuickInject.git,QuickInject,Git,https://github.com/isabgol/QuickInject/issues,Git,
-GitHub,https://github.com/BadriL/HawkASP.NETvNext.git,HawkASP.NETvNext,Git,https://github.com/BadriL/HawkASP.NETvNext/issues,Git,
-GitHub,https://github.com/wit-ai/wit-windowsphone-sdk.git,wit-windowsphone-sdk,Git,https://github.com/wit-ai/wit-windowsphone-sdk/issues,Git,
-GitHub,https://github.com/kenamarit/flappydano.git,flappydano,Git,https://github.com/kenamarit/flappydano/issues,Git,
-GitHub,https://github.com/kreatived/TheWire.git,TheWire,Git,https://github.com/kreatived/TheWire/issues,Git,
-GitHub,https://github.com/bgorven/discouser.git,discouser,Git,https://github.com/bgorven/discouser/issues,Git,
-GitHub,https://github.com/kalkie/Mosaic-WP.git,Mosaic-WP,Git,https://github.com/kalkie/Mosaic-WP/issues,Git,
-GitHub,https://github.com/dannycabrera/SimpleBackgroundUpload.git,SimpleBackgroundUpload,Git,https://github.com/dannycabrera/SimpleBackgroundUpload/issues,Git,
-GitHub,https://github.com/mikecann/Unity-Ash.git,Unity-Ash,Git,https://github.com/mikecann/Unity-Ash/issues,Git,
-GitHub,https://github.com/CISY267RVCC/RVShuttles.git,RVShuttles,Git,https://github.com/CISY267RVCC/RVShuttles/issues,Git,
-GitHub,https://github.com/JrPD/Kodisoft.git,Kodisoft,Git,https://github.com/JrPD/Kodisoft/issues,Git,
-GitHub,https://github.com/vikas0380/linconnect-windows.git,linconnect-windows,Git,https://github.com/vikas0380/linconnect-windows/issues,Git,
-GitHub,https://github.com/cicorias/dockerMvcSample.git,dockerMvcSample,Git,https://github.com/cicorias/dockerMvcSample/issues,Git,
-GitHub,https://github.com/CalinLeafshade/Thetis.git,Thetis,Git,https://github.com/CalinLeafshade/Thetis/issues,Git,
-GitHub,https://github.com/vernepung/StatusBarSample.git,StatusBarSample,Git,https://github.com/vernepung/StatusBarSample/issues,Git,
-GitHub,https://github.com/KarlaDiaz/MeHazVisto.git,MeHazVisto,Git,https://github.com/KarlaDiaz/MeHazVisto/issues,Git,
-GitHub,https://github.com/MediaBrowser/MediaBrowser.Naming.git,MediaBrowser.Naming,Git,https://github.com/MediaBrowser/MediaBrowser.Naming/issues,Git,
-GitHub,https://github.com/Superfranci99/NDS-FileFormatParser.git,NDS-FileFormatParser,Git,https://github.com/Superfranci99/NDS-FileFormatParser/issues,Git,
-GitHub,https://github.com/Orkuncakilkaya/MonoPad.git,MonoPad,Git,https://github.com/Orkuncakilkaya/MonoPad/issues,Git,
-GitHub,https://github.com/Boyko-Karadzhov/Dynamic-Libraries.git,Dynamic-Libraries,Git,https://github.com/Boyko-Karadzhov/Dynamic-Libraries/issues,Git,
-GitHub,https://github.com/emilebosch/osx-traykit.git,osx-traykit,Git,https://github.com/emilebosch/osx-traykit/issues,Git,
-GitHub,https://github.com/vasiliygit/nfiletorage.git,nfiletorage,Git,https://github.com/vasiliygit/nfiletorage/issues,Git,
-GitHub,https://github.com/hl2mukkel/TF2ProfileManager.git,TF2ProfileManager,Git,https://github.com/hl2mukkel/TF2ProfileManager/issues,Git,
-GitHub,https://github.com/JOxBERGER/VVVV-REST.git,VVVV-REST,Git,https://github.com/JOxBERGER/VVVV-REST/issues,Git,
-GitHub,https://github.com/octo-code/obj-unity3d.git,obj-unity3d,Git,https://github.com/octo-code/obj-unity3d/issues,Git,
-GitHub,https://github.com/hodispk/LaboratorFP.git,LaboratorFP,Git,https://github.com/hodispk/LaboratorFP/issues,Git,
-GitHub,https://github.com/tim427/minorproject.git,minorproject,Git,https://github.com/tim427/minorproject/issues,Git,
-GitHub,https://github.com/asizikov/mr-eric.git,mr-eric,Git,https://github.com/asizikov/mr-eric/issues,Git,
-GitHub,https://github.com/tomasr/roslyn-colorizer.git,roslyn-colorizer,Git,https://github.com/tomasr/roslyn-colorizer/issues,Git,
-GitHub,https://github.com/NashXam/i-made-a-game-with-cocossharp.git,i-made-a-game-with-cocossharp,Git,https://github.com/NashXam/i-made-a-game-with-cocossharp/issues,Git,
-GitHub,https://github.com/james-world/owinmultihosting.git,owinmultihosting,Git,https://github.com/james-world/owinmultihosting/issues,Git,
-GitHub,https://github.com/GeorgeHahn/SOVND.git,SOVND,Git,https://github.com/GeorgeHahn/SOVND/issues,Git,
-GitHub,https://github.com/Tso-Battleship/A2014-Battleship.git,A2014-Battleship,Git,https://github.com/Tso-Battleship/A2014-Battleship/issues,Git,
-GitHub,https://github.com/654955321/Ergou.git,Ergou,Git,https://github.com/654955321/Ergou/issues,Git,
-GitHub,https://github.com/benderbot/Lexerator.git,Lexerator,Git,https://github.com/benderbot/Lexerator/issues,Git,
-GitHub,https://github.com/tomazk8/TmStorage.git,TmStorage,Git,https://github.com/tomazk8/TmStorage/issues,Git,
-GitHub,https://github.com/AllEmpty/RapidSolution.git,RapidSolution,Git,https://github.com/AllEmpty/RapidSolution/issues,Git,
-GitHub,https://github.com/achlubek/gta-iv-multiplayer.git,gta-iv-multiplayer,Git,https://github.com/achlubek/gta-iv-multiplayer/issues,Git,
-GitHub,https://github.com/Deneby67/HelloWorld_BSDLicense.git,HelloWorld_BSDLicense,Git,https://github.com/Deneby67/HelloWorld_BSDLicense/issues,Git,
-GitHub,https://github.com/DevinWatson/SteamStreamingLibrary.git,SteamStreamingLibrary,Git,https://github.com/DevinWatson/SteamStreamingLibrary/issues,Git,
-GitHub,https://github.com/tyranid/ExploitRemotingService.git,ExploitRemotingService,Git,https://github.com/tyranid/ExploitRemotingService/issues,Git,
-GitHub,https://github.com/DotNetAnalyzers/VarUsageAnalyzer.git,VarUsageAnalyzer,Git,https://github.com/DotNetAnalyzers/VarUsageAnalyzer/issues,Git,
-GitHub,https://github.com/Statens-maritima-museer/MeanWhile.git,MeanWhile,Git,https://github.com/Statens-maritima-museer/MeanWhile/issues,Git,
-GitHub,https://github.com/mszcool/AzureBatchTesseractSample.git,AzureBatchTesseractSample,Git,https://github.com/mszcool/AzureBatchTesseractSample/issues,Git,
-GitHub,https://github.com/roman-yagodin/DotNetNuke.R7.git,DotNetNuke.R7,Git,https://github.com/roman-yagodin/DotNetNuke.R7/issues,Git,
-GitHub,https://github.com/Intelliplan/auth.poc.git,auth.poc,Git,https://github.com/Intelliplan/auth.poc/issues,Git,
-GitHub,https://github.com/tkowalczyk/SimpleCustomGestureFrame.git,SimpleCustomGestureFrame,Git,https://github.com/tkowalczyk/SimpleCustomGestureFrame/issues,Git,
-GitHub,https://github.com/KarnSaheb/3PanelLayout_WP8.1RT.git,3PanelLayout_WP8.1RT,Git,https://github.com/KarnSaheb/3PanelLayout_WP8.1RT/issues,Git,
-GitHub,https://github.com/algesten/fnug.git,fnug,Git,https://github.com/algesten/fnug/issues,Git,
-GitHub,https://github.com/thelineva/tilitin.git,tilitin,Git,https://github.com/thelineva/tilitin/issues,Git,
-GitHub,https://github.com/scottagarman/Reach-Widget.git,Reach-Widget,Git,https://github.com/scottagarman/Reach-Widget/issues,Git,
-GitHub,https://github.com/rollingthunder/PacManAdvanced.git,PacManAdvanced,Git,https://github.com/rollingthunder/PacManAdvanced/issues,Git,
-GitHub,https://github.com/Getzmd02/Encrypt.git,Encrypt,Git,https://github.com/Getzmd02/Encrypt/issues,Git,
-GitHub,https://github.com/cmoulliard/camel-osgi-tutorial.git,camel-osgi-tutorial,Git,https://github.com/cmoulliard/camel-osgi-tutorial/issues,Git,
-GitHub,https://github.com/marvinlemos/olamundoweb.git,olamundoweb,Git,https://github.com/marvinlemos/olamundoweb/issues,Git,
-GitHub,https://github.com/markfh/JUnit_in_Fh.git,JUnit_in_Fh,Git,https://github.com/markfh/JUnit_in_Fh/issues,Git,
-GitHub,https://github.com/armed/play-twig.git,play-twig,Git,https://github.com/armed/play-twig/issues,Git,
-GitHub,https://github.com/NicolasR/CAR.git,CAR,Git,https://github.com/NicolasR/CAR/issues,Git,
-GitHub,https://github.com/datariot/alert4j.git,alert4j,Git,https://github.com/datariot/alert4j/issues,Git,
-GitHub,https://github.com/tim-group/fluentjavaparser.git,fluentjavaparser,Git,https://github.com/tim-group/fluentjavaparser/issues,Git,
-GitHub,https://github.com/jasonadamyoung/arduino-projects.git,arduino-projects,Git,https://github.com/jasonadamyoung/arduino-projects/issues,Git,
-GitHub,https://github.com/molindo/molindo-wicket-utils.git,molindo-wicket-utils,Git,https://github.com/molindo/molindo-wicket-utils/issues,Git,
-GitHub,https://github.com/cescoffier/KF---HTPP.git,KF---HTPP,Git,https://github.com/cescoffier/KF---HTPP/issues,Git,
-GitHub,https://github.com/codebits172/O-Arduino---meo..git,O-Arduino---meo.,Git,https://github.com/codebits172/O-Arduino---meo./issues,Git,
-GitHub,https://github.com/holm/CrunchBaseAPI.git,CrunchBaseAPI,Git,https://github.com/holm/CrunchBaseAPI/issues,Git,
-GitHub,https://github.com/cameroncan/cachemanifest-maven-plugin.git,cachemanifest-maven-plugin,Git,https://github.com/cameroncan/cachemanifest-maven-plugin/issues,Git,
-GitHub,https://github.com/Phantom784/IST311-Solitaire.git,IST311-Solitaire,Git,https://github.com/Phantom784/IST311-Solitaire/issues,Git,
-GitHub,https://github.com/cstamas/shiro-extras.git,shiro-extras,Git,https://github.com/cstamas/shiro-extras/issues,Git,
-GitHub,https://github.com/emanuelez/hudson-periodicbackup.git,hudson-periodicbackup,Git,https://github.com/emanuelez/hudson-periodicbackup/issues,Git,
-GitHub,https://github.com/pbackx/PayPalIPNServlet.git,PayPalIPNServlet,Git,https://github.com/pbackx/PayPalIPNServlet/issues,Git,
-GitHub,https://github.com/sergiogr/PFC.git,PFC,Git,https://github.com/sergiogr/PFC/issues,Git,
-GitHub,https://github.com/judu/HADLFMK.git,HADLFMK,Git,https://github.com/judu/HADLFMK/issues,Git,
-GitHub,https://github.com/judu/HADL-annotations.git,HADL-annotations,Git,https://github.com/judu/HADL-annotations/issues,Git,
-GitHub,https://github.com/g-alex/HADLM1CS.git,HADLM1CS,Git,https://github.com/g-alex/HADLM1CS/issues,Git,
-GitHub,https://github.com/hukl/Cubino.git,Cubino,Git,https://github.com/hukl/Cubino/issues,Git,
-GitHub,https://github.com/fehguy/mongodb-benchmark-tools.git,mongodb-benchmark-tools,Git,https://github.com/fehguy/mongodb-benchmark-tools/issues,Git,
-GitHub,https://github.com/wody/sse.git,sse,Git,https://github.com/wody/sse/issues,Git,
-GitHub,https://github.com/spring-projects/spring-data-graph.git,spring-data-graph,Git,https://github.com/spring-projects/spring-data-graph/issues,Git,
-GitHub,https://github.com/BuZZ-dEE/Automaton.git,Automaton,Git,https://github.com/BuZZ-dEE/Automaton/issues,Git,
-GitHub,https://github.com/ECF/ECF4Felix.git,ECF4Felix,Git,https://github.com/ECF/ECF4Felix/issues,Git,
-GitHub,https://github.com/jcolley/Anywhere-2.0.0-App-Engine.git,Anywhere-2.0.0-App-Engine,Git,https://github.com/jcolley/Anywhere-2.0.0-App-Engine/issues,Git,
-GitHub,https://github.com/cyberpython/Slang.git,Slang,Git,https://github.com/cyberpython/Slang/issues,Git,
-GitHub,https://github.com/yui/yuitest.git,yuitest,Git,https://github.com/yui/yuitest/issues,Git,
-GitHub,https://github.com/martin-g/wicket-gae-demo.git,wicket-gae-demo,Git,https://github.com/martin-g/wicket-gae-demo/issues,Git,
-GitHub,https://github.com/scottbyrns/Machine-Learning.git,Machine-Learning,Git,https://github.com/scottbyrns/Machine-Learning/issues,Git,
-GitHub,https://github.com/dboissin/poc-atmosphere-gwt.git,poc-atmosphere-gwt,Git,https://github.com/dboissin/poc-atmosphere-gwt/issues,Git,
-GitHub,https://github.com/nRike/GeoTask-Manager.git,GeoTask-Manager,Git,https://github.com/nRike/GeoTask-Manager/issues,Git,
-GitHub,https://github.com/sonalgoyal/hiho.git,hiho,Git,https://github.com/sonalgoyal/hiho/issues,Git,
-GitHub,https://github.com/binkley/binkley.git,binkley,Git,https://github.com/binkley/binkley/issues,Git,
-GitHub,https://github.com/joshlong/spring-integration-activiti-sandbox.git,spring-integration-activiti-sandbox,Git,https://github.com/joshlong/spring-integration-activiti-sandbox/issues,Git,
-GitHub,https://github.com/markrambow/JavaPolylineEncoder.git,JavaPolylineEncoder,Git,https://github.com/markrambow/JavaPolylineEncoder/issues,Git,
-GitHub,https://github.com/ddewaele/AndroidOAuthFlowSample.git,AndroidOAuthFlowSample,Git,https://github.com/ddewaele/AndroidOAuthFlowSample/issues,Git,
-GitHub,https://github.com/murz/play-mustache.git,play-mustache,Git,https://github.com/murz/play-mustache/issues,Git,
-GitHub,https://github.com/DavidYKay/VirtualArt.git,VirtualArt,Git,https://github.com/DavidYKay/VirtualArt/issues,Git,
-GitHub,https://github.com/motech/MOTECH-Ghana.git,MOTECH-Ghana,Git,https://github.com/motech/MOTECH-Ghana/issues,Git,
-GitHub,https://github.com/vaskoz/spring3-mvc.git,spring3-mvc,Git,https://github.com/vaskoz/spring3-mvc/issues,Git,
-GitHub,https://github.com/jmbyun/MarkSlide.git,MarkSlide,Git,https://github.com/jmbyun/MarkSlide/issues,Git,
-GitHub,https://github.com/sweemeng/lolshield-data-bar-display.git,lolshield-data-bar-display,Git,https://github.com/sweemeng/lolshield-data-bar-display/issues,Git,
-Apache,https://github.com/apache/abdera.git,Apache Abdera,Git,https://issues.apache.org/jira/browse/ABDERA-401?jql=project%20%3D%20ABDERA,JIRA,
-Apache,https://github.com/apache/accumulo.git,Apache Accumulo,Git,https://issues.apache.org/jira/browse/ACCUMULO-3662?jql=project%20%3D%20ACCUMULO,JIRA,
-Apache,https://github.com/apache/ace.git,Apache Ace,Git,https://issues.apache.org/jira/browse/ACE-512?jql=project%20%3D%20ACE,JIRA,
-Apache,https://github.com/apache/activemq-6.git,Apache ActiveMQ 6,Git,https://issues.apache.org/jira/browse/ACTIVEMQ6-88?jql=project%20%3D%20ACTIVEMQ6,JIRA,
-Apache,https://github.com/apache/activemq-apollo.git,Apache ActiveMQ Apollo,Git,https://issues.apache.org/jira/browse/APLO-376?jql=project%20%3D%20APLO,JIRA,
-Apache,https://github.com/apache/activemq-cpp.git,Apache ActiveMQ CPP,Git,https://issues.apache.org/jira/browse/AMQCPP-567?jql=project%20%3D%20AMQCPP,JIRA,
-Apache,https://github.com/apache/activemq-openwire.git,Apache ActiveMQ OpenWire,Git,https://issues.apache.org/jira/browse/OPENWIRE-3?jql=project%20%3D%20OPENWIRE,JIRA,
-Apache,https://github.com/apache/activemq.git,Apache ActiveMQ,Git,https://issues.apache.org/jira/browse/AMQ-5664?jql=project%20%3D%20AMQ,JIRA,
-Apache,https://github.com/apache/airavata.git,Apache Airavata,Git,https://issues.apache.org/jira/browse/AIRAVATA-1631?jql=project%20%3D%20AIRAVATA,JIRA,
-Apache,https://github.com/apache/allura.git,Apache Allura,Git,https://forge-allura.apache.org/p/allura/tickets/,ALLURA,
-Apache,https://github.com/apache/ambari.git,Apache Ambari,Git,https://issues.apache.org/jira/browse/AMBARI-10095?jql=project%20%3D%20AMBARI,JIRA,
-Apache,https://github.com/apache/ant-ivy.git,Apache Ant Ivy,Git,https://issues.apache.org/jira/browse/IVY-1516?jql=project%20%3D%20IVY,JIRA,
-Apache,https://github.com/apache/ant-ivyde.git,Apache Ivy Eclipse Plugin,Git,https://issues.apache.org/jira/browse/IVYDE-378?jql=project%20%3D%20IVYDE,JIRA,
-Apache,https://github.com/apache/archiva.git,Apache Archiva,Git,http://jira.codehaus.org/browse/MRM-1876?jql=project%20%3D%20MRM,JIRA,
-Apache,https://github.com/apache/aries.git,Apache Aries,Git,https://issues.apache.org/jira/browse/ARIES-1305?jql=project%20%3D%20ARIES,JIRA,
-Apache,https://github.com/apache/avro.git,Apache Avro,Git,https://issues.apache.org/jira/browse/AVRO-1649?jql=project%20%3D%20AVRO,JIRA,
-Apache,https://github.com/apache/axis2-c.git,Apache Axis2/C,Git,https://issues.apache.org/jira/browse/AXIS2C-1669?jql=project%20%3D%20AXIS2C,JIRA,
-Apache,https://github.com/apache/axis2-java.git,Apache Axis2/Java,Git,https://issues.apache.org/jira/browse/AXIS2-5690?jql=project%20%3D%20AXIS2,JIRA,
-Apache,https://github.com/apache/axis2-transports.git,Apache Axis2 transports,Git,https://issues.apache.org/jira/browse/TRANSPORTS-50?jql=project%20%3D%20TRANSPORTS,JIRA,
-Apache,https://github.com/apache/batik.git,Apache Batik,Git,https://issues.apache.org/jira/browse/BATIK-1113?jql=project%20%3D%20BATIK,JIRA,
-Apache,https://github.com/apache/bigtop.git,Apache Bigtop,Git,https://issues.apache.org/jira/browse/BIGTOP-1759?jql=project%20%3D%20BIGTOP,JIRA,
-Apache,https://github.com/apache/bloodhound.git,Apache Bloodhound,Git,https://issues.apache.org/bloodhound/query?status=!closed&group=milestone&col=id&col=summary&col=owner&col=status&col=priority&order=priority,BLOODHOUND,
-Apache,https://github.com/apache/bookkeeper.git,Apache BookKeeper,Git,https://issues.apache.org/jira/browse/BOOKKEEPER-844?jql=project%20%3D%20BOOKKEEPER,JIRA,
-Apache,https://github.com/apache/buildr.git,Apache Buildr,Git,https://issues.apache.org/jira/browse/BUILDR-705?jql=project%20%3D%20BUILDR,JIRA,
-Apache,https://github.com/apache/bval.git,Apache BVal,Git,https://issues.apache.org/jira/browse/BVAL-135?jql=project%20%3D%20BVAL,JIRA,
-Apache,https://github.com/apache/camel.git,Apache Camel,Git,https://issues.apache.org/jira/browse/CAMEL-8498?jql=project%20%3D%20CAMEL,JIRA,
-Apache,https://github.com/apache/cassandra.git,Apache Cassandra,Git,https://issues.apache.org/jira/browse/CASSANDRA-8976?jql=project%20%3D%20CASSANDRA,JIRA,
-Apache,https://github.com/apache/cayenne.git,Apache Cayenne,Git,https://issues.apache.org/jira/browse/CAY-1992?jql=project%20%3D%20CAY,JIRA,
-Apache,https://github.com/apache/celix.git,Apache Celix,Git,https://issues.apache.org/jira/browse/CELIX-226?jql=project%20%3D%20CELIX,JIRA,
-Apache,https://github.com/apache/chainsaw.git,Apache Chainsaw,Git,https://bz.apache.org/bugzilla/buglist.cgi?quicksearch=chainsaw,BUGZILLA,
-Apache,https://github.com/apache/chukwa.git,Apache Chukwa,Git,https://issues.apache.org/jira/browse/CHUKWA-742?jql=project%20%3D%20CHUKWA,JIRA,
-Apache,https://github.com/apache/clerezza.git,Apache Clerezza,Git,https://issues.apache.org/jira/browse/CLEREZZA-957?jql=project%20%3D%20CLEREZZA,JIRA,
-Apache,https://github.com/apache/click.git,Apache Click,Git,https://issues.apache.org/jira/browse/CLK-809?jql=project%20%3D%20CLK,JIRA,
-Apache,https://github.com/apache/climate.git,Apache Open Climate Workbench,Git,https://issues.apache.org/jira/browse/CLIMATE-604?jql=project%20%3D%20CLIMATE,JIRA,
-Apache,https://github.com/apache/cloudstack.git,Apache Cloudstack,Git,https://issues.apache.org/jira/browse/CLOUDSTACK-8329?jql=project%20%3D%20CLOUDSTACK,JIRA,
-Apache,https://github.com/apache/cocoon.git,Apache Cocoon,Git,https://issues.apache.org/jira/browse/COCOON-2344?jql=project%20%3D%20COCOON,JIRA,
-Apache,https://github.com/apache/commons-attributes.git,Apache Commons Attributes,Git,https://issues.apache.org/jira/browse/ATTRIBUTES-14?jql=project%20%3D%20ATTRIBUTES,JIRA,
-Apache,https://github.com/apache/commons-bcel.git,Apache Commons BCEL,Git,https://issues.apache.org/jira/browse/BCEL-214?jql=project%20%3D%20BCEL,JIRA,
-Apache,https://github.com/apache/commons-beanutils.git,Apache Commons Beanutils,Git,https://issues.apache.org/jira/browse/BEANUTILS-475?jql=project%20%3D%20BEANUTILS,JIRA,
-Apache,https://github.com/apache/commons-bsf.git,Apache Commons BSF,Git,https://issues.apache.org/jira/browse/BSF-41?jql=project%20%3D%20BSF,JIRA,
-Apache,https://github.com/apache/commons-chain.git,Apache Commons Chain,Git,https://issues.apache.org/jira/browse/CHAIN-109?jql=project%20%3D%20CHAIN,JIRA,
-Apache,https://github.com/apache/commons-cli.git,Apache Commons CLI,Git,https://issues.apache.org/jira/browse/CLI-248?jql=project%20%3D%20CLI,JIRA,
-Apache,https://github.com/apache/commons-codec.git,Apache Commons Codec,Git,https://issues.apache.org/jira/browse/CODEC-198?jql=project%20%3D%20CODEC,JIRA,
-Apache,https://github.com/apache/commons-collections.git,Apache Commons Collections,Git,https://issues.apache.org/jira/browse/COLLECTIONS-557?jql=project%20%3D%20COLLECTIONS,JIRA,
-Apache,https://github.com/apache/commons-compress.git,Apache Commons Compress,Git,https://issues.apache.org/jira/browse/COMPRESS-311?jql=project%20%3D%20COMPRESS,JIRA,
-Apache,https://github.com/apache/commons-configuration.git,Apache Commons Configuration,Git,https://issues.apache.org/jira/browse/CONFIGURATION-597?jql=project%20%3D%20CONFIGURATION,JIRA,
-Apache,https://github.com/apache/commons-csv.git,Apache Commons CSV,Git,https://issues.apache.org/jira/browse/CSV-148?jql=project%20%3D%20CSV,JIRA,
-Apache,https://github.com/apache/commons-daemon.git,Apache Commons Daemon,Git,https://issues.apache.org/jira/browse/DAEMON-331?jql=project%20%3D%20DAEMON,JIRA,
-Apache,https://github.com/apache/commons-dbcp.git,Apache Commons DBCP,Git,https://issues.apache.org/jira/browse/DBCP-435?jql=project%20%3D%20DBCP,JIRA,
-Apache,https://github.com/apache/commons-dbutils.git,Apache Commons DbUtils,Git,https://issues.apache.org/jira/browse/DBUTILS-122?jql=project%20%3D%20DBUTILS,JIRA,
-Apache,https://github.com/apache/commons-digester.git,Apache Commons Digester,Git,https://issues.apache.org/jira/browse/DIGESTER-182?jql=project%20%3D%20DIGESTER,JIRA,
-Apache,https://github.com/apache/commons-discovery.git,Apache Commons Discovery,Git,https://issues.apache.org/jira/browse/DISCOVERY-21?jql=project%20%3D%20DISCOVERY,JIRA,
-Apache,https://github.com/apache/commons-el.git,Apache Commons EL,Git,https://issues.apache.org/jira/browse/EL-19?jql=project%20%3D%20EL,JIRA,
-Apache,https://github.com/apache/commons-email.git,Apache Commons Email,Git,https://issues.apache.org/jira/browse/EMAIL-151?jql=project%20%3D%20EMAIL,JIRA,
-Apache,https://github.com/apache/commons-exec.git,Apache Commons Exec,Git,https://issues.apache.org/jira/browse/EXEC-92?jql=project%20%3D%20%22EXEC%22,JIRA,
-Apache,https://github.com/apache/commons-fileupload.git,Apache Commons FileUpload,Git,https://issues.apache.org/jira/browse/FILEUPLOAD-265?jql=project%20%3D%20FILEUPLOAD,JIRA,
-Apache,https://github.com/apache/commons-functor.git,Apache Commons Functor,Git,https://issues.apache.org/jira/browse/FUNCTOR-29?jql=project%20%3D%20FUNCTOR,JIRA,
-Apache,https://github.com/apache/commons-imaging.git,Apache Commons Imaging,Git,https://issues.apache.org/jira/browse/IMAGING-167?jql=project%20%3D%20IMAGING,JIRA,
-Apache,https://github.com/apache/commons-io.git,Apache Commons IO,Git,https://issues.apache.org/jira/browse/IO-473?jql=project%20%3D%20IO,JIRA,
-Apache,https://github.com/apache/commons-jci.git,Apache Commons JCI,Git,https://issues.apache.org/jira/browse/JCI-75?jql=project%20%3D%20JCI,JIRA,
-Apache,https://github.com/apache/commons-jcs.git,Apache Commons JCS,Git,https://issues.apache.org/jira/browse/JCS-144?jql=project%20%3D%20JCS,JIRA,
-Apache,https://github.com/apache/commons-jelly.git,Apache Commons Jelly,Git,https://issues.apache.org/jira/browse/JELLY-290?jql=project%20%3D%20JELLY,JIRA,
-Apache,https://github.com/apache/commons-jexl.git,Apache Commons Jexl,Git,https://issues.apache.org/jira/browse/JEXL-152?jql=project%20%3D%20JEXL,JIRA,
-Apache,https://github.com/apache/commons-jxpath.git,Apache Commons JXPath,Git,https://issues.apache.org/jira/browse/JXPATH-175?jql=project%20%3D%20JXPATH,JIRA,
-Apache,https://github.com/apache/commons-lang.git,Apache Commons Lang,Git,https://issues.apache.org/jira/browse/LANG-1100?jql=project%20%3D%20LANG,JIRA,
-Apache,https://github.com/apache/commons-launcher.git,Apache Commons Launcher,Git,https://issues.apache.org/jira/browse/LAUNCHER-10?jql=project%20%3D%20LAUNCHER,JIRA,
-Apache,https://github.com/apache/commons-logging.git,Apache Commons Logging,Git,https://issues.apache.org/jira/browse/LOGGING-161?jql=project%20%3D%20LOGGING,JIRA,
-Apache,https://github.com/apache/commons-math.git,Apache Commons Math,Git,https://issues.apache.org/jira/browse/MATH-1209?jql=project%20%3D%20MATH,JIRA,
-Apache,https://github.com/apache/commons-modeler.git,Apache Commons Modeler,Git,https://issues.apache.org/jira/browse/MODELER-31?jql=project%20%3D%20MODELER,JIRA,
-Apache,https://github.com/apache/commons-net.git,Apache Commons Net,Git,https://issues.apache.org/jira/browse/NET-569?jql=project%20%3D%20NET,JIRA,
-Apache,https://github.com/apache/commons-ognl.git,Apache Commons OGNL,Git,https://issues.apache.org/jira/browse/OGNL-249?jql=project%20%3D%20OGNL,JIRA,
-Apache,https://github.com/apache/commons-pool.git,Apache Commons Pool,Git,https://issues.apache.org/jira/browse/POOL-290?jql=project%20%3D%20POOL,JIRA,
-Apache,https://github.com/apache/commons-primitives.git,Apache Commons Primitives,Git,https://issues.apache.org/jira/browse/PRIMITIVES-17?jql=project%20%3D%20PRIMITIVES,JIRA,
-Apache,https://github.com/apache/commons-proxy.git,Apache Commons Proxy,Git,https://issues.apache.org/jira/browse/PROXY-24?jql=project%20%3D%20PROXY,JIRA,
-Apache,https://github.com/apache/commons-transaction.git,Apache Commons Transaction,Git,https://issues.apache.org/jira/browse/TRANSACTION-43?jql=project%20%3D%20%22TRANSACTION%22,JIRA,
-Apache,https://github.com/apache/commons-validator.git,Apache Commons Validator,Git,https://issues.apache.org/jira/browse/VALIDATOR-361?jql=project%20%3D%20VALIDATOR,JIRA,
-Apache,https://github.com/apache/commons-vfs.git,Apache Commons VFS,Git,https://issues.apache.org/jira/browse/VFS-565?jql=project%20%3D%20VFS,JIRA,
-Apache,https://github.com/apache/commons-weaver.git,Apache Commons Weaver,Git,https://issues.apache.org/jira/browse/WEAVER-4?jql=project%20%3D%20WEAVER,JIRA,
-Apache,https://github.com/apache/continuum.git,Apache Continuum,Git,http://jira.codehaus.org/browse/CONTINUUM-2741?jql=project%20%3D%20CONTINUUM,JIRA,
-Apache,https://github.com/apache/creadur-rat.git,Apache Creadur - RAT,Git,https://issues.apache.org/jira/browse/RAT-196?jql=project%20%3D%20RAT,JIRA,
-Apache,https://github.com/apache/creadur-tentacles.git,Apache Tentacles,Git,https://issues.apache.org/jira/browse/TENTACLES-8?jql=project%20%3D%20TENTACLES,JIRA,
-Apache,https://github.com/apache/creadur-whisker.git,Apache Whisker,Git,https://issues.apache.org/jira/browse/WHISKER-14?jql=project%20%3D%20WHISKER,JIRA,
-Apache,https://github.com/apache/crunch.git,Apache Crunch,Git,https://issues.apache.org/jira/browse/CRUNCH-502?jql=project%20%3D%20CRUNCH,JIRA,
-Apache,https://github.com/apache/ctakes.git,Apache cTAKES,Git,https://issues.apache.org/jira/browse/CTAKES-349?jql=project%20%3D%20CTAKES,JIRA,
-Apache,https://github.com/apache/curator.git,Apache Curator,Git,https://issues.apache.org/jira/browse/CURATOR-193?jql=project%20%3D%20CURATOR,JIRA,
-Apache,https://github.com/apache/cxf-dosgi.git,Apache CXF,Git,https://issues.apache.org/jira/browse/DOSGI-218?jql=project%20%3D%20DOSGI,JIRA,
-Apache,https://github.com/apache/cxf-fediz.git,Apache CXF,Git,https://issues.apache.org/jira/browse/FEDIZ-103?jql=project%20%3D%20FEDIZ,JIRA,
-Apache,https://github.com/apache/cxf-xjc-utils.git,Apache CXF,Git,https://issues.apache.org/jira/browse/CXFXJC-10?jql=project%20%3D%20CXFXJC,JIRA,
-Apache,https://github.com/apache/cxf.git,Apache CXF,Git,https://issues.apache.org/jira/browse/CXF-6301?jql=project%20%3D%20CXF,JIRA,
-Apache,https://github.com/apache/ddlutils.git,Apache DB DdlUtils,Git,https://issues.apache.org/jira/browse/DDLUTILS-286?jql=project%20%3D%20DDLUTILS,JIRA,
-Apache,https://github.com/apache/deltacloud.git,Apache DeltaCloud,Git,https://issues.apache.org/jira/browse/DTACLOUD-583?jql=project%20%3D%20DTACLOUD,JIRA,
-Apache,https://github.com/apache/deltaspike.git,Apache Deltaspike,Git,https://issues.apache.org/jira/browse/DELTASPIKE-858?jql=project%20%3D%20DELTASPIKE,JIRA,
-Apache,https://github.com/apache/derby.git,Apache Derby,Git,https://issues.apache.org/jira/browse/DERBY-6797?jql=project%20%3D%20DERBY,JIRA,
-Apache,https://github.com/apache/directmemory.git,Apache DirectMemory,Git,https://issues.apache.org/jira/browse/DIRECTMEMORY-139?jql=project%20%3D%20DIRECTMEMORY,JIRA,
-Apache,https://github.com/apache/directory-clients.git,Apache Directory Clients,Git,https://issues.apache.org/jira/browse/DIRAPI-226?jql=project%20%3D%20DIRAPI,JIRA,
-Apache,https://github.com/apache/directory-shared.git,Apache Directory Shared,Git,https://issues.apache.org/jira/browse/DIRSHARED-143?jql=project%20%3D%20DIRSHARED,JIRA,
-Apache,https://github.com/apache/directory-studio.git,Apache Directory Studio,Git,https://issues.apache.org/jira/browse/DIRSTUDIO-1026?jql=project%20%3D%20DIRSTUDIO,JIRA,
-Apache,https://github.com/apache/dispatch.git,Apache Qpid Dispatch,Git,https://issues.apache.org/jira/browse/QPID-6455?jql=project%20%3D%20QPID,JIRA,
-Apache,https://github.com/apache/drill.git,Apache Drill (Incubating),Git,https://issues.apache.org/jira/browse/DRILL-2479?jql=project%20%3D%20DRILL,JIRA,
-Apache,https://github.com/apache/empire-db.git,Apache Empire-db,Git,https://issues.apache.org/jira/browse/EMPIREDB-216?jql=project%20%3D%20EMPIREDB,JIRA,
-Apache,https://github.com/apache/etch.git,Apache Etch (incubating),Git,https://issues.apache.org/jira/browse/ETCH-295?jql=project%20%3D%20ETCH,JIRA,
-Apache,https://github.com/apache/falcon.git,Apache Falcon,Git,https://issues.apache.org/jira/browse/FALCON-1100?jql=project%20%3D%20FALCON,JIRA,
-Apache,https://github.com/apache/felix.git,Apache Felix,Git,https://issues.apache.org/jira/browse/FELIX-4828?jql=project%20%3D%20FELIX,JIRA,
-Apache,https://github.com/apache/flink.git,Apache Flink,Git,https://issues.apache.org/jira/browse/FLINK-1710?jql=project%20%3D%20FLINK,JIRA,
-Apache,https://github.com/apache/flume.git,Apache Flume,Git,https://issues.apache.org/jira/browse/FLUME-2645?jql=project%20%3D%20FLUME,JIRA,
-Apache,git://git.apache.org/fop.git,Apache FOP,Git,https://issues.apache.org/jira/browse/FOP-2456?jql=project%20%3D%20FOP,JIRA,
-Apache,git://git.apache.org/forrest.git,Apache Forrest,Git,https://issues.apache.org/jira/browse/FOR-1251?jql=project%20%3D%20%22FOR%22,JIRA,
-Apache,git://git.apache.org/ftpserver.git,Apache FtpServer,Git,https://issues.apache.org/jira/browse/FTPSERVER-467?jql=project%20%3D%20FTPSERVER,JIRA,
-Apache,git://git.apache.org/geronimo-devtools.git,Apache Geronimo Devtools,Git,https://issues.apache.org/jira/browse/GERONIMODEVTOOLS-812?jql=project%20%3D%20GERONIMODEVTOOLS,JIRA,
-Apache,git://git.apache.org/geronimo.git,Apache Geronimo,Git,https://issues.apache.org/jira/browse/GERONIMO-6537?jql=project%20%3D%20GERONIMO,JIRA,
-Apache,git://git.apache.org/giraph.git,Apache Giraph,Git,https://issues.apache.org/jira/browse/GIRAPH-997?jql=project%20%3D%20GIRAPH,JIRA,
-Apache,git://git.apache.org/gora.git,Apache Gora,Git,https://issues.apache.org/jira/browse/GORA-418?jql=project%20%3D%20GORA,JIRA,
-Apache,git://git.apache.org/hadoop-common.git,Apache Hadoop common,Git,https://issues.apache.org/jira/browse/HADOOP-11723?jql=project%20%3D%20HADOOP,JIRA,
-Apache,git://git.apache.org/hadoop-hdfs.git,Apache Hadoop HDFS,Git,https://issues.apache.org/jira/issues/?jql=project%20%3D%20HDFS,JIRA,
-Apache,git://git.apache.org/hadoop-mapreduce.git,Apache Hadoop MapReduce,Git,https://issues.apache.org/jira/browse/MAPREDUCE-6275?jql=project%20%3D%20MAPREDUCE,JIRA,
-Apache,git://git.apache.org/hadoop.git,Apache Hadoop,Git,https://issues.apache.org/jira/browse/YARN-3356?jql=project%20%3D%20YARN,JIRA,
-Apache,git://git.apache.org/hama.git,Apache Hama,Git,https://issues.apache.org/jira/browse/HAMA-935?jql=project%20%3D%20HAMA,JIRA,
-Apache,git://git.apache.org/harmony.git,Apache Harmony,Git,https://issues.apache.org/jira/browse/HARMONY-6690?jql=project%20%3D%20HARMONY,JIRA,
-Apache,git://git.apache.org/hbase.git,Apache HBase,Git,https://issues.apache.org/jira/browse/HARMONY-6690?jql=project%20%3D%20HARMONY,JIRA,
-Apache,git://git.apache.org/hcatalog.git,Apache HCatalog,Git,https://issues.apache.org/jira/browse/HCATALOG-650?jql=project%20%3D%20HCATALOG,JIRA,
-Apache,git://git.apache.org/helix.git,Apache Helix,Git,https://issues.apache.org/jira/browse/HELIX-578?jql=project%20%3D%20HELIX,JIRA,
-Apache,git://git.apache.org/hive.git,Apache Hive,Git,https://issues.apache.org/jira/browse/HIVE-9987?jql=project%20%3D%20HIVE,JIRA,
-Apache,git://git.apache.org/httpasyncclient.git,Apache HttpComponents HttpAsyncClient,Git,https://issues.apache.org/jira/browse/HTTPASYNC-90?jql=project%20%3D%20HTTPASYNC,JIRA,
-Apache,git://git.apache.org/httpclient.git,Apache HttpClient,Git,https://issues.apache.org/jira/browse/HTTPCLIENT-1633?jql=project%20%3D%20HTTPCLIENT,JIRA,
-Apache,git://git.apache.org/httpcore.git,Apache HttpCore,Git,https://issues.apache.org/jira/browse/HTTPCORE-396?jql=project%20%3D%20HTTPCORE,JIRA,
-Apache,git://git.apache.org/incubator-aurora.git,Apache Aurora,Git,https://issues.apache.org/jira/browse/AURORA-1204?jql=project%20%3D%20AURORA,JIRA,
-Apache,git://git.apache.org/incubator-batchee.git,Apache BatchEE,Git,https://issues.apache.org/jira/browse/BATCHEE-58?jql=project%20%3D%20BATCHEE,JIRA,
-Apache,git://git.apache.org/incubator-blur.git,Apache Blur,Git,https://issues.apache.org/jira/browse/BLUR-421?jql=project%20%3D%20BLUR,JIRA,
-Apache,git://git.apache.org/incubator-brooklyn.git,Apache Brooklyn,Git,https://issues.apache.org/jira/browse/BROOKLYN-136?jql=project%20%3D%20BROOKLYN,JIRA,
-Apache,git://git.apache.org/incubator-calcite.git,Apache Calcite,Git,https://issues.apache.org/jira/browse/CALCITE-626?jql=project%20%3D%20CALCITE,JIRA,
-Apache,git://git.apache.org/incubator-datafu.git,Apache DataFu,Git,https://issues.apache.org/jira/browse/DATAFU-89?jql=project%20%3D%20DATAFU,JIRA,
-Apache,git://git.apache.org/incubator-hdt.git,Apache HDT (Incubating),Git,https://issues.apache.org/jira/browse/HDT-64?jql=project%20%3D%20HDT,JIRA,
-Apache,git://git.apache.org/incubator-ignite.git,Apache Ignite (Incubating),Git,https://issues.apache.org/jira/browse/IGNITE-495?jql=project%20%3D%20IGNITE,JIRA,
-Apache,git://git.apache.org/incubator-kylin.git,Apache Kylin (Incubating),Git,https://issues.apache.org/jira/browse/KYLIN-643?jql=project%20%3D%20KYLIN,JIRA,
-Apache,git://git.apache.org/incubator-lens.git,Apache Lens,Git,https://issues.apache.org/jira/browse/LENS-413?jql=project%20%3D%20LENS,JIRA,
-Apache,git://git.apache.org/incubator-nifi.git,Apache NiFi (Incubating),Git,https://issues.apache.org/jira/browse/NIFI-427?jql=project%20%3D%20NIFI,JIRA,
-Apache,git://git.apache.org/incubator-provisionr.git,Apache Provisionr (Incubating),Git,https://issues.apache.org/jira/browse/PROVISIONR-48?jql=project%20%3D%20PROVISIONR,JIRA,
-Apache,git://git.apache.org/incubator-reef.git,Apache REEF (Incubating),Git,https://issues.apache.org/jira/browse/REEF-207?jql=project%20%3D%20REEF,JIRA,
-Apache,git://git.apache.org/incubator-s4.git,Apache S4,Git,https://issues.apache.org/jira/browse/S4-147?jql=project%20%3D%20S4,JIRA,
-Apache,git://git.apache.org/incubator-samoa.git,Apache Samoa (Incubating),Git,https://issues.apache.org/jira/browse/SAMOA-21?jql=project%20%3D%20SAMOA,JIRA,
-Apache,git://git.apache.org/incubator-sentry.git,Apache Sentry,Git,https://issues.apache.org/jira/browse/SENTRY-671?jql=project%20%3D%20SENTRY,JIRA,
-Apache,git://git.apache.org/incubator-slider.git,Apache Slider,Git,https://issues.apache.org/jira/browse/SLIDER-818?jql=project%20%3D%20SLIDER,JIRA,
-Apache,git://git.apache.org/incubator-streams.git,Apache Streams,Git,https://issues.apache.org/jira/browse/STREAMS-297?jql=project%20%3D%20STREAMS,JIRA,
-Apache,git://git.apache.org/incubator-tamaya.git,Apache Tamaya,Git,https://issues.apache.org/jira/browse/TAMAYA-70?jql=project%20%3D%20TAMAYA,JIRA,
-Apache,git://git.apache.org/incubator-twill.git,Apache Twill,Git,https://issues.apache.org/jira/browse/TWILL-122?jql=project%20%3D%20TWILL,JIRA,
-Apache,git://git.apache.org/incubator-usergrid.git,Apache Usergrid,Git,https://issues.apache.org/jira/browse/USERGRID-485?jql=project%20%3D%20USERGRID,JIRA,
-Apache,git://git.apache.org/incubator-wave.git,Apache Wave,Git,https://issues.apache.org/jira/browse/WAVE-421?jql=project%20%3D%20WAVE,JIRA,
-Apache,git://git.apache.org/isis.git,Apache Isis,Git,https://issues.apache.org/jira/browse/ISIS-1094?jql=project%20%3D%20ISIS,JIRA,
-Apache,git://git.apache.org/jackrabbit-filevault.git,Apache Jackrabbit FileVault,Git,https://issues.apache.org/jira/browse/JCRVLT-85?jql=project%20%3D%20JCRVLT,JIRA,
-Apache,git://git.apache.org/jackrabbit-oak.git,Apache Jackrabbit Oak,Git,https://issues.apache.org/jira/browse/OAK-2637?jql=project%20%3D%20OAK,JIRA,
-Apache,git://git.apache.org/jackrabbit-ocm.git,Apache Jackrabbit OCM,Git,https://issues.apache.org/jira/browse/OCM-69?jql=project%20%3D%20OCM,JIRA,
-Apache,git://git.apache.org/james-hupa.git,Apache James hupa,Git,https://issues.apache.org/jira/browse/HUPA-109?jql=project%20%3D%20HUPA,JIRA,
-Apache,git://git.apache.org/james-imap.git,Apache James IMAP,Git,https://issues.apache.org/jira/browse/IMAP-379?jql=project%20%3D%20IMAP,JIRA,
-Apache,git://git.apache.org/james-jdkim.git,Apache James jdkim,Git,https://issues.apache.org/jira/browse/JDKIM-33?jql=project%20%3D%20JDKIM,JIRA,
-Apache,git://git.apache.org/james-jsieve.git,Apache James jSieve,Git,https://issues.apache.org/jira/browse/JSIEVE-96?jql=project%20%3D%20JSIEVE,JIRA,
-Apache,git://git.apache.org/james-jspf.git,Apache James jSPF,Git,https://issues.apache.org/jira/browse/JSPF-97?jql=project%20%3D%20JSPF,JIRA,
-Apache,git://git.apache.org/james-mailbox.git,Apache James Mailbox,Git,https://issues.apache.org/jira/browse/MAILBOX-217?jql=project%20%3D%20MAILBOX,JIRA,
-Apache,git://git.apache.org/james-mailet.git,Apache James Mailet,Git,https://issues.apache.org/jira/browse/MAILET-93?jql=project%20%3D%20MAILET,JIRA,
-Apache,git://git.apache.org/james-mime4j.git,Apache James Mime4j,Git,https://issues.apache.org/jira/browse/MIME4J-243?jql=project%20%3D%20MIME4J,JIRA,
-Apache,git://git.apache.org/james-postage.git,Apache James postage,Git,https://issues.apache.org/jira/browse/POSTAGE-25?jql=project%20%3D%20POSTAGE,JIRA,
-Apache,git://git.apache.org/james-protocols.git,Apache James protocols,Git,https://issues.apache.org/jira/browse/PROTOCOLS-109?jql=project%20%3D%20PROTOCOLS,JIRA,
-Apache,git://git.apache.org/james.git,Apache James,Git,https://issues.apache.org/jira/browse/JAMES-1570?jql=project%20%3D%20JAMES,JIRA,
-Apache,git://git.apache.org/jclouds.git,Apache jclouds,Git,https://issues.apache.org/jira/browse/JCLOUDS-853?jql=project%20%3D%20JCLOUDS,JIRA,
-Apache,git://git.apache.org/jena.git,Apache Jena,Git,https://issues.apache.org/jira/browse/JENA-903?jql=project%20%3D%20JENA,JIRA,
-Apache,git://git.apache.org/jspwiki.git,Apache JSPWiki (incubating),Git,https://issues.apache.org/jira/browse/JSPWIKI-878?jql=project%20%3D%20JSPWIKI,JIRA,
-Apache,git://git.apache.org/juddi.git,Apache jUDDI,Git,https://issues.apache.org/jira/browse/JUDDI-930?jql=project%20%3D%20JUDDI,JIRA,
-Apache,git://git.apache.org/kandula.git,Apache Kandula,Git,https://issues.apache.org/jira/browse/KAND-10?jql=project%20%3D%20KAND,JIRA,
-Apache,git://git.apache.org/karaf.git,Apache Karaf,Git,https://issues.apache.org/jira/browse/KARAF-3617?jql=project%20%3D%20KARAF,JIRA,
-Apache,git://git.apache.org/knox.git,Apache Knox,Git,https://issues.apache.org/jira/browse/KNOX-521?jql=project%20%3D%20KNOX,JIRA,
-Apache,git://git.apache.org/libcloud.git,Apache Libcloud,Git,https://issues.apache.org/jira/browse/LIBCLOUD-681?jql=project%20%3D%20LIBCLOUD,JIRA,
-Apache,git://git.apache.org/log4cxx.git,Apache log4cxx,Git,https://issues.apache.org/jira/browse/LOGCXX-453?jql=project%20%3D%20LOGCXX,JIRA,
-Apache,git://git.apache.org/log4net.git,Apache log4net,Git,https://issues.apache.org/jira/browse/LOG4NET-457?jql=project%20%3D%20LOG4NET,JIRA,
-Apache,git://git.apache.org/logging-log4j2.git,Apache Logging Log4j2,Git,https://issues.apache.org/jira/browse/LOG4J2-976?jql=project%20%3D%20LOG4J2,JIRA,
-Apache,git://git.apache.org/logging-log4php.git,Apache log4php,Git,https://issues.apache.org/jira/browse/LOG4PHP-222?jql=project%20%3D%20LOG4PHP,JIRA,
-Apache,git://git.apache.org/lucenenet.git,Apache Lucene.Net,Git,https://issues.apache.org/jira/browse/LUCENENET-551?jql=project%20%3D%20LUCENENET,JIRA,
-Apache,git://git.apache.org/lucy-clownfish.git,Apache Lucy - Clownfish,Git,https://issues.apache.org/jira/browse/CLOWNFISH-28?jql=project%20%3D%20CLOWNFISH,JIRA,
-Apache,git://git.apache.org/lucy.git,Apache Lucy,Git,https://issues.apache.org/jira/browse/LUCY-275?jql=project%20%3D%20LUCY,JIRA,
-Apache,git://git.apache.org/mahout.git,Apache Mahout,Git,https://issues.apache.org/jira/browse/MAHOUT-1645?jql=project%20%3D%20MAHOUT,JIRA,
-Apache,git://git.apache.org/manifoldcf.git,Apache ManifoldCF,Git,https://issues.apache.org/jira/browse/CONNECTORS-1173?jql=project%20%3D%20CONNECTORS,JIRA,
-Apache,git://git.apache.org/marmotta.git,Apache Marmotta,Git,https://issues.apache.org/jira/browse/MARMOTTA-604?jql=project%20%3D%20MARMOTTA,JIRA,
-Apache,git://git.apache.org/maven-ant-tasks.git,Apache Maven ant tasks,Git,http://jira.codehaus.org/browse/MANTTASKS-247?jql=project%20%3D%20MANTTASKS,JIRA,
-Apache,git://git.apache.org/maven-archetype.git,Apache Maven Archetype,Git,http://jira.codehaus.org/browse/ARCHETYPE-478?jql=project%20%3D%20ARCHETYPE,JIRA,
-Apache,git://git.apache.org/maven-doxia-sitetools.git,Apache Maven Doxia sitetools,Git,http://jira.codehaus.org/browse/DOXIASITETOOLS-102?jql=project%20%3D%20DOXIASITETOOLS,JIRA,
-Apache,git://git.apache.org/maven-doxia-tools.git,Apache Maven Doxia tools,Git,http://jira.codehaus.org/browse/DOXIATOOLS-49?jql=project%20%3D%20DOXIATOOLS,JIRA,
-Apache,git://git.apache.org/maven-doxia.git,Apache Maven Doxia,Git,http://jira.codehaus.org/browse/DOXIA-527?jql=project%20%3D%20DOXIA,JIRA,
-Apache,git://git.apache.org/maven-enforcer.git,Apache Maven enforcer,Git,http://jira.codehaus.org/browse/MENFORCER-227?jql=project%20%3D%20MENFORCER,JIRA,
-Apache,git://git.apache.org/maven-indexer.git,Apache Maven Indexer,Git,http://jira.codehaus.org/browse/MINDEXER-95?jql=project%20%3D%20MINDEXER,JIRA,
-Apache,git://git.apache.org/maven-jxr.git,Apache Maven jxr,Git,http://jira.codehaus.org/browse/JXR-127?jql=project%20%3D%20JXR,JIRA,
-Apache,git://git.apache.org/maven-plugin-testing.git,Apache Maven plugin testing,Git,http://jira.codehaus.org/browse/MPLUGINTESTING-46?jql=project%20%3D%20MPLUGINTESTING,JIRA,
-Apache,git://git.apache.org/maven-plugin-tools.git,Apache Maven plugin tools,Git,http://jira.codehaus.org/browse/MPLUGIN-289?jql=project%20%3D%20MPLUGIN,JIRA,
-Apache,git://git.apache.org/maven-plugins.git,Apache Maven plugins,Git,http://jira.codehaus.org/browse/MCHRONOS-60?jql=project%20%3D%20MCHRONOS,JIRA,
-Apache,git://git.apache.org/maven-pom.git,Apache Maven pom,Git,https://issues.apache.org/jira/browse/MPOM-70?jql=project%20%3D%20MPOM,JIRA,
-Apache,git://git.apache.org/maven-release.git,Apache Maven release,Git,http://jira.codehaus.org/issues/?jql=project%20%3D%20MRELEASE,JIRA,
-Apache,git://git.apache.org/maven-repository-tools.git,Apache Maven repository tools,Git,http://jira.codehaus.org/browse/MREPOSITORY-37?jql=project%20%3D%20MREPOSITORY,JIRA,
-Apache,git://git.apache.org/maven-resources.git,Apache Maven resources,Git,http://jira.codehaus.org/browse/MRESOURCES-199?jql=project%20%3D%20MRESOURCES,JIRA,
-Apache,git://git.apache.org/maven-sandbox.git,Apache Maven sandbox,Git,http://jira.codehaus.org/browse/MSANDBOX-51?jql=project%20%3D%20MSANDBOX,JIRA,
-Apache,git://git.apache.org/maven-scm.git,Apache Maven scm,Git,http://jira.codehaus.org/browse/SCM-793?jql=project%20%3D%20SCM,JIRA,
-Apache,git://git.apache.org/maven-shared.git,Apache Maven shared,Git,http://jira.codehaus.org/browse/MSHARED-413?jql=project%20%3D%20MSHARED,JIRA,
-Apache,git://git.apache.org/maven-surefire.git,Apache Maven Surefire,Git,http://jira.codehaus.org/browse/SUREFIRE-1149?jql=project%20%3D%20SUREFIRE,JIRA,
-Apache,git://git.apache.org/maven-wagon.git,Apache Maven Wagon,Git,http://jira.codehaus.org/browse/WAGON-434?jql=project%20%3D%20WAGON,JIRA,
-Apache,git://git.apache.org/mesos.git,Apache Mesos,Git,https://issues.apache.org/jira/browse/MESOS-2507?jql=project%20%3D%20MESOS,JIRA,
-Apache,git://git.apache.org/metamodel.git,Apache Metamodel,Git,https://issues.apache.org/jira/browse/METAMODEL-119?jql=project%20%3D%20METAMODEL,JIRA,
-Apache,git://git.apache.org/mina-sshd.git,Apache Mina - SSHD,Git,https://issues.apache.org/jira/browse/SSHD-433?jql=project%20%3D%20SSHD,JIRA,
-Apache,git://git.apache.org/mina.git,Apache Mina,Git,https://issues.apache.org/jira/browse/DIRMINA-1008?jql=project%20%3D%20DIRMINA,JIRA,
+SourceRepoName,SourceLink,ProjectName,VerControlToolName,BugsTrackerLink,BugsTrackerToolName
+GitHub,https://github.com/divmain/GitSavvy.git,GitSavvy,Git,https://github.com/divmain/GitSavvy/issues,Git
+GitHub,https://github.com/CiscoCloud/microservices-infrastructure.git,microservices-infrastructure,Git,https://github.com/CiscoCloud/microservices-infrastructure/issues,Git
+GitHub,https://github.com/antiboredom/audiogrep.git,audiogrep,Git,https://github.com/antiboredom/audiogrep/issues,Git
+GitHub,https://github.com/goagent/goagent.git,goagent,Git,https://github.com/goagent/goagent/issues,Git
+GitHub,https://github.com/vinta/awesome-python.git,awesome-python,Git,https://github.com/vinta/awesome-python/issues,Git
+GitHub,https://github.com/django/django.git,django,Git,https://github.com/django/django/issues,Git
+GitHub,https://github.com/lra/mackup.git,mackup,Git,https://github.com/lra/mackup/issues,Git
+GitHub,https://github.com/ansible/ansible.git,ansible,Git,https://github.com/ansible/ansible/issues,Git
+GitHub,https://github.com/rg3/youtube-dl.git,youtube-dl,Git,https://github.com/rg3/youtube-dl/issues,Git
+GitHub,https://github.com/kennethreitz/requests.git,requests,Git,https://github.com/kennethreitz/requests/issues,Git
+GitHub,https://github.com/ipython/ipython.git,ipython,Git,https://github.com/ipython/ipython/issues,Git
+GitHub,https://github.com/jupyter/jupyterhub.git,jupyterhub,Git,https://github.com/jupyter/jupyterhub/issues,Git
+GitHub,https://github.com/PeterDing/iScript.git,iScript,Git,https://github.com/PeterDing/iScript/issues,Git
+GitHub,https://github.com/nccgroup/autopwn.git,autopwn,Git,https://github.com/nccgroup/autopwn/issues,Git
+GitHub,https://github.com/tomchristie/django-rest-framework.git,django-rest-framework,Git,https://github.com/tomchristie/django-rest-framework/issues,Git
+GitHub,https://github.com/datamade/dedupe.git,dedupe,Git,https://github.com/datamade/dedupe/issues,Git
+GitHub,https://github.com/benschwarz/developers.whatwg.org.git,developers.whatwg.org,Git,https://github.com/benschwarz/developers.whatwg.org/issues,Git
+GitHub,https://github.com/binux/pyspider.git,pyspider,Git,https://github.com/binux/pyspider/issues,Git
+GitHub,https://github.com/sdg-mit/gitless.git,gitless,Git,https://github.com/sdg-mit/gitless/issues,Git
+GitHub,https://github.com/mitsuhiko/flask.git,flask,Git,https://github.com/mitsuhiko/flask/issues,Git
+GitHub,https://github.com/scikit-image/scikit-image.git,scikit-image,Git,https://github.com/scikit-image/scikit-image/issues,Git
+GitHub,https://github.com/saltstack/salt.git,salt,Git,https://github.com/saltstack/salt/issues,Git
+GitHub,https://github.com/docker/compose.git,compose,Git,https://github.com/docker/compose/issues,Git
+GitHub,https://github.com/Valloric/YouCompleteMe.git,YouCompleteMe,Git,https://github.com/Valloric/YouCompleteMe/issues,Git
+GitHub,https://github.com/scrapy/scrapy.git,scrapy,Git,https://github.com/scrapy/scrapy/issues,Git
+GitHub,https://github.com/elasticsearch/elasticsearch.git,elasticsearch,Git,https://github.com/elasticsearch/elasticsearch/issues,Git
+GitHub,https://github.com/nathanmarz/storm.git,storm,Git,https://github.com/nathanmarz/storm/issues,Git
+GitHub,https://github.com/nostra13/Android-Universal-Image-Loader.git,Android-Universal-Image-Loader,Git,https://github.com/nostra13/Android-Universal-Image-Loader/issues,Git
+GitHub,https://github.com/jfeinstein10/SlidingMenu.git,SlidingMenu,Git,https://github.com/jfeinstein10/SlidingMenu/issues,Git
+GitHub,https://github.com/JakeWharton/ActionBarSherlock.git,ActionBarSherlock,Git,https://github.com/JakeWharton/ActionBarSherlock/issues,Git
+GitHub,https://github.com/google/iosched.git,iosched,Git,https://github.com/google/iosched/issues,Git
+GitHub,https://github.com/libgdx/libgdx.git,libgdx,Git,https://github.com/libgdx/libgdx/issues,Git
+GitHub,https://github.com/github/android.git,android,Git,https://github.com/github/android/issues,Git
+GitHub,https://github.com/loopj/android-async-http.git,android-async-http,Git,https://github.com/loopj/android-async-http/issues,Git
+GitHub,https://github.com/square/picasso.git,picasso,Git,https://github.com/square/picasso/issues,Git
+GitHub,https://github.com/spring-projects/spring-framework.git,spring-framework,Git,https://github.com/spring-projects/spring-framework/issues,Git
+GitHub,https://github.com/JakeWharton/ViewPagerIndicator.git,ViewPagerIndicator,Git,https://github.com/JakeWharton/ViewPagerIndicator/issues,Git
+GitHub,https://github.com/ReactiveX/RxJava.git,RxJava,Git,https://github.com/ReactiveX/RxJava/issues,Git
+GitHub,https://github.com/excilys/androidannotations.git,androidannotations,Git,https://github.com/excilys/androidannotations/issues,Git
+GitHub,https://github.com/chrisbanes/Android-PullToRefresh.git,Android-PullToRefresh,Git,https://github.com/chrisbanes/Android-PullToRefresh/issues,Git
+GitHub,https://github.com/square/retrofit.git,retrofit,Git,https://github.com/square/retrofit/issues,Git
+GitHub,https://github.com/netty/netty.git,netty,Git,https://github.com/netty/netty/issues,Git
+GitHub,https://github.com/zxing/zxing.git,zxing,Git,https://github.com/zxing/zxing/issues,Git
+GitHub,https://github.com/clojure/clojure.git,clojure,Git,https://github.com/clojure/clojure/issues,Git
+GitHub,https://github.com/Bearded-Hen/Android-Bootstrap.git,Android-Bootstrap,Git,https://github.com/Bearded-Hen/Android-Bootstrap/issues,Git
+GitHub,https://github.com/greenrobot/EventBus.git,EventBus,Git,https://github.com/greenrobot/EventBus/issues,Git
+GitHub,https://github.com/WhisperSystems/TextSecure.git,TextSecure,Git,https://github.com/WhisperSystems/TextSecure/issues,Git
+GitHub,https://github.com/square/okhttp.git,okhttp,Git,https://github.com/square/okhttp/issues,Git
+GitHub,https://github.com/AndroidBootstrap/android-bootstrap.git,android-bootstrap,Git,https://github.com/AndroidBootstrap/android-bootstrap/issues,Git
+GitHub,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git,FizzBuzzEnterpriseEdition,Git,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues,Git
+GitHub,https://github.com/eclipse/vert.x.git,vert.x,Git,https://github.com/eclipse/vert.x/issues,Git
+GitHub,https://github.com/junit-team/junit.git,junit,Git,https://github.com/junit-team/junit/issues,Git
+GitHub,https://github.com/nhaarman/ListViewAnimations.git,ListViewAnimations,Git,https://github.com/nhaarman/ListViewAnimations/issues,Git
+GitHub,https://github.com/facebook/facebook-android-sdk.git,facebook-android-sdk,Git,https://github.com/facebook/facebook-android-sdk/issues,Git
+GitHub,https://github.com/etsy/AndroidStaggeredGrid.git,AndroidStaggeredGrid,Git,https://github.com/etsy/AndroidStaggeredGrid/issues,Git
+GitHub,https://github.com/sparklemotion/nokogiri.git,nokogiri,Git,https://github.com/sparklemotion/nokogiri/issues,Git
+GitHub,https://github.com/gabrielemariotti/cardslib.git,cardslib,Git,https://github.com/gabrielemariotti/cardslib/issues,Git
+GitHub,https://github.com/facebook/presto.git,presto,Git,https://github.com/facebook/presto/issues,Git
+GitHub,https://github.com/chrisbanes/PhotoView.git,PhotoView,Git,https://github.com/chrisbanes/PhotoView/issues,Git
+GitHub,https://github.com/JakeWharton/butterknife.git,butterknife,Git,https://github.com/JakeWharton/butterknife/issues,Git
+GitHub,https://github.com/square/dagger.git,dagger,Git,https://github.com/square/dagger/issues,Git
+GitHub,https://github.com/iluwatar/java-design-patterns.git,java-design-patterns,Git,https://github.com/iluwatar/java-design-patterns/issues,Git
+GitHub,https://github.com/astuetz/PagerSlidingTabStrip.git,PagerSlidingTabStrip,Git,https://github.com/astuetz/PagerSlidingTabStrip/issues,Git
+GitHub,https://github.com/Netflix/Hystrix.git,Hystrix,Git,https://github.com/Netflix/Hystrix/issues,Git
+GitHub,https://github.com/aporter/coursera-android.git,coursera-android,Git,https://github.com/aporter/coursera-android/issues,Git
+GitHub,https://github.com/futurice/android-best-practices.git,android-best-practices,Git,https://github.com/futurice/android-best-practices/issues,Git
+GitHub,https://github.com/OpenRefine/OpenRefine.git,OpenRefine,Git,https://github.com/OpenRefine/OpenRefine/issues,Git
+GitHub,https://github.com/thinkaurelius/titan.git,titan,Git,https://github.com/thinkaurelius/titan/issues,Git
+GitHub,https://github.com/Netflix/SimianArmy.git,SimianArmy,Git,https://github.com/Netflix/SimianArmy/issues,Git
+GitHub,https://github.com/google/j2objc.git,j2objc,Git,https://github.com/google/j2objc/issues,Git
+GitHub,https://github.com/emilsjolander/StickyListHeaders.git,StickyListHeaders,Git,https://github.com/emilsjolander/StickyListHeaders/issues,Git
+GitHub,https://github.com/cyrilmottier/GreenDroid.git,GreenDroid,Git,https://github.com/cyrilmottier/GreenDroid/issues,Git
+GitHub,https://github.com/nicolasgramlich/AndEngine.git,AndEngine,Git,https://github.com/nicolasgramlich/AndEngine/issues,Git
+GitHub,https://github.com/daimajia/AndroidSwipeLayout.git,AndroidSwipeLayout,Git,https://github.com/daimajia/AndroidSwipeLayout/issues,Git
+GitHub,https://github.com/nwjs/nw.js.git,nw.js,Git,https://github.com/nwjs/nw.js/issues,Git
+GitHub,https://github.com/ariya/phantomjs.git,phantomjs,Git,https://github.com/ariya/phantomjs/issues,Git
+GitHub,https://github.com/facebook/hhvm.git,hhvm,Git,https://github.com/facebook/hhvm/issues,Git
+GitHub,https://github.com/textmate/textmate.git,textmate,Git,https://github.com/textmate/textmate/issues,Git
+GitHub,https://github.com/rethinkdb/rethinkdb.git,rethinkdb,Git,https://github.com/rethinkdb/rethinkdb/issues,Git
+GitHub,https://github.com/mongodb/mongo.git,mongo,Git,https://github.com/mongodb/mongo/issues,Git
+GitHub,https://github.com/bitcoin/bitcoin.git,bitcoin,Git,https://github.com/bitcoin/bitcoin/issues,Git
+GitHub,https://github.com/atom/atom-shell.git,atom-shell,Git,https://github.com/atom/atom-shell/issues,Git
+GitHub,https://github.com/cocos2d/cocos2d-x.git,cocos2d-x,Git,https://github.com/cocos2d/cocos2d-x/issues,Git
+GitHub,https://github.com/Itseez/opencv.git,opencv,Git,https://github.com/Itseez/opencv/issues,Git
+GitHub,https://github.com/paulasmuth/fnordmetric.git,fnordmetric,Git,https://github.com/paulasmuth/fnordmetric/issues,Git
+GitHub,https://github.com/facebook/folly.git,folly,Git,https://github.com/facebook/folly/issues,Git
+GitHub,https://github.com/keithw/mosh.git,mosh,Git,https://github.com/keithw/mosh/issues,Git
+GitHub,https://github.com/dotnet/coreclr.git,coreclr,Git,https://github.com/dotnet/coreclr/issues,Git
+GitHub,https://github.com/xbmc/xbmc.git,xbmc,Git,https://github.com/xbmc/xbmc/issues,Git
+GitHub,https://github.com/facebook/osquery.git,osquery,Git,https://github.com/facebook/osquery/issues,Git
+GitHub,https://github.com/coolwanglu/pdf2htmlEX.git,pdf2htmlEX,Git,https://github.com/coolwanglu/pdf2htmlEX/issues,Git
+GitHub,https://github.com/bliker/cmder.git,cmder,Git,https://github.com/bliker/cmder/issues,Git
+GitHub,https://github.com/TTimo/doom3.gpl.git,doom3.gpl,Git,https://github.com/TTimo/doom3.gpl/issues,Git
+GitHub,https://github.com/facebook/rocksdb.git,rocksdb,Git,https://github.com/facebook/rocksdb/issues,Git
+GitHub,https://github.com/msgpack/msgpack.git,msgpack,Git,https://github.com/msgpack/msgpack/issues,Git
+GitHub,https://github.com/sass/libsass.git,libsass,Git,https://github.com/sass/libsass/issues,Git
+GitHub,https://github.com/google/protobuf.git,protobuf,Git,https://github.com/google/protobuf/issues,Git
+GitHub,https://github.com/JohnLangford/vowpal_wabbit.git,vowpal_wabbit,Git,https://github.com/JohnLangford/vowpal_wabbit/issues,Git
+GitHub,https://github.com/ivansafrin/Polycode.git,Polycode,Git,https://github.com/ivansafrin/Polycode/issues,Git
+GitHub,https://github.com/haoel/leetcode.git,leetcode,Git,https://github.com/haoel/leetcode/issues,Git
+GitHub,https://github.com/mangos/MaNGOS.git,MaNGOS,Git,https://github.com/mangos/MaNGOS/issues,Git
+GitHub,https://github.com/LaurentGomila/SFML.git,SFML,Git,https://github.com/LaurentGomila/SFML/issues,Git
+GitHub,https://github.com/GarageGames/Torque3D.git,Torque3D,Git,https://github.com/GarageGames/Torque3D/issues,Git
+GitHub,https://github.com/google/liquidfun.git,liquidfun,Git,https://github.com/google/liquidfun/issues,Git
+GitHub,https://github.com/sandstorm-io/capnproto.git,capnproto,Git,https://github.com/sandstorm-io/capnproto/issues,Git
+GitHub,https://github.com/v8/v8.git,v8,Git,https://github.com/v8/v8/issues,Git
+GitHub,https://github.com/pagespeed/ngx_pagespeed.git,ngx_pagespeed,Git,https://github.com/pagespeed/ngx_pagespeed/issues,Git
+GitHub,https://github.com/google/flatbuffers.git,flatbuffers,Git,https://github.com/google/flatbuffers/issues,Git
+GitHub,https://github.com/paralect/robomongo.git,robomongo,Git,https://github.com/paralect/robomongo/issues,Git
+GitHub,https://github.com/zealdocs/zeal.git,zeal,Git,https://github.com/zealdocs/zeal/issues,Git
+GitHub,https://github.com/sandstorm-io/sandstorm.git,sandstorm,Git,https://github.com/sandstorm-io/sandstorm/issues,Git
+GitHub,https://github.com/ideawu/ssdb.git,ssdb,Git,https://github.com/ideawu/ssdb/issues,Git
+GitHub,https://github.com/Automattic/node-canvas.git,node-canvas,Git,https://github.com/Automattic/node-canvas/issues,Git
+GitHub,https://github.com/breach/thrust.git,thrust,Git,https://github.com/breach/thrust/issues,Git
+GitHub,https://github.com/tjanczuk/edge.git,edge,Git,https://github.com/tjanczuk/edge/issues,Git
+GitHub,https://github.com/codebutler/firesheep.git,firesheep,Git,https://github.com/codebutler/firesheep/issues,Git
+GitHub,https://github.com/zeromq/libzmq.git,libzmq,Git,https://github.com/zeromq/libzmq/issues,Git
+GitHub,https://github.com/philsquared/Catch.git,Catch,Git,https://github.com/philsquared/Catch/issues,Git
+GitHub,https://github.com/ValveSoftware/ToGL.git,ToGL,Git,https://github.com/ValveSoftware/ToGL/issues,Git
+GitHub,https://github.com/id-Software/DOOM-3-BFG.git,DOOM-3-BFG,Git,https://github.com/id-Software/DOOM-3-BFG/issues,Git
+GitHub,https://github.com/google/leveldb.git,leveldb,Git,https://github.com/google/leveldb/issues,Git
+GitHub,https://github.com/antimatter15/ocrad.js.git,ocrad.js,Git,https://github.com/antimatter15/ocrad.js/issues,Git
+GitHub,https://github.com/trevorlinton/webkit.js.git,webkit.js,Git,https://github.com/trevorlinton/webkit.js/issues,Git
+GitHub,https://github.com/hrydgard/ppsspp.git,ppsspp,Git,https://github.com/hrydgard/ppsspp/issues,Git
+GitHub,https://github.com/torvalds/linux.git,linux,Git,https://github.com/torvalds/linux/issues,Git
+GitHub,https://github.com/antirez/redis.git,redis,Git,https://github.com/antirez/redis/issues,Git
+GitHub,https://github.com/git/git.git,git,Git,https://github.com/git/git/issues,Git
+GitHub,https://github.com/kripken/emscripten.git,emscripten,Git,https://github.com/kripken/emscripten/issues,Git
+GitHub,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System.git,How-to-Make-a-Computer-Operating-System,Git,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues,Git
+GitHub,https://github.com/irungentoo/toxcore.git,toxcore,Git,https://github.com/irungentoo/toxcore/issues,Git
+GitHub,https://github.com/julycoding/The-Art-Of-Programming-By-July.git,The-Art-Of-Programming-By-July,Git,https://github.com/julycoding/The-Art-Of-Programming-By-July/issues,Git
+GitHub,https://github.com/php/php-src.git,php-src,Git,https://github.com/php/php-src/issues,Git
+GitHub,https://github.com/ggreer/the_silver_searcher.git,the_silver_searcher,Git,https://github.com/ggreer/the_silver_searcher/issues,Git
+GitHub,https://github.com/scikit-learn/scikit-learn.git,scikit-learn,Git,https://github.com/scikit-learn/scikit-learn/issues,Git
+GitHub,https://github.com/memcached/memcached.git,memcached,Git,https://github.com/memcached/memcached/issues,Git
+GitHub,https://github.com/openframeworks/openFrameworks.git,openFrameworks,Git,https://github.com/openframeworks/openFrameworks/issues,Git
+GitHub,https://github.com/matz/streem.git,streem,Git,https://github.com/matz/streem/issues,Git
+GitHub,https://github.com/coolwanglu/vim.js.git,vim.js,Git,https://github.com/coolwanglu/vim.js/issues,Git
+GitHub,https://github.com/robertdavidgraham/masscan.git,masscan,Git,https://github.com/robertdavidgraham/masscan/issues,Git
+GitHub,https://github.com/mozilla/firefox-ios.git,firefox-ios,Git,https://github.com/mozilla/firefox-ios/issues,Git
+GitHub,https://github.com/mruby/mruby.git,mruby,Git,https://github.com/mruby/mruby/issues,Git
+GitHub,https://github.com/fogleman/Craft.git,Craft,Git,https://github.com/fogleman/Craft/issues,Git
+GitHub,https://github.com/h2o/h2o.git,h2o,Git,https://github.com/h2o/h2o/issues,Git
+GitHub,https://github.com/haiwen/seafile.git,seafile,Git,https://github.com/haiwen/seafile/issues,Git
+GitHub,https://github.com/vmg/redcarpet.git,redcarpet,Git,https://github.com/vmg/redcarpet/issues,Git
+GitHub,https://github.com/fastos/fastsocket.git,fastsocket,Git,https://github.com/fastos/fastsocket/issues,Git
+GitHub,https://github.com/alibaba/tengine.git,tengine,Git,https://github.com/alibaba/tengine/issues,Git
+GitHub,https://github.com/orangeduck/libCello.git,libCello,Git,https://github.com/orangeduck/libCello/issues,Git
+GitHub,https://github.com/lpereira/lwan.git,lwan,Git,https://github.com/lpereira/lwan/issues,Git
+GitHub,https://github.com/kr/beanstalkd.git,beanstalkd,Git,https://github.com/kr/beanstalkd/issues,Git
+GitHub,https://github.com/draios/sysdig.git,sysdig,Git,https://github.com/draios/sysdig/issues,Git
+GitHub,https://github.com/facebook/watchman.git,watchman,Git,https://github.com/facebook/watchman/issues,Git
+GitHub,https://github.com/Xfennec/cv.git,cv,Git,https://github.com/Xfennec/cv/issues,Git
+GitHub,https://github.com/cloudwu/skynet.git,skynet,Git,https://github.com/cloudwu/skynet/issues,Git
+GitHub,https://github.com/cinder/Cinder.git,Cinder,Git,https://github.com/cinder/Cinder/issues,Git
+GitHub,https://github.com/grpc/grpc.git,grpc,Git,https://github.com/grpc/grpc/issues,Git
+GitHub,https://github.com/jonas/tig.git,tig,Git,https://github.com/jonas/tig/issues,Git
+GitHub,https://github.com/sparkle-project/Sparkle.git,Sparkle,Git,https://github.com/sparkle-project/Sparkle/issues,Git
+GitHub,https://github.com/numpy/numpy.git,numpy,Git,https://github.com/numpy/numpy/issues,Git
+GitHub,https://github.com/nanomsg/nanomsg.git,nanomsg,Git,https://github.com/nanomsg/nanomsg/issues,Git
+GitHub,https://github.com/laverdet/node-fibers.git,node-fibers,Git,https://github.com/laverdet/node-fibers/issues,Git
+GitHub,https://github.com/FFmpeg/FFmpeg.git,FFmpeg,Git,https://github.com/FFmpeg/FFmpeg/issues,Git
+GitHub,https://github.com/SoftEtherVPN/SoftEtherVPN.git,SoftEtherVPN,Git,https://github.com/SoftEtherVPN/SoftEtherVPN/issues,Git
+GitHub,https://github.com/cesanta/mongoose.git,mongoose,Git,https://github.com/cesanta/mongoose/issues,Git
+GitHub,https://github.com/DuXiaoXing/Camera.git,Camera,Git,https://github.com/DuXiaoXing/Camera/issues,Git
+GitHub,https://github.com/haoyuexing/DoNotTapTheWhiteTile.git,DoNotTapTheWhiteTile,Git,https://github.com/haoyuexing/DoNotTapTheWhiteTile/issues,Git
+GitHub,https://github.com/yyny1789/LMObjSerialization.git,LMObjSerialization,Git,https://github.com/yyny1789/LMObjSerialization/issues,Git
+GitHub,https://github.com/Thinkful-Ed/Instagram-Search-by-Hashtag.git,Instagram-Search-by-Hashtag,Git,https://github.com/Thinkful-Ed/Instagram-Search-by-Hashtag/issues,Git
+GitHub,https://github.com/sarah-j-smith/Cocos2DInSwift.git,Cocos2DInSwift,Git,https://github.com/sarah-j-smith/Cocos2DInSwift/issues,Git
+GitHub,https://github.com/dgon-jd/JDSplitViewController.git,JDSplitViewController,Git,https://github.com/dgon-jd/JDSplitViewController/issues,Git
+GitHub,https://github.com/kivlara/iOSOpenDev-root-app.git,iOSOpenDev-root-app,Git,https://github.com/kivlara/iOSOpenDev-root-app/issues,Git
+GitHub,https://github.com/Rannie/HRTableCollectionBindingHelper.git,HRTableCollectionBindingHelper,Git,https://github.com/Rannie/HRTableCollectionBindingHelper/issues,Git
+GitHub,https://github.com/kevindelord/UIImage-Autoresize.git,UIImage-Autoresize,Git,https://github.com/kevindelord/UIImage-Autoresize/issues,Git
+GitHub,https://github.com/shinrenpan/Script-Monkey.git,Script-Monkey,Git,https://github.com/shinrenpan/Script-Monkey/issues,Git
+GitHub,https://github.com/Airmail/Mailchimp-AMPlug.git,Mailchimp-AMPlug,Git,https://github.com/Airmail/Mailchimp-AMPlug/issues,Git
+GitHub,https://github.com/udayasri/fraud-video-analyzer.git,fraud-video-analyzer,Git,https://github.com/udayasri/fraud-video-analyzer/issues,Git
+GitHub,https://github.com/lihei12345/KPController.git,KPController,Git,https://github.com/lihei12345/KPController/issues,Git
+GitHub,https://github.com/07cs07/Ottran.git,Ottran,Git,https://github.com/07cs07/Ottran/issues,Git
+GitHub,https://github.com/sapanbhuta/HackWatch.git,HackWatch,Git,https://github.com/sapanbhuta/HackWatch/issues,Git
+GitHub,https://github.com/phillipou94/PhillipOuFashionProject.git,PhillipOuFashionProject,Git,https://github.com/phillipou94/PhillipOuFashionProject/issues,Git
+GitHub,https://github.com/jdkizer9/WeAreHere.git,WeAreHere,Git,https://github.com/jdkizer9/WeAreHere/issues,Git
+GitHub,https://github.com/paulw11/BTBackground.git,BTBackground,Git,https://github.com/paulw11/BTBackground/issues,Git
+GitHub,https://github.com/lintmachine/LMCircularScrollingFlowLayout.git,LMCircularScrollingFlowLayout,Git,https://github.com/lintmachine/LMCircularScrollingFlowLayout/issues,Git
+GitHub,https://github.com/iosweekend-samples/AdaptAppFor6.git,AdaptAppFor6,Git,https://github.com/iosweekend-samples/AdaptAppFor6/issues,Git
+GitHub,https://github.com/imanzarrabian/Formation.git,Formation,Git,https://github.com/imanzarrabian/Formation/issues,Git
+GitHub,https://github.com/viezel/NappWaveformView.git,NappWaveformView,Git,https://github.com/viezel/NappWaveformView/issues,Git
+GitHub,https://github.com/niw/safari_hack.git,safari_hack,Git,https://github.com/niw/safari_hack/issues,Git
+GitHub,https://github.com/rad3ks/RSZInAppNotifications.git,RSZInAppNotifications,Git,https://github.com/rad3ks/RSZInAppNotifications/issues,Git
+GitHub,https://github.com/lzbob/TestRailiOSClient.git,TestRailiOSClient,Git,https://github.com/lzbob/TestRailiOSClient/issues,Git
+GitHub,https://github.com/edwinbosire/Tinder-Hack-Client.git,Tinder-Hack-Client,Git,https://github.com/edwinbosire/Tinder-Hack-Client/issues,Git
+GitHub,https://github.com/kpham13/SwapMeet.git,SwapMeet,Git,https://github.com/kpham13/SwapMeet/issues,Git
+GitHub,https://github.com/ziyuanliu/nyzr.git,nyzr,Git,https://github.com/ziyuanliu/nyzr/issues,Git
+GitHub,https://github.com/wuyuedefeng/NSDictionary-Model-Interconversion.git,NSDictionary-Model-Interconversion,Git,https://github.com/wuyuedefeng/NSDictionary-Model-Interconversion/issues,Git
+GitHub,https://github.com/mrdrozdov/SlideInView.git,SlideInView,Git,https://github.com/mrdrozdov/SlideInView/issues,Git
+GitHub,https://github.com/bczhang/jaeger-iOS-iPad.git,jaeger-iOS-iPad,Git,https://github.com/bczhang/jaeger-iOS-iPad/issues,Git
+GitHub,https://github.com/afbrandt/ABConnectivity.git,ABConnectivity,Git,https://github.com/afbrandt/ABConnectivity/issues,Git
+GitHub,https://github.com/YixiangChen/EHomeEducationApp.git,EHomeEducationApp,Git,https://github.com/YixiangChen/EHomeEducationApp/issues,Git
+GitHub,https://github.com/YilmazGursoy/StickHeroCloneGame.git,StickHeroCloneGame,Git,https://github.com/YilmazGursoy/StickHeroCloneGame/issues,Git
+GitHub,https://github.com/PFei-He/PFTableViewCell-Static_Library.git,PFTableViewCell-Static_Library,Git,https://github.com/PFei-He/PFTableViewCell-Static_Library/issues,Git
+GitHub,https://github.com/onevcat/LandscapeViewControllerDemo.git,LandscapeViewControllerDemo,Git,https://github.com/onevcat/LandscapeViewControllerDemo/issues,Git
+GitHub,https://github.com/fuermosi777/xunwei-ios-app.git,xunwei-ios-app,Git,https://github.com/fuermosi777/xunwei-ios-app/issues,Git
+GitHub,https://github.com/boredzo/Parallel-copy-and-verify.git,Parallel-copy-and-verify,Git,https://github.com/boredzo/Parallel-copy-and-verify/issues,Git
+GitHub,https://github.com/gerryisaac/iPhone-CTA-Bus-Tracker-App.git,iPhone-CTA-Bus-Tracker-App,Git,https://github.com/gerryisaac/iPhone-CTA-Bus-Tracker-App/issues,Git
+GitHub,https://github.com/davidchiles/XMPPCapabilities.git,XMPPCapabilities,Git,https://github.com/davidchiles/XMPPCapabilities/issues,Git
+GitHub,https://github.com/domuro/Blueberry.git,Blueberry,Git,https://github.com/domuro/Blueberry/issues,Git
+GitHub,https://github.com/kunzmainali/ColorCognition.git,ColorCognition,Git,https://github.com/kunzmainali/ColorCognition/issues,Git
+GitHub,https://github.com/oscii/OS-X-Display-Arrangement-Saver.git,OS-X-Display-Arrangement-Saver,Git,https://github.com/oscii/OS-X-Display-Arrangement-Saver/issues,Git
+GitHub,https://github.com/mootjeuh/Prettier-Banners.git,Prettier-Banners,Git,https://github.com/mootjeuh/Prettier-Banners/issues,Git
+GitHub,https://github.com/pm-ping/objc-openidconnect-library.git,objc-openidconnect-library,Git,https://github.com/pm-ping/objc-openidconnect-library/issues,Git
+GitHub,https://github.com/tjwudi/Assetee.git,Assetee,Git,https://github.com/tjwudi/Assetee/issues,Git
+GitHub,https://github.com/mikeooye/BPLoadingMoreControl.git,BPLoadingMoreControl,Git,https://github.com/mikeooye/BPLoadingMoreControl/issues,Git
+GitHub,https://github.com/shiweifu/SFTagView.git,SFTagView,Git,https://github.com/shiweifu/SFTagView/issues,Git
+GitHub,https://github.com/ayatr/AYTAlert.git,AYTAlert,Git,https://github.com/ayatr/AYTAlert/issues,Git
+GitHub,https://github.com/hyperoslo/HYPPopoverBackgroundView.git,HYPPopoverBackgroundView,Git,https://github.com/hyperoslo/HYPPopoverBackgroundView/issues,Git
+GitHub,https://github.com/zeasy/XCodeUnusedImageClear.git,XCodeUnusedImageClear,Git,https://github.com/zeasy/XCodeUnusedImageClear/issues,Git
+GitHub,https://github.com/impekable/starbucks-watchkit.git,starbucks-watchkit,Git,https://github.com/impekable/starbucks-watchkit/issues,Git
+GitHub,https://github.com/istepanov/ISAlertView.git,ISAlertView,Git,https://github.com/istepanov/ISAlertView/issues,Git
+GitHub,https://github.com/leonardoobaptistaa/FeedbackMe.git,FeedbackMe,Git,https://github.com/leonardoobaptistaa/FeedbackMe/issues,Git
+GitHub,https://github.com/dougdiego/DDLicenseViewController.git,DDLicenseViewController,Git,https://github.com/dougdiego/DDLicenseViewController/issues,Git
+GitHub,https://github.com/glekli/InstaLogin.git,InstaLogin,Git,https://github.com/glekli/InstaLogin/issues,Git
+GitHub,https://github.com/kcwdevllc/ios-background-downloader.git,ios-background-downloader,Git,https://github.com/kcwdevllc/ios-background-downloader/issues,Git
+GitHub,https://github.com/kaiinui/PushablePusher.git,PushablePusher,Git,https://github.com/kaiinui/PushablePusher/issues,Git
+GitHub,https://github.com/erparker/iOSAbstractClasses.git,iOSAbstractClasses,Git,https://github.com/erparker/iOSAbstractClasses/issues,Git
+GitHub,https://github.com/HubSpot/BidHub-iOS.git,BidHub-iOS,Git,https://github.com/HubSpot/BidHub-iOS/issues,Git
+GitHub,https://github.com/exmex/HS_Multilang.git,HS_Multilang,Git,https://github.com/exmex/HS_Multilang/issues,Git
+GitHub,https://github.com/julesjacobs/ImmutableCollections.git,ImmutableCollections,Git,https://github.com/julesjacobs/ImmutableCollections/issues,Git
+GitHub,https://github.com/isabgol/QuickInject.git,QuickInject,Git,https://github.com/isabgol/QuickInject/issues,Git
+GitHub,https://github.com/BadriL/HawkASP.NETvNext.git,HawkASP.NETvNext,Git,https://github.com/BadriL/HawkASP.NETvNext/issues,Git
+GitHub,https://github.com/wit-ai/wit-windowsphone-sdk.git,wit-windowsphone-sdk,Git,https://github.com/wit-ai/wit-windowsphone-sdk/issues,Git
+GitHub,https://github.com/kenamarit/flappydano.git,flappydano,Git,https://github.com/kenamarit/flappydano/issues,Git
+GitHub,https://github.com/kreatived/TheWire.git,TheWire,Git,https://github.com/kreatived/TheWire/issues,Git
+GitHub,https://github.com/bgorven/discouser.git,discouser,Git,https://github.com/bgorven/discouser/issues,Git
+GitHub,https://github.com/kalkie/Mosaic-WP.git,Mosaic-WP,Git,https://github.com/kalkie/Mosaic-WP/issues,Git
+GitHub,https://github.com/dannycabrera/SimpleBackgroundUpload.git,SimpleBackgroundUpload,Git,https://github.com/dannycabrera/SimpleBackgroundUpload/issues,Git
+GitHub,https://github.com/mikecann/Unity-Ash.git,Unity-Ash,Git,https://github.com/mikecann/Unity-Ash/issues,Git
+GitHub,https://github.com/CISY267RVCC/RVShuttles.git,RVShuttles,Git,https://github.com/CISY267RVCC/RVShuttles/issues,Git
+GitHub,https://github.com/JrPD/Kodisoft.git,Kodisoft,Git,https://github.com/JrPD/Kodisoft/issues,Git
+GitHub,https://github.com/vikas0380/linconnect-windows.git,linconnect-windows,Git,https://github.com/vikas0380/linconnect-windows/issues,Git
+GitHub,https://github.com/cicorias/dockerMvcSample.git,dockerMvcSample,Git,https://github.com/cicorias/dockerMvcSample/issues,Git
+GitHub,https://github.com/CalinLeafshade/Thetis.git,Thetis,Git,https://github.com/CalinLeafshade/Thetis/issues,Git
+GitHub,https://github.com/vernepung/StatusBarSample.git,StatusBarSample,Git,https://github.com/vernepung/StatusBarSample/issues,Git
+GitHub,https://github.com/KarlaDiaz/MeHazVisto.git,MeHazVisto,Git,https://github.com/KarlaDiaz/MeHazVisto/issues,Git
+GitHub,https://github.com/MediaBrowser/MediaBrowser.Naming.git,MediaBrowser.Naming,Git,https://github.com/MediaBrowser/MediaBrowser.Naming/issues,Git
+GitHub,https://github.com/Superfranci99/NDS-FileFormatParser.git,NDS-FileFormatParser,Git,https://github.com/Superfranci99/NDS-FileFormatParser/issues,Git
+GitHub,https://github.com/Orkuncakilkaya/MonoPad.git,MonoPad,Git,https://github.com/Orkuncakilkaya/MonoPad/issues,Git
+GitHub,https://github.com/Boyko-Karadzhov/Dynamic-Libraries.git,Dynamic-Libraries,Git,https://github.com/Boyko-Karadzhov/Dynamic-Libraries/issues,Git
+GitHub,https://github.com/emilebosch/osx-traykit.git,osx-traykit,Git,https://github.com/emilebosch/osx-traykit/issues,Git
+GitHub,https://github.com/vasiliygit/nfiletorage.git,nfiletorage,Git,https://github.com/vasiliygit/nfiletorage/issues,Git
+GitHub,https://github.com/hl2mukkel/TF2ProfileManager.git,TF2ProfileManager,Git,https://github.com/hl2mukkel/TF2ProfileManager/issues,Git
+GitHub,https://github.com/JOxBERGER/VVVV-REST.git,VVVV-REST,Git,https://github.com/JOxBERGER/VVVV-REST/issues,Git
+GitHub,https://github.com/octo-code/obj-unity3d.git,obj-unity3d,Git,https://github.com/octo-code/obj-unity3d/issues,Git
+GitHub,https://github.com/hodispk/LaboratorFP.git,LaboratorFP,Git,https://github.com/hodispk/LaboratorFP/issues,Git
+GitHub,https://github.com/tim427/minorproject.git,minorproject,Git,https://github.com/tim427/minorproject/issues,Git
+GitHub,https://github.com/asizikov/mr-eric.git,mr-eric,Git,https://github.com/asizikov/mr-eric/issues,Git
+GitHub,https://github.com/tomasr/roslyn-colorizer.git,roslyn-colorizer,Git,https://github.com/tomasr/roslyn-colorizer/issues,Git
+GitHub,https://github.com/NashXam/i-made-a-game-with-cocossharp.git,i-made-a-game-with-cocossharp,Git,https://github.com/NashXam/i-made-a-game-with-cocossharp/issues,Git
+GitHub,https://github.com/james-world/owinmultihosting.git,owinmultihosting,Git,https://github.com/james-world/owinmultihosting/issues,Git
+GitHub,https://github.com/GeorgeHahn/SOVND.git,SOVND,Git,https://github.com/GeorgeHahn/SOVND/issues,Git
+GitHub,https://github.com/Tso-Battleship/A2014-Battleship.git,A2014-Battleship,Git,https://github.com/Tso-Battleship/A2014-Battleship/issues,Git
+GitHub,https://github.com/654955321/Ergou.git,Ergou,Git,https://github.com/654955321/Ergou/issues,Git
+GitHub,https://github.com/benderbot/Lexerator.git,Lexerator,Git,https://github.com/benderbot/Lexerator/issues,Git
+GitHub,https://github.com/tomazk8/TmStorage.git,TmStorage,Git,https://github.com/tomazk8/TmStorage/issues,Git
+GitHub,https://github.com/AllEmpty/RapidSolution.git,RapidSolution,Git,https://github.com/AllEmpty/RapidSolution/issues,Git
+GitHub,https://github.com/achlubek/gta-iv-multiplayer.git,gta-iv-multiplayer,Git,https://github.com/achlubek/gta-iv-multiplayer/issues,Git
+GitHub,https://github.com/Deneby67/HelloWorld_BSDLicense.git,HelloWorld_BSDLicense,Git,https://github.com/Deneby67/HelloWorld_BSDLicense/issues,Git
+GitHub,https://github.com/DevinWatson/SteamStreamingLibrary.git,SteamStreamingLibrary,Git,https://github.com/DevinWatson/SteamStreamingLibrary/issues,Git
+GitHub,https://github.com/tyranid/ExploitRemotingService.git,ExploitRemotingService,Git,https://github.com/tyranid/ExploitRemotingService/issues,Git
+GitHub,https://github.com/DotNetAnalyzers/VarUsageAnalyzer.git,VarUsageAnalyzer,Git,https://github.com/DotNetAnalyzers/VarUsageAnalyzer/issues,Git
+GitHub,https://github.com/Statens-maritima-museer/MeanWhile.git,MeanWhile,Git,https://github.com/Statens-maritima-museer/MeanWhile/issues,Git
+GitHub,https://github.com/mszcool/AzureBatchTesseractSample.git,AzureBatchTesseractSample,Git,https://github.com/mszcool/AzureBatchTesseractSample/issues,Git
+GitHub,https://github.com/roman-yagodin/DotNetNuke.R7.git,DotNetNuke.R7,Git,https://github.com/roman-yagodin/DotNetNuke.R7/issues,Git
+GitHub,https://github.com/Intelliplan/auth.poc.git,auth.poc,Git,https://github.com/Intelliplan/auth.poc/issues,Git
+GitHub,https://github.com/tkowalczyk/SimpleCustomGestureFrame.git,SimpleCustomGestureFrame,Git,https://github.com/tkowalczyk/SimpleCustomGestureFrame/issues,Git
+GitHub,https://github.com/KarnSaheb/3PanelLayout_WP8.1RT.git,3PanelLayout_WP8.1RT,Git,https://github.com/KarnSaheb/3PanelLayout_WP8.1RT/issues,Git
+GitHub,https://github.com/algesten/fnug.git,fnug,Git,https://github.com/algesten/fnug/issues,Git
+GitHub,https://github.com/thelineva/tilitin.git,tilitin,Git,https://github.com/thelineva/tilitin/issues,Git
+GitHub,https://github.com/scottagarman/Reach-Widget.git,Reach-Widget,Git,https://github.com/scottagarman/Reach-Widget/issues,Git
+GitHub,https://github.com/rollingthunder/PacManAdvanced.git,PacManAdvanced,Git,https://github.com/rollingthunder/PacManAdvanced/issues,Git
+GitHub,https://github.com/Getzmd02/Encrypt.git,Encrypt,Git,https://github.com/Getzmd02/Encrypt/issues,Git
+GitHub,https://github.com/cmoulliard/camel-osgi-tutorial.git,camel-osgi-tutorial,Git,https://github.com/cmoulliard/camel-osgi-tutorial/issues,Git
+GitHub,https://github.com/marvinlemos/olamundoweb.git,olamundoweb,Git,https://github.com/marvinlemos/olamundoweb/issues,Git
+GitHub,https://github.com/markfh/JUnit_in_Fh.git,JUnit_in_Fh,Git,https://github.com/markfh/JUnit_in_Fh/issues,Git
+GitHub,https://github.com/armed/play-twig.git,play-twig,Git,https://github.com/armed/play-twig/issues,Git
+GitHub,https://github.com/NicolasR/CAR.git,CAR,Git,https://github.com/NicolasR/CAR/issues,Git
+GitHub,https://github.com/datariot/alert4j.git,alert4j,Git,https://github.com/datariot/alert4j/issues,Git
+GitHub,https://github.com/tim-group/fluentjavaparser.git,fluentjavaparser,Git,https://github.com/tim-group/fluentjavaparser/issues,Git
+GitHub,https://github.com/jasonadamyoung/arduino-projects.git,arduino-projects,Git,https://github.com/jasonadamyoung/arduino-projects/issues,Git
+GitHub,https://github.com/molindo/molindo-wicket-utils.git,molindo-wicket-utils,Git,https://github.com/molindo/molindo-wicket-utils/issues,Git
+GitHub,https://github.com/cescoffier/KF---HTPP.git,KF---HTPP,Git,https://github.com/cescoffier/KF---HTPP/issues,Git
+GitHub,https://github.com/codebits172/O-Arduino---meo..git,O-Arduino---meo.,Git,https://github.com/codebits172/O-Arduino---meo./issues,Git
+GitHub,https://github.com/holm/CrunchBaseAPI.git,CrunchBaseAPI,Git,https://github.com/holm/CrunchBaseAPI/issues,Git
+GitHub,https://github.com/cameroncan/cachemanifest-maven-plugin.git,cachemanifest-maven-plugin,Git,https://github.com/cameroncan/cachemanifest-maven-plugin/issues,Git
+GitHub,https://github.com/Phantom784/IST311-Solitaire.git,IST311-Solitaire,Git,https://github.com/Phantom784/IST311-Solitaire/issues,Git
+GitHub,https://github.com/cstamas/shiro-extras.git,shiro-extras,Git,https://github.com/cstamas/shiro-extras/issues,Git
+GitHub,https://github.com/emanuelez/hudson-periodicbackup.git,hudson-periodicbackup,Git,https://github.com/emanuelez/hudson-periodicbackup/issues,Git
+GitHub,https://github.com/pbackx/PayPalIPNServlet.git,PayPalIPNServlet,Git,https://github.com/pbackx/PayPalIPNServlet/issues,Git
+GitHub,https://github.com/sergiogr/PFC.git,PFC,Git,https://github.com/sergiogr/PFC/issues,Git
+GitHub,https://github.com/judu/HADLFMK.git,HADLFMK,Git,https://github.com/judu/HADLFMK/issues,Git
+GitHub,https://github.com/judu/HADL-annotations.git,HADL-annotations,Git,https://github.com/judu/HADL-annotations/issues,Git
+GitHub,https://github.com/g-alex/HADLM1CS.git,HADLM1CS,Git,https://github.com/g-alex/HADLM1CS/issues,Git
+GitHub,https://github.com/hukl/Cubino.git,Cubino,Git,https://github.com/hukl/Cubino/issues,Git
+GitHub,https://github.com/fehguy/mongodb-benchmark-tools.git,mongodb-benchmark-tools,Git,https://github.com/fehguy/mongodb-benchmark-tools/issues,Git
+GitHub,https://github.com/wody/sse.git,sse,Git,https://github.com/wody/sse/issues,Git
+GitHub,https://github.com/spring-projects/spring-data-graph.git,spring-data-graph,Git,https://github.com/spring-projects/spring-data-graph/issues,Git
+GitHub,https://github.com/BuZZ-dEE/Automaton.git,Automaton,Git,https://github.com/BuZZ-dEE/Automaton/issues,Git
+GitHub,https://github.com/ECF/ECF4Felix.git,ECF4Felix,Git,https://github.com/ECF/ECF4Felix/issues,Git
+GitHub,https://github.com/jcolley/Anywhere-2.0.0-App-Engine.git,Anywhere-2.0.0-App-Engine,Git,https://github.com/jcolley/Anywhere-2.0.0-App-Engine/issues,Git
+GitHub,https://github.com/cyberpython/Slang.git,Slang,Git,https://github.com/cyberpython/Slang/issues,Git
+GitHub,https://github.com/yui/yuitest.git,yuitest,Git,https://github.com/yui/yuitest/issues,Git
+GitHub,https://github.com/martin-g/wicket-gae-demo.git,wicket-gae-demo,Git,https://github.com/martin-g/wicket-gae-demo/issues,Git
+GitHub,https://github.com/scottbyrns/Machine-Learning.git,Machine-Learning,Git,https://github.com/scottbyrns/Machine-Learning/issues,Git
+GitHub,https://github.com/dboissin/poc-atmosphere-gwt.git,poc-atmosphere-gwt,Git,https://github.com/dboissin/poc-atmosphere-gwt/issues,Git
+GitHub,https://github.com/nRike/GeoTask-Manager.git,GeoTask-Manager,Git,https://github.com/nRike/GeoTask-Manager/issues,Git
+GitHub,https://github.com/sonalgoyal/hiho.git,hiho,Git,https://github.com/sonalgoyal/hiho/issues,Git
+GitHub,https://github.com/binkley/binkley.git,binkley,Git,https://github.com/binkley/binkley/issues,Git
+GitHub,https://github.com/joshlong/spring-integration-activiti-sandbox.git,spring-integration-activiti-sandbox,Git,https://github.com/joshlong/spring-integration-activiti-sandbox/issues,Git
+GitHub,https://github.com/markrambow/JavaPolylineEncoder.git,JavaPolylineEncoder,Git,https://github.com/markrambow/JavaPolylineEncoder/issues,Git
+GitHub,https://github.com/ddewaele/AndroidOAuthFlowSample.git,AndroidOAuthFlowSample,Git,https://github.com/ddewaele/AndroidOAuthFlowSample/issues,Git
+GitHub,https://github.com/murz/play-mustache.git,play-mustache,Git,https://github.com/murz/play-mustache/issues,Git
+GitHub,https://github.com/DavidYKay/VirtualArt.git,VirtualArt,Git,https://github.com/DavidYKay/VirtualArt/issues,Git
+GitHub,https://github.com/motech/MOTECH-Ghana.git,MOTECH-Ghana,Git,https://github.com/motech/MOTECH-Ghana/issues,Git
+GitHub,https://github.com/vaskoz/spring3-mvc.git,spring3-mvc,Git,https://github.com/vaskoz/spring3-mvc/issues,Git
+GitHub,https://github.com/jmbyun/MarkSlide.git,MarkSlide,Git,https://github.com/jmbyun/MarkSlide/issues,Git
+GitHub,https://github.com/sweemeng/lolshield-data-bar-display.git,lolshield-data-bar-display,Git,https://github.com/sweemeng/lolshield-data-bar-display/issues,Git
+Apache,https://github.com/apache/abdera.git,Apache Abdera,Git,https://issues.apache.org/jira/browse/ABDERA-401?jql=project%20%3D%20ABDERA,JIRA
+Apache,https://github.com/apache/accumulo.git,Apache Accumulo,Git,https://issues.apache.org/jira/browse/ACCUMULO-3662?jql=project%20%3D%20ACCUMULO,JIRA
+Apache,https://github.com/apache/ace.git,Apache Ace,Git,https://issues.apache.org/jira/browse/ACE-512?jql=project%20%3D%20ACE,JIRA
+Apache,https://github.com/apache/activemq-6.git,Apache ActiveMQ 6,Git,https://issues.apache.org/jira/browse/ACTIVEMQ6-88?jql=project%20%3D%20ACTIVEMQ6,JIRA
+Apache,https://github.com/apache/activemq-apollo.git,Apache ActiveMQ Apollo,Git,https://issues.apache.org/jira/browse/APLO-376?jql=project%20%3D%20APLO,JIRA
+Apache,https://github.com/apache/activemq-cpp.git,Apache ActiveMQ CPP,Git,https://issues.apache.org/jira/browse/AMQCPP-567?jql=project%20%3D%20AMQCPP,JIRA
+Apache,https://github.com/apache/activemq-openwire.git,Apache ActiveMQ OpenWire,Git,https://issues.apache.org/jira/browse/OPENWIRE-3?jql=project%20%3D%20OPENWIRE,JIRA
+Apache,https://github.com/apache/activemq.git,Apache ActiveMQ,Git,https://issues.apache.org/jira/browse/AMQ-5664?jql=project%20%3D%20AMQ,JIRA
+Apache,https://github.com/apache/airavata.git,Apache Airavata,Git,https://issues.apache.org/jira/browse/AIRAVATA-1631?jql=project%20%3D%20AIRAVATA,JIRA
+Apache,https://github.com/apache/allura.git,Apache Allura,Git,https://forge-allura.apache.org/p/allura/tickets/,ALLURA
+Apache,https://github.com/apache/ambari.git,Apache Ambari,Git,https://issues.apache.org/jira/browse/AMBARI-10095?jql=project%20%3D%20AMBARI,JIRA
+Apache,https://github.com/apache/ant-ivy.git,Apache Ant Ivy,Git,https://issues.apache.org/jira/browse/IVY-1516?jql=project%20%3D%20IVY,JIRA
+Apache,https://github.com/apache/ant-ivyde.git,Apache Ivy Eclipse Plugin,Git,https://issues.apache.org/jira/browse/IVYDE-378?jql=project%20%3D%20IVYDE,JIRA
+Apache,https://github.com/apache/archiva.git,Apache Archiva,Git,http://jira.codehaus.org/browse/MRM-1876?jql=project%20%3D%20MRM,JIRA
+Apache,https://github.com/apache/aries.git,Apache Aries,Git,https://issues.apache.org/jira/browse/ARIES-1305?jql=project%20%3D%20ARIES,JIRA
+Apache,https://github.com/apache/avro.git,Apache Avro,Git,https://issues.apache.org/jira/browse/AVRO-1649?jql=project%20%3D%20AVRO,JIRA
+Apache,https://github.com/apache/axis2-c.git,Apache Axis2/C,Git,https://issues.apache.org/jira/browse/AXIS2C-1669?jql=project%20%3D%20AXIS2C,JIRA
+Apache,https://github.com/apache/axis2-java.git,Apache Axis2/Java,Git,https://issues.apache.org/jira/browse/AXIS2-5690?jql=project%20%3D%20AXIS2,JIRA
+Apache,https://github.com/apache/axis2-transports.git,Apache Axis2 transports,Git,https://issues.apache.org/jira/browse/TRANSPORTS-50?jql=project%20%3D%20TRANSPORTS,JIRA
+Apache,https://github.com/apache/batik.git,Apache Batik,Git,https://issues.apache.org/jira/browse/BATIK-1113?jql=project%20%3D%20BATIK,JIRA
+Apache,https://github.com/apache/bigtop.git,Apache Bigtop,Git,https://issues.apache.org/jira/browse/BIGTOP-1759?jql=project%20%3D%20BIGTOP,JIRA
+Apache,https://github.com/apache/bloodhound.git,Apache Bloodhound,Git,https://issues.apache.org/bloodhound/query?status=!closed&group=milestone&col=id&col=summary&col=owner&col=status&col=priority&order=priority,BLOODHOUND
+Apache,https://github.com/apache/bookkeeper.git,Apache BookKeeper,Git,https://issues.apache.org/jira/browse/BOOKKEEPER-844?jql=project%20%3D%20BOOKKEEPER,JIRA
+Apache,https://github.com/apache/buildr.git,Apache Buildr,Git,https://issues.apache.org/jira/browse/BUILDR-705?jql=project%20%3D%20BUILDR,JIRA
+Apache,https://github.com/apache/bval.git,Apache BVal,Git,https://issues.apache.org/jira/browse/BVAL-135?jql=project%20%3D%20BVAL,JIRA
+Apache,https://github.com/apache/camel.git,Apache Camel,Git,https://issues.apache.org/jira/browse/CAMEL-8498?jql=project%20%3D%20CAMEL,JIRA
+Apache,https://github.com/apache/cassandra.git,Apache Cassandra,Git,https://issues.apache.org/jira/browse/CASSANDRA-8976?jql=project%20%3D%20CASSANDRA,JIRA
+Apache,https://github.com/apache/cayenne.git,Apache Cayenne,Git,https://issues.apache.org/jira/browse/CAY-1992?jql=project%20%3D%20CAY,JIRA
+Apache,https://github.com/apache/celix.git,Apache Celix,Git,https://issues.apache.org/jira/browse/CELIX-226?jql=project%20%3D%20CELIX,JIRA
+Apache,https://github.com/apache/chainsaw.git,Apache Chainsaw,Git,https://bz.apache.org/bugzilla/buglist.cgi?quicksearch=chainsaw,BUGZILLA
+Apache,https://github.com/apache/chukwa.git,Apache Chukwa,Git,https://issues.apache.org/jira/browse/CHUKWA-742?jql=project%20%3D%20CHUKWA,JIRA
+Apache,https://github.com/apache/clerezza.git,Apache Clerezza,Git,https://issues.apache.org/jira/browse/CLEREZZA-957?jql=project%20%3D%20CLEREZZA,JIRA
+Apache,https://github.com/apache/click.git,Apache Click,Git,https://issues.apache.org/jira/browse/CLK-809?jql=project%20%3D%20CLK,JIRA
+Apache,https://github.com/apache/climate.git,Apache Open Climate Workbench,Git,https://issues.apache.org/jira/browse/CLIMATE-604?jql=project%20%3D%20CLIMATE,JIRA
+Apache,https://github.com/apache/cloudstack.git,Apache Cloudstack,Git,https://issues.apache.org/jira/browse/CLOUDSTACK-8329?jql=project%20%3D%20CLOUDSTACK,JIRA
+Apache,https://github.com/apache/cocoon.git,Apache Cocoon,Git,https://issues.apache.org/jira/browse/COCOON-2344?jql=project%20%3D%20COCOON,JIRA
+Apache,https://github.com/apache/commons-attributes.git,Apache Commons Attributes,Git,https://issues.apache.org/jira/browse/ATTRIBUTES-14?jql=project%20%3D%20ATTRIBUTES,JIRA
+Apache,https://github.com/apache/commons-bcel.git,Apache Commons BCEL,Git,https://issues.apache.org/jira/browse/BCEL-214?jql=project%20%3D%20BCEL,JIRA
+Apache,https://github.com/apache/commons-beanutils.git,Apache Commons Beanutils,Git,https://issues.apache.org/jira/browse/BEANUTILS-475?jql=project%20%3D%20BEANUTILS,JIRA
+Apache,https://github.com/apache/commons-bsf.git,Apache Commons BSF,Git,https://issues.apache.org/jira/browse/BSF-41?jql=project%20%3D%20BSF,JIRA
+Apache,https://github.com/apache/commons-chain.git,Apache Commons Chain,Git,https://issues.apache.org/jira/browse/CHAIN-109?jql=project%20%3D%20CHAIN,JIRA
+Apache,https://github.com/apache/commons-cli.git,Apache Commons CLI,Git,https://issues.apache.org/jira/browse/CLI-248?jql=project%20%3D%20CLI,JIRA
+Apache,https://github.com/apache/commons-codec.git,Apache Commons Codec,Git,https://issues.apache.org/jira/browse/CODEC-198?jql=project%20%3D%20CODEC,JIRA
+Apache,https://github.com/apache/commons-collections.git,Apache Commons Collections,Git,https://issues.apache.org/jira/browse/COLLECTIONS-557?jql=project%20%3D%20COLLECTIONS,JIRA
+Apache,https://github.com/apache/commons-compress.git,Apache Commons Compress,Git,https://issues.apache.org/jira/browse/COMPRESS-311?jql=project%20%3D%20COMPRESS,JIRA
+Apache,https://github.com/apache/commons-configuration.git,Apache Commons Configuration,Git,https://issues.apache.org/jira/browse/CONFIGURATION-597?jql=project%20%3D%20CONFIGURATION,JIRA
+Apache,https://github.com/apache/commons-csv.git,Apache Commons CSV,Git,https://issues.apache.org/jira/browse/CSV-148?jql=project%20%3D%20CSV,JIRA
+Apache,https://github.com/apache/commons-daemon.git,Apache Commons Daemon,Git,https://issues.apache.org/jira/browse/DAEMON-331?jql=project%20%3D%20DAEMON,JIRA
+Apache,https://github.com/apache/commons-dbcp.git,Apache Commons DBCP,Git,https://issues.apache.org/jira/browse/DBCP-435?jql=project%20%3D%20DBCP,JIRA
+Apache,https://github.com/apache/commons-dbutils.git,Apache Commons DbUtils,Git,https://issues.apache.org/jira/browse/DBUTILS-122?jql=project%20%3D%20DBUTILS,JIRA
+Apache,https://github.com/apache/commons-digester.git,Apache Commons Digester,Git,https://issues.apache.org/jira/browse/DIGESTER-182?jql=project%20%3D%20DIGESTER,JIRA
+Apache,https://github.com/apache/commons-discovery.git,Apache Commons Discovery,Git,https://issues.apache.org/jira/browse/DISCOVERY-21?jql=project%20%3D%20DISCOVERY,JIRA
+Apache,https://github.com/apache/commons-el.git,Apache Commons EL,Git,https://issues.apache.org/jira/browse/EL-19?jql=project%20%3D%20EL,JIRA
+Apache,https://github.com/apache/commons-email.git,Apache Commons Email,Git,https://issues.apache.org/jira/browse/EMAIL-151?jql=project%20%3D%20EMAIL,JIRA
+Apache,https://github.com/apache/commons-exec.git,Apache Commons Exec,Git,https://issues.apache.org/jira/browse/EXEC-92?jql=project%20%3D%20%22EXEC%22,JIRA
+Apache,https://github.com/apache/commons-fileupload.git,Apache Commons FileUpload,Git,https://issues.apache.org/jira/browse/FILEUPLOAD-265?jql=project%20%3D%20FILEUPLOAD,JIRA
+Apache,https://github.com/apache/commons-functor.git,Apache Commons Functor,Git,https://issues.apache.org/jira/browse/FUNCTOR-29?jql=project%20%3D%20FUNCTOR,JIRA
+Apache,https://github.com/apache/commons-imaging.git,Apache Commons Imaging,Git,https://issues.apache.org/jira/browse/IMAGING-167?jql=project%20%3D%20IMAGING,JIRA
+Apache,https://github.com/apache/commons-io.git,Apache Commons IO,Git,https://issues.apache.org/jira/browse/IO-473?jql=project%20%3D%20IO,JIRA
+Apache,https://github.com/apache/commons-jci.git,Apache Commons JCI,Git,https://issues.apache.org/jira/browse/JCI-75?jql=project%20%3D%20JCI,JIRA
+Apache,https://github.com/apache/commons-jcs.git,Apache Commons JCS,Git,https://issues.apache.org/jira/browse/JCS-144?jql=project%20%3D%20JCS,JIRA
+Apache,https://github.com/apache/commons-jelly.git,Apache Commons Jelly,Git,https://issues.apache.org/jira/browse/JELLY-290?jql=project%20%3D%20JELLY,JIRA
+Apache,https://github.com/apache/commons-jexl.git,Apache Commons Jexl,Git,https://issues.apache.org/jira/browse/JEXL-152?jql=project%20%3D%20JEXL,JIRA
+Apache,https://github.com/apache/commons-jxpath.git,Apache Commons JXPath,Git,https://issues.apache.org/jira/browse/JXPATH-175?jql=project%20%3D%20JXPATH,JIRA
+Apache,https://github.com/apache/commons-lang.git,Apache Commons Lang,Git,https://issues.apache.org/jira/browse/LANG-1100?jql=project%20%3D%20LANG,JIRA
+Apache,https://github.com/apache/commons-launcher.git,Apache Commons Launcher,Git,https://issues.apache.org/jira/browse/LAUNCHER-10?jql=project%20%3D%20LAUNCHER,JIRA
+Apache,https://github.com/apache/commons-logging.git,Apache Commons Logging,Git,https://issues.apache.org/jira/browse/LOGGING-161?jql=project%20%3D%20LOGGING,JIRA
+Apache,https://github.com/apache/commons-math.git,Apache Commons Math,Git,https://issues.apache.org/jira/browse/MATH-1209?jql=project%20%3D%20MATH,JIRA
+Apache,https://github.com/apache/commons-modeler.git,Apache Commons Modeler,Git,https://issues.apache.org/jira/browse/MODELER-31?jql=project%20%3D%20MODELER,JIRA
+Apache,https://github.com/apache/commons-net.git,Apache Commons Net,Git,https://issues.apache.org/jira/browse/NET-569?jql=project%20%3D%20NET,JIRA
+Apache,https://github.com/apache/commons-ognl.git,Apache Commons OGNL,Git,https://issues.apache.org/jira/browse/OGNL-249?jql=project%20%3D%20OGNL,JIRA
+Apache,https://github.com/apache/commons-pool.git,Apache Commons Pool,Git,https://issues.apache.org/jira/browse/POOL-290?jql=project%20%3D%20POOL,JIRA
+Apache,https://github.com/apache/commons-primitives.git,Apache Commons Primitives,Git,https://issues.apache.org/jira/browse/PRIMITIVES-17?jql=project%20%3D%20PRIMITIVES,JIRA
+Apache,https://github.com/apache/commons-proxy.git,Apache Commons Proxy,Git,https://issues.apache.org/jira/browse/PROXY-24?jql=project%20%3D%20PROXY,JIRA
+Apache,https://github.com/apache/commons-transaction.git,Apache Commons Transaction,Git,https://issues.apache.org/jira/browse/TRANSACTION-43?jql=project%20%3D%20%22TRANSACTION%22,JIRA
+Apache,https://github.com/apache/commons-validator.git,Apache Commons Validator,Git,https://issues.apache.org/jira/browse/VALIDATOR-361?jql=project%20%3D%20VALIDATOR,JIRA
+Apache,https://github.com/apache/commons-vfs.git,Apache Commons VFS,Git,https://issues.apache.org/jira/browse/VFS-565?jql=project%20%3D%20VFS,JIRA
+Apache,https://github.com/apache/commons-weaver.git,Apache Commons Weaver,Git,https://issues.apache.org/jira/browse/WEAVER-4?jql=project%20%3D%20WEAVER,JIRA
+Apache,https://github.com/apache/continuum.git,Apache Continuum,Git,http://jira.codehaus.org/browse/CONTINUUM-2741?jql=project%20%3D%20CONTINUUM,JIRA
+Apache,https://github.com/apache/creadur-rat.git,Apache Creadur - RAT,Git,https://issues.apache.org/jira/browse/RAT-196?jql=project%20%3D%20RAT,JIRA
+Apache,https://github.com/apache/creadur-tentacles.git,Apache Tentacles,Git,https://issues.apache.org/jira/browse/TENTACLES-8?jql=project%20%3D%20TENTACLES,JIRA
+Apache,https://github.com/apache/creadur-whisker.git,Apache Whisker,Git,https://issues.apache.org/jira/browse/WHISKER-14?jql=project%20%3D%20WHISKER,JIRA
+Apache,https://github.com/apache/crunch.git,Apache Crunch,Git,https://issues.apache.org/jira/browse/CRUNCH-502?jql=project%20%3D%20CRUNCH,JIRA
+Apache,https://github.com/apache/ctakes.git,Apache cTAKES,Git,https://issues.apache.org/jira/browse/CTAKES-349?jql=project%20%3D%20CTAKES,JIRA
+Apache,https://github.com/apache/curator.git,Apache Curator,Git,https://issues.apache.org/jira/browse/CURATOR-193?jql=project%20%3D%20CURATOR,JIRA
+Apache,https://github.com/apache/cxf-dosgi.git,Apache CXF,Git,https://issues.apache.org/jira/browse/DOSGI-218?jql=project%20%3D%20DOSGI,JIRA
+Apache,https://github.com/apache/cxf-fediz.git,Apache CXF,Git,https://issues.apache.org/jira/browse/FEDIZ-103?jql=project%20%3D%20FEDIZ,JIRA
+Apache,https://github.com/apache/cxf-xjc-utils.git,Apache CXF,Git,https://issues.apache.org/jira/browse/CXFXJC-10?jql=project%20%3D%20CXFXJC,JIRA
+Apache,https://github.com/apache/cxf.git,Apache CXF,Git,https://issues.apache.org/jira/browse/CXF-6301?jql=project%20%3D%20CXF,JIRA
+Apache,https://github.com/apache/ddlutils.git,Apache DB DdlUtils,Git,https://issues.apache.org/jira/browse/DDLUTILS-286?jql=project%20%3D%20DDLUTILS,JIRA
+Apache,https://github.com/apache/deltacloud.git,Apache DeltaCloud,Git,https://issues.apache.org/jira/browse/DTACLOUD-583?jql=project%20%3D%20DTACLOUD,JIRA
+Apache,https://github.com/apache/deltaspike.git,Apache Deltaspike,Git,https://issues.apache.org/jira/browse/DELTASPIKE-858?jql=project%20%3D%20DELTASPIKE,JIRA
+Apache,https://github.com/apache/derby.git,Apache Derby,Git,https://issues.apache.org/jira/browse/DERBY-6797?jql=project%20%3D%20DERBY,JIRA
+Apache,https://github.com/apache/directmemory.git,Apache DirectMemory,Git,https://issues.apache.org/jira/browse/DIRECTMEMORY-139?jql=project%20%3D%20DIRECTMEMORY,JIRA
+Apache,https://github.com/apache/directory-clients.git,Apache Directory Clients,Git,https://issues.apache.org/jira/browse/DIRAPI-226?jql=project%20%3D%20DIRAPI,JIRA
+Apache,https://github.com/apache/directory-shared.git,Apache Directory Shared,Git,https://issues.apache.org/jira/browse/DIRSHARED-143?jql=project%20%3D%20DIRSHARED,JIRA
+Apache,https://github.com/apache/directory-studio.git,Apache Directory Studio,Git,https://issues.apache.org/jira/browse/DIRSTUDIO-1026?jql=project%20%3D%20DIRSTUDIO,JIRA
+Apache,https://github.com/apache/dispatch.git,Apache Qpid Dispatch,Git,https://issues.apache.org/jira/browse/QPID-6455?jql=project%20%3D%20QPID,JIRA
+Apache,https://github.com/apache/drill.git,Apache Drill (Incubating),Git,https://issues.apache.org/jira/browse/DRILL-2479?jql=project%20%3D%20DRILL,JIRA
+Apache,https://github.com/apache/empire-db.git,Apache Empire-db,Git,https://issues.apache.org/jira/browse/EMPIREDB-216?jql=project%20%3D%20EMPIREDB,JIRA
+Apache,https://github.com/apache/etch.git,Apache Etch (incubating),Git,https://issues.apache.org/jira/browse/ETCH-295?jql=project%20%3D%20ETCH,JIRA
+Apache,https://github.com/apache/falcon.git,Apache Falcon,Git,https://issues.apache.org/jira/browse/FALCON-1100?jql=project%20%3D%20FALCON,JIRA
+Apache,https://github.com/apache/felix.git,Apache Felix,Git,https://issues.apache.org/jira/browse/FELIX-4828?jql=project%20%3D%20FELIX,JIRA
+Apache,https://github.com/apache/flink.git,Apache Flink,Git,https://issues.apache.org/jira/browse/FLINK-1710?jql=project%20%3D%20FLINK,JIRA
+Apache,https://github.com/apache/flume.git,Apache Flume,Git,https://issues.apache.org/jira/browse/FLUME-2645?jql=project%20%3D%20FLUME,JIRA
+Apache,git://git.apache.org/fop.git,Apache FOP,Git,https://issues.apache.org/jira/browse/FOP-2456?jql=project%20%3D%20FOP,JIRA
+Apache,git://git.apache.org/forrest.git,Apache Forrest,Git,https://issues.apache.org/jira/browse/FOR-1251?jql=project%20%3D%20%22FOR%22,JIRA
+Apache,git://git.apache.org/ftpserver.git,Apache FtpServer,Git,https://issues.apache.org/jira/browse/FTPSERVER-467?jql=project%20%3D%20FTPSERVER,JIRA
+Apache,git://git.apache.org/geronimo-devtools.git,Apache Geronimo Devtools,Git,https://issues.apache.org/jira/browse/GERONIMODEVTOOLS-812?jql=project%20%3D%20GERONIMODEVTOOLS,JIRA
+Apache,git://git.apache.org/geronimo.git,Apache Geronimo,Git,https://issues.apache.org/jira/browse/GERONIMO-6537?jql=project%20%3D%20GERONIMO,JIRA
+Apache,git://git.apache.org/giraph.git,Apache Giraph,Git,https://issues.apache.org/jira/browse/GIRAPH-997?jql=project%20%3D%20GIRAPH,JIRA
+Apache,git://git.apache.org/gora.git,Apache Gora,Git,https://issues.apache.org/jira/browse/GORA-418?jql=project%20%3D%20GORA,JIRA
+Apache,git://git.apache.org/hadoop-common.git,Apache Hadoop common,Git,https://issues.apache.org/jira/browse/HADOOP-11723?jql=project%20%3D%20HADOOP,JIRA
+Apache,git://git.apache.org/hadoop-hdfs.git,Apache Hadoop HDFS,Git,https://issues.apache.org/jira/issues/?jql=project%20%3D%20HDFS,JIRA
+Apache,git://git.apache.org/hadoop-mapreduce.git,Apache Hadoop MapReduce,Git,https://issues.apache.org/jira/browse/MAPREDUCE-6275?jql=project%20%3D%20MAPREDUCE,JIRA
+Apache,git://git.apache.org/hadoop.git,Apache Hadoop,Git,https://issues.apache.org/jira/browse/YARN-3356?jql=project%20%3D%20YARN,JIRA
+Apache,git://git.apache.org/hama.git,Apache Hama,Git,https://issues.apache.org/jira/browse/HAMA-935?jql=project%20%3D%20HAMA,JIRA
+Apache,git://git.apache.org/harmony.git,Apache Harmony,Git,https://issues.apache.org/jira/browse/HARMONY-6690?jql=project%20%3D%20HARMONY,JIRA
+Apache,git://git.apache.org/hbase.git,Apache HBase,Git,https://issues.apache.org/jira/browse/HARMONY-6690?jql=project%20%3D%20HARMONY,JIRA
+Apache,git://git.apache.org/hcatalog.git,Apache HCatalog,Git,https://issues.apache.org/jira/browse/HCATALOG-650?jql=project%20%3D%20HCATALOG,JIRA
+Apache,git://git.apache.org/helix.git,Apache Helix,Git,https://issues.apache.org/jira/browse/HELIX-578?jql=project%20%3D%20HELIX,JIRA
+Apache,git://git.apache.org/hive.git,Apache Hive,Git,https://issues.apache.org/jira/browse/HIVE-9987?jql=project%20%3D%20HIVE,JIRA
+Apache,git://git.apache.org/httpasyncclient.git,Apache HttpComponents HttpAsyncClient,Git,https://issues.apache.org/jira/browse/HTTPASYNC-90?jql=project%20%3D%20HTTPASYNC,JIRA
+Apache,git://git.apache.org/httpclient.git,Apache HttpClient,Git,https://issues.apache.org/jira/browse/HTTPCLIENT-1633?jql=project%20%3D%20HTTPCLIENT,JIRA
+Apache,git://git.apache.org/httpcore.git,Apache HttpCore,Git,https://issues.apache.org/jira/browse/HTTPCORE-396?jql=project%20%3D%20HTTPCORE,JIRA
+Apache,git://git.apache.org/incubator-aurora.git,Apache Aurora,Git,https://issues.apache.org/jira/browse/AURORA-1204?jql=project%20%3D%20AURORA,JIRA
+Apache,git://git.apache.org/incubator-batchee.git,Apache BatchEE,Git,https://issues.apache.org/jira/browse/BATCHEE-58?jql=project%20%3D%20BATCHEE,JIRA
+Apache,git://git.apache.org/incubator-blur.git,Apache Blur,Git,https://issues.apache.org/jira/browse/BLUR-421?jql=project%20%3D%20BLUR,JIRA
+Apache,git://git.apache.org/incubator-brooklyn.git,Apache Brooklyn,Git,https://issues.apache.org/jira/browse/BROOKLYN-136?jql=project%20%3D%20BROOKLYN,JIRA
+Apache,git://git.apache.org/incubator-calcite.git,Apache Calcite,Git,https://issues.apache.org/jira/browse/CALCITE-626?jql=project%20%3D%20CALCITE,JIRA
+Apache,git://git.apache.org/incubator-datafu.git,Apache DataFu,Git,https://issues.apache.org/jira/browse/DATAFU-89?jql=project%20%3D%20DATAFU,JIRA
+Apache,git://git.apache.org/incubator-hdt.git,Apache HDT (Incubating),Git,https://issues.apache.org/jira/browse/HDT-64?jql=project%20%3D%20HDT,JIRA
+Apache,git://git.apache.org/incubator-ignite.git,Apache Ignite (Incubating),Git,https://issues.apache.org/jira/browse/IGNITE-495?jql=project%20%3D%20IGNITE,JIRA
+Apache,git://git.apache.org/incubator-kylin.git,Apache Kylin (Incubating),Git,https://issues.apache.org/jira/browse/KYLIN-643?jql=project%20%3D%20KYLIN,JIRA
+Apache,git://git.apache.org/incubator-lens.git,Apache Lens,Git,https://issues.apache.org/jira/browse/LENS-413?jql=project%20%3D%20LENS,JIRA
+Apache,git://git.apache.org/incubator-nifi.git,Apache NiFi (Incubating),Git,https://issues.apache.org/jira/browse/NIFI-427?jql=project%20%3D%20NIFI,JIRA
+Apache,git://git.apache.org/incubator-provisionr.git,Apache Provisionr (Incubating),Git,https://issues.apache.org/jira/browse/PROVISIONR-48?jql=project%20%3D%20PROVISIONR,JIRA
+Apache,git://git.apache.org/incubator-reef.git,Apache REEF (Incubating),Git,https://issues.apache.org/jira/browse/REEF-207?jql=project%20%3D%20REEF,JIRA
+Apache,git://git.apache.org/incubator-s4.git,Apache S4,Git,https://issues.apache.org/jira/browse/S4-147?jql=project%20%3D%20S4,JIRA
+Apache,git://git.apache.org/incubator-samoa.git,Apache Samoa (Incubating),Git,https://issues.apache.org/jira/browse/SAMOA-21?jql=project%20%3D%20SAMOA,JIRA
+Apache,git://git.apache.org/incubator-sentry.git,Apache Sentry,Git,https://issues.apache.org/jira/browse/SENTRY-671?jql=project%20%3D%20SENTRY,JIRA
+Apache,git://git.apache.org/incubator-slider.git,Apache Slider,Git,https://issues.apache.org/jira/browse/SLIDER-818?jql=project%20%3D%20SLIDER,JIRA
+Apache,git://git.apache.org/incubator-streams.git,Apache Streams,Git,https://issues.apache.org/jira/browse/STREAMS-297?jql=project%20%3D%20STREAMS,JIRA
+Apache,git://git.apache.org/incubator-tamaya.git,Apache Tamaya,Git,https://issues.apache.org/jira/browse/TAMAYA-70?jql=project%20%3D%20TAMAYA,JIRA
+Apache,git://git.apache.org/incubator-twill.git,Apache Twill,Git,https://issues.apache.org/jira/browse/TWILL-122?jql=project%20%3D%20TWILL,JIRA
+Apache,git://git.apache.org/incubator-usergrid.git,Apache Usergrid,Git,https://issues.apache.org/jira/browse/USERGRID-485?jql=project%20%3D%20USERGRID,JIRA
+Apache,git://git.apache.org/incubator-wave.git,Apache Wave,Git,https://issues.apache.org/jira/browse/WAVE-421?jql=project%20%3D%20WAVE,JIRA
+Apache,git://git.apache.org/isis.git,Apache Isis,Git,https://issues.apache.org/jira/browse/ISIS-1094?jql=project%20%3D%20ISIS,JIRA
+Apache,git://git.apache.org/jackrabbit-filevault.git,Apache Jackrabbit FileVault,Git,https://issues.apache.org/jira/browse/JCRVLT-85?jql=project%20%3D%20JCRVLT,JIRA
+Apache,git://git.apache.org/jackrabbit-oak.git,Apache Jackrabbit Oak,Git,https://issues.apache.org/jira/browse/OAK-2637?jql=project%20%3D%20OAK,JIRA
+Apache,git://git.apache.org/jackrabbit-ocm.git,Apache Jackrabbit OCM,Git,https://issues.apache.org/jira/browse/OCM-69?jql=project%20%3D%20OCM,JIRA
+Apache,git://git.apache.org/james-hupa.git,Apache James hupa,Git,https://issues.apache.org/jira/browse/HUPA-109?jql=project%20%3D%20HUPA,JIRA
+Apache,git://git.apache.org/james-imap.git,Apache James IMAP,Git,https://issues.apache.org/jira/browse/IMAP-379?jql=project%20%3D%20IMAP,JIRA
+Apache,git://git.apache.org/james-jdkim.git,Apache James jdkim,Git,https://issues.apache.org/jira/browse/JDKIM-33?jql=project%20%3D%20JDKIM,JIRA
+Apache,git://git.apache.org/james-jsieve.git,Apache James jSieve,Git,https://issues.apache.org/jira/browse/JSIEVE-96?jql=project%20%3D%20JSIEVE,JIRA
+Apache,git://git.apache.org/james-jspf.git,Apache James jSPF,Git,https://issues.apache.org/jira/browse/JSPF-97?jql=project%20%3D%20JSPF,JIRA
+Apache,git://git.apache.org/james-mailbox.git,Apache James Mailbox,Git,https://issues.apache.org/jira/browse/MAILBOX-217?jql=project%20%3D%20MAILBOX,JIRA
+Apache,git://git.apache.org/james-mailet.git,Apache James Mailet,Git,https://issues.apache.org/jira/browse/MAILET-93?jql=project%20%3D%20MAILET,JIRA
+Apache,git://git.apache.org/james-mime4j.git,Apache James Mime4j,Git,https://issues.apache.org/jira/browse/MIME4J-243?jql=project%20%3D%20MIME4J,JIRA
+Apache,git://git.apache.org/james-postage.git,Apache James postage,Git,https://issues.apache.org/jira/browse/POSTAGE-25?jql=project%20%3D%20POSTAGE,JIRA
+Apache,git://git.apache.org/james-protocols.git,Apache James protocols,Git,https://issues.apache.org/jira/browse/PROTOCOLS-109?jql=project%20%3D%20PROTOCOLS,JIRA
+Apache,git://git.apache.org/james.git,Apache James,Git,https://issues.apache.org/jira/browse/JAMES-1570?jql=project%20%3D%20JAMES,JIRA
+Apache,git://git.apache.org/jclouds.git,Apache jclouds,Git,https://issues.apache.org/jira/browse/JCLOUDS-853?jql=project%20%3D%20JCLOUDS,JIRA
+Apache,git://git.apache.org/jena.git,Apache Jena,Git,https://issues.apache.org/jira/browse/JENA-903?jql=project%20%3D%20JENA,JIRA
+Apache,git://git.apache.org/jspwiki.git,Apache JSPWiki (incubating),Git,https://issues.apache.org/jira/browse/JSPWIKI-878?jql=project%20%3D%20JSPWIKI,JIRA
+Apache,git://git.apache.org/juddi.git,Apache jUDDI,Git,https://issues.apache.org/jira/browse/JUDDI-930?jql=project%20%3D%20JUDDI,JIRA
+Apache,git://git.apache.org/kandula.git,Apache Kandula,Git,https://issues.apache.org/jira/browse/KAND-10?jql=project%20%3D%20KAND,JIRA
+Apache,git://git.apache.org/karaf.git,Apache Karaf,Git,https://issues.apache.org/jira/browse/KARAF-3617?jql=project%20%3D%20KARAF,JIRA
+Apache,git://git.apache.org/knox.git,Apache Knox,Git,https://issues.apache.org/jira/browse/KNOX-521?jql=project%20%3D%20KNOX,JIRA
+Apache,git://git.apache.org/libcloud.git,Apache Libcloud,Git,https://issues.apache.org/jira/browse/LIBCLOUD-681?jql=project%20%3D%20LIBCLOUD,JIRA
+Apache,git://git.apache.org/log4cxx.git,Apache log4cxx,Git,https://issues.apache.org/jira/browse/LOGCXX-453?jql=project%20%3D%20LOGCXX,JIRA
+Apache,git://git.apache.org/log4net.git,Apache log4net,Git,https://issues.apache.org/jira/browse/LOG4NET-457?jql=project%20%3D%20LOG4NET,JIRA
+Apache,git://git.apache.org/logging-log4j2.git,Apache Logging Log4j2,Git,https://issues.apache.org/jira/browse/LOG4J2-976?jql=project%20%3D%20LOG4J2,JIRA
+Apache,git://git.apache.org/logging-log4php.git,Apache log4php,Git,https://issues.apache.org/jira/browse/LOG4PHP-222?jql=project%20%3D%20LOG4PHP,JIRA
+Apache,git://git.apache.org/lucenenet.git,Apache Lucene.Net,Git,https://issues.apache.org/jira/browse/LUCENENET-551?jql=project%20%3D%20LUCENENET,JIRA
+Apache,git://git.apache.org/lucy-clownfish.git,Apache Lucy - Clownfish,Git,https://issues.apache.org/jira/browse/CLOWNFISH-28?jql=project%20%3D%20CLOWNFISH,JIRA
+Apache,git://git.apache.org/lucy.git,Apache Lucy,Git,https://issues.apache.org/jira/browse/LUCY-275?jql=project%20%3D%20LUCY,JIRA
+Apache,git://git.apache.org/mahout.git,Apache Mahout,Git,https://issues.apache.org/jira/browse/MAHOUT-1645?jql=project%20%3D%20MAHOUT,JIRA
+Apache,git://git.apache.org/manifoldcf.git,Apache ManifoldCF,Git,https://issues.apache.org/jira/browse/CONNECTORS-1173?jql=project%20%3D%20CONNECTORS,JIRA
+Apache,git://git.apache.org/marmotta.git,Apache Marmotta,Git,https://issues.apache.org/jira/browse/MARMOTTA-604?jql=project%20%3D%20MARMOTTA,JIRA
+Apache,git://git.apache.org/maven-ant-tasks.git,Apache Maven ant tasks,Git,http://jira.codehaus.org/browse/MANTTASKS-247?jql=project%20%3D%20MANTTASKS,JIRA
+Apache,git://git.apache.org/maven-archetype.git,Apache Maven Archetype,Git,http://jira.codehaus.org/browse/ARCHETYPE-478?jql=project%20%3D%20ARCHETYPE,JIRA
+Apache,git://git.apache.org/maven-doxia-sitetools.git,Apache Maven Doxia sitetools,Git,http://jira.codehaus.org/browse/DOXIASITETOOLS-102?jql=project%20%3D%20DOXIASITETOOLS,JIRA
+Apache,git://git.apache.org/maven-doxia-tools.git,Apache Maven Doxia tools,Git,http://jira.codehaus.org/browse/DOXIATOOLS-49?jql=project%20%3D%20DOXIATOOLS,JIRA
+Apache,git://git.apache.org/maven-doxia.git,Apache Maven Doxia,Git,http://jira.codehaus.org/browse/DOXIA-527?jql=project%20%3D%20DOXIA,JIRA
+Apache,git://git.apache.org/maven-enforcer.git,Apache Maven enforcer,Git,http://jira.codehaus.org/browse/MENFORCER-227?jql=project%20%3D%20MENFORCER,JIRA
+Apache,git://git.apache.org/maven-indexer.git,Apache Maven Indexer,Git,http://jira.codehaus.org/browse/MINDEXER-95?jql=project%20%3D%20MINDEXER,JIRA
+Apache,git://git.apache.org/maven-jxr.git,Apache Maven jxr,Git,http://jira.codehaus.org/browse/JXR-127?jql=project%20%3D%20JXR,JIRA
+Apache,git://git.apache.org/maven-plugin-testing.git,Apache Maven plugin testing,Git,http://jira.codehaus.org/browse/MPLUGINTESTING-46?jql=project%20%3D%20MPLUGINTESTING,JIRA
+Apache,git://git.apache.org/maven-plugin-tools.git,Apache Maven plugin tools,Git,http://jira.codehaus.org/browse/MPLUGIN-289?jql=project%20%3D%20MPLUGIN,JIRA
+Apache,git://git.apache.org/maven-plugins.git,Apache Maven plugins,Git,http://jira.codehaus.org/browse/MCHRONOS-60?jql=project%20%3D%20MCHRONOS,JIRA
+Apache,git://git.apache.org/maven-pom.git,Apache Maven pom,Git,https://issues.apache.org/jira/browse/MPOM-70?jql=project%20%3D%20MPOM,JIRA
+Apache,git://git.apache.org/maven-release.git,Apache Maven release,Git,http://jira.codehaus.org/issues/?jql=project%20%3D%20MRELEASE,JIRA
+Apache,git://git.apache.org/maven-repository-tools.git,Apache Maven repository tools,Git,http://jira.codehaus.org/browse/MREPOSITORY-37?jql=project%20%3D%20MREPOSITORY,JIRA
+Apache,git://git.apache.org/maven-resources.git,Apache Maven resources,Git,http://jira.codehaus.org/browse/MRESOURCES-199?jql=project%20%3D%20MRESOURCES,JIRA
+Apache,git://git.apache.org/maven-sandbox.git,Apache Maven sandbox,Git,http://jira.codehaus.org/browse/MSANDBOX-51?jql=project%20%3D%20MSANDBOX,JIRA
+Apache,git://git.apache.org/maven-scm.git,Apache Maven scm,Git,http://jira.codehaus.org/browse/SCM-793?jql=project%20%3D%20SCM,JIRA
+Apache,git://git.apache.org/maven-shared.git,Apache Maven shared,Git,http://jira.codehaus.org/browse/MSHARED-413?jql=project%20%3D%20MSHARED,JIRA
+Apache,git://git.apache.org/maven-surefire.git,Apache Maven Surefire,Git,http://jira.codehaus.org/browse/SUREFIRE-1149?jql=project%20%3D%20SUREFIRE,JIRA
+Apache,git://git.apache.org/maven-wagon.git,Apache Maven Wagon,Git,http://jira.codehaus.org/browse/WAGON-434?jql=project%20%3D%20WAGON,JIRA
+Apache,git://git.apache.org/mesos.git,Apache Mesos,Git,https://issues.apache.org/jira/browse/MESOS-2507?jql=project%20%3D%20MESOS,JIRA
+Apache,git://git.apache.org/metamodel.git,Apache Metamodel,Git,https://issues.apache.org/jira/browse/METAMODEL-119?jql=project%20%3D%20METAMODEL,JIRA
+Apache,git://git.apache.org/mina-sshd.git,Apache Mina - SSHD,Git,https://issues.apache.org/jira/browse/SSHD-433?jql=project%20%3D%20SSHD,JIRA
+Apache,git://git.apache.org/mina.git,Apache Mina,Git,https://issues.apache.org/jira/browse/DIRMINA-1008?jql=project%20%3D%20DIRMINA,JIRA
+Source Forge,http://git.code.sf.net/p/eclipse-cs/git eclipse-cs-git,Eclipse Checkstyle Plug-in,Git,http://sourceforge.net/p/eclipse-cs/bugs,SourceForge
+Source Forge,https://github.com/exoplatform/chromattic.git,chromattic,Git,https://github.com/exoplatform/chromattic/issues,Git
+Source Forge,https://github.com/exoplatform/cp-opencloudware.git,exoplatform/cp-opencloudware,Git,https://github.com/exoplatform/cp-opencloudware/issues,Git
+Source Forge,https://github.com/exoplatform/chat-application.git,exoplatform/chat-application,Git,https://github.com/exoplatform/chat-application/issues,Git
+Source Forge,https://github.com/pelya/commandergenius.git,pelya/commandergenius,Git,https://github.com/pelya/commandergenius/issues,Git
+Source Forge,svn checkout http://svn.code.sf.net/p/tripleamaps/code/trunk tripleamaps-code,TripleA Maps,SVN,http://sourceforge.net/p/tripleamaps/bugs/,SourceForge
+Source Forge,git clone git://git.code.sf.net/p/squirrel-sql/git squirrel-sql-git,SQuirreL SQL Client,Git,http://sourceforge.net/p/squirrel-sql/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/freemind/code freemind-code,FreeMind,Git,http://sourceforge.net/p/freemind/issues/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/pdfsam/code/ pdfsam-code,PDF Split and Merge,SVN,http://sourceforge.net/p/pdfsam/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/linuxonandroid/codegit linuxonandroid-codegit,LinuxonAndroid,GIT,http://sourceforge.net/p/linuxonandroid/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/catacombae/catacombae catacombae-catacombae,Catacombae,GIT,http://sourceforge.net/p/catacombae/bugs/,SourceForge
+Source Forge,https://github.com/UniversalMediaServer/UniversalMediaServer.git,UniversalMediaServer/UniversalMediaServer,Git,https://github.com/UniversalMediaServer/UniversalMediaServer/issues,GIT
+Source Forge,git clone http://git.code.sf.net/p/projectlibre/code projectlibre-code,ProjectLibre,Git,http://sourceforge.net/p/projectlibre/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/crengine/crengine crengine-crengine,Cool Reader,GIT,http://sourceforge.net/p/crengine/bugs/,SourceForge
+Source Forge,https://github.com/angryziber/ipscan.git,angryziber/ipscan,GIT,https://github.com/angryziber/ipscan/issues,GIT
+Source Forge,git clone http://git.code.sf.net/p/subsonic/git subsonic-git,Subsonic,GIT,http://sourceforge.net/p/subsonic/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/winpenpack/code/trunk winpenpack-code,winPenPack,SVN,http://sourceforge.net/p/winpenpack/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/tuxguitar/code/trunk tuxguitar-code,TuxGuitar,SVN,http://sourceforge.net/p/tuxguitar/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/jedit/Accents jedit-Accents,jEdit,GIT,http://sourceforge.net/p/jedit/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/drjava/git_repo drjava-git_repo,DrJava,GIT,http://sourceforge.net/p/drjava/bugs/,SourceForge
+Source Forge,https://github.com/freeplane/freeplane,freeplane,GIT,https://github.com/freeplane/freeplane/issues,GITHUB
+Source Forge,http://git.code.sf.net/p/jabref/code jabref-code,JabRef,GIT,http://sourceforge.net/p/jabref/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/jasperreports/code jasperreports-code,JasperReports Library,GIT,http://community.jaspersoft.com/bug-tracker?field_bug_project_target_id=202,JasperReports
+Source Forge,svn checkout http://svn.code.sf.net/p/jtds/code/trunk jtds-code,jTDS - SQL Server and Sybase JDBC driver,SVN,http://sourceforge.net/p/jtds/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/libjpeg-turbo/code/trunk libjpeg-turbo-code,libjpeg-turbo,SVN,http://sourceforge.net/p/libjpeg-turbo/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/jxplorer/code/ jxplorer-code,JXplorer - A Java Ldap Browser,SVN,http://sourceforge.net/p/jxplorer/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/shelled/code shelled-code,ShellEd,GIT,http://sourceforge.net/p/shelled/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/tvbrowser/code/trunk tvbrowser-code,TV-Browser - A free EPG,SVN,http://sourceforge.net/p/tvbrowser/_list/tickets,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/davmail/code/trunk davmail-code,DavMail POP/IMAP/SMTP/Caldav to Exchange,SVN,http://sourceforge.net/p/davmail/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/mobac/code/trunk/MOBAC mobac-code,Mobile Atlas Creator,SVN,http://sourceforge.net/p/mobac/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/omegat/code omegat-code,OmegaT - multiplatform CAT tool,GIT,http://sourceforge.net/p/omegat/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/ho1/code/trunk ho1-code,Hattrick Organizer,SVN,http://sourceforge.net/p/ho1/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/hsqldb/tmp hsqldb-tmp,HyperSQL Database Engine (HSQLDB),GIT,http://sourceforge.net/p/hsqldb/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/docfetcher/code docfetcher-code,DocFetcher,GIT,http://sourceforge.net/p/docfetcher/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/saxon/code/trunk saxon-code,Saxon XSLT and XQuery Processor,SVN,http://sourceforge.net/p/saxon/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/aoi/code/ aoi-code,Art of Illusion,SVN,http://sourceforge.net/p/aoi/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/triplea/code/trunk triplea-code,TripleA,SVN,http://sourceforge.net/p/triplea/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/freemarker/code/trunk freemarker-code,FreeMarker template engine,SVN,http://sourceforge.net/p/freemarker/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/freecol/git freecol-git,FreeCol,GIT,http://sourceforge.net/p/freecol/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/grinder/code grinder-code,The Grinder,GIT,http://sourceforge.net/p/grinder/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/proguard/code proguard-code,ProGuard Java Optimizer and Obfuscator,MERCURIAL,http://sourceforge.net/p/proguard/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/openbravo/code openbravo-code,Openbravo ERP,MERCURIAL,http://sourceforge.net/p/openbravo/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/openkm/code/trunk openkm-code,OpenKM Document Management - DMS,SVN,http://sourceforge.net/p/openkm/tickets/,SourceForge
+Source Forge,https://github.com/robo-code/robocode.git,robo-code/robocode,GITHUB,http://sourceforge.net/p/robocode/bugs/?source=navbar,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/keystore-explorer/code keystore-explorer-code,KeyStore Explorer,GIT,http://sourceforge.net/p/keystore-explorer/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/jmri/code/trunk jmri-code,JMRI Model Railroad Interface,SVN,http://sourceforge.net/p/jmri/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/adempiere/svn/ adempiere-svn,ADempiere ERP Business Suite,SVN,http://sourceforge.net/p/adempiere/_list/tickets,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/assimp/code/ assimp-code,Open Asset Import Library,SVN,http://sourceforge.net/p/assimp/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/openrocket/code/trunk openrocket-code,OpenRocket,SVN,http://sourceforge.net/p/openrocket/bug-reports/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/ganttproject/code-0 ganttproject-code-0,GanttProject,MERCURIAL,http://sourceforge.net/p/ganttproject/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/tomcatplugin/code tomcatplugin-code,Eclipse Tomcat Plugin,GIT,http://sourceforge.net/p/tomcatplugin/tickets/,SourceForge
+Source Forge,https://github.com/mballance/sveditor.git,mballance/sveditor,GITHUB,http://sourceforge.net/p/sveditor/bugs/?source=navbar,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/upnp-portmapper/code/trunk upnp-portmapper-code,UPnP PortMapper,SVN,http://sourceforge.net/p/upnp-portmapper/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/plotdigitizer/code/trunk plotdigitizer-code,Plot Digitizer,SVN,http://sourceforge.net/p/plotdigitizer/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/mcmc-jags/code-0 mcmc-jags-code-0,JAGS: Just Another Gibbs Sampler,MERCURIAL,http://sourceforge.net/p/mcmc-jags/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/opencsv/source opencsv-source,opencsv,GIT,http://sourceforge.net/p/opencsv/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/kmttg/code/trunk kmttg-code,kmttg,SVN,http://sourceforge.net/p/kmttg/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/eclemma/code/ eclemma-code,EclEmma - Java Code Coverage for Eclipse,SVN,http://sourceforge.net/p/eclemma/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/domination/code/Domination domination-code,Domination (Risk Board Game),SVN,http://sourceforge.net/p/domination/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/clipsrules/code/ clipsrules-code,CLIPS Rule Based Programming Language,SVN,http://sourceforge.net/p/clipsrules/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/ermaster/svn/ ermaster-svn,ERMaster Alpha,SVN,http://sourceforge.net/p/ermaster/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/jubler/code jubler-code,Jubler subtitle editor,MERCURIAL,http://sourceforge.net/p/jubler/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/rodin-b-sharp/svn/trunk rodin-b-sharp-svn,RODIN,SVN,http://sourceforge.net/p/rodin-b-sharp/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/htmlunit/code/trunk htmlunit-code,HtmlUnit,SVN,http://sourceforge.net/p/htmlunit/bugs/,SourceForge
+Source Forge,svn checkout svn://svn.code.sf.net/p/ytd2/code/trunk/ytd2 ytd2-code,java YouTube video Downloader (ytd2),SVN,http://sourceforge.net/p/ytd2/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/mtgbrowser/git mtgbrowser-git,Magic Assistant,GIT,http://sourceforge.net/p/mtgbrowser/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/neuroph/code/trunk neuroph-code,Java Neural Network Framework Neuroph,SVN,http://sourceforge.net/p/neuroph/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/portecle/code portecle-code,Portecle,GIT,http://sourceforge.net/p/portecle/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/hellonzb/code/trunk hellonzb-code,HelloNzb,SVN,http://sourceforge.net/p/hellonzb/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/jump-pilot/code/ jump-pilot-code,The JUMP Pilot Project,SVN,http://sourceforge.net/p/jump-pilot/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/cyberoam-iview/code/ cyberoam-iview-code,Cyberoam iView - Open Source SIEM Beta,SVN,http://sourceforge.net/p/cyberoam-iview/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/atunes/code/trunk atunes-code,aTunes,SVN,http://sourceforge.net/p/atunes/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/ucanaccess/code/ ucanaccess-code,UCanAccess,SVN,http://sourceforge.net/p/ucanaccess/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/fidocadj/code/trunk fidocadj-code,FidoCadJ,SVN,http://sourceforge.net/p/fidocadj/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/zk1/git zk1-git,ZK - Simply Ajax and Mobile,GIT,http://sourceforge.net/p/zk1/bugs/,SourceForge
+Source Forge,https://github.com/lballabio/quantlib.git,lballabio/quantlib,GITHUB,https://github.com/lballabio/quantlib/issues,GIT
+Source Forge,svn checkout http://svn.code.sf.net/p/joda-time/svn/trunk joda-time-svn,Joda - Time,SVN,http://sourceforge.net/p/joda-time/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/floreantpos/code/trunk floreantpos-code,Floreant POS,SVN,http://sourceforge.net/p/floreantpos/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/arianne/stendhal arianne-stendhal,Arianne RPG,GIT,http://sourceforge.net/p/arianne/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/schemaspy/code/trunk schemaspy-code,SchemaSpy,SVN,http://sourceforge.net/p/schemaspy/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/bpmn/code/trunk bpmn-code,Yaoqiang BPMN Editor,SVN,http://sourceforge.net/p/bpmn/bugs/,SourceForge
+Source Forge,svn checkout svn://svn.code.sf.net/p/gate/code/gate/trunk gate-code,GATE,SVN,http://sourceforge.net/p/gate/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/sudokuki/svn/trunk sudokuki-svn,Sudokuki - essential sudoku game,SVN,http://sourceforge.net/p/sudokuki/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/freewrl/git freewrl-git,FreeWRL VRML/X3D browser,GIT,http://sourceforge.net/p/freewrl/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/launch4j/git launch4j-git,Launch4j Executable Wrapper,GIT,http://sourceforge.net/p/launch4j/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/editbox/code/ editbox-code,"EditBox Alpha
+",SVN,http://sourceforge.net/p/editbox/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/camprocessor/camedit camprocessor-camedit,XML Editor/Validator/Designer with CAMV,GIT,http://sourceforge.net/p/camprocessor/patches/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/findandreplace/code/trunk findandreplace-code,FAR - Find And Replace,SVN,http://sourceforge.net/p/findandreplace/fartzzz/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/sbml/code/trunk sbml-code,Systems Biology Markup Language (SBML),SVN,http://sourceforge.net/p/sbml/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/easymock/code/trunk easymock-code,EasyMock,SVN,http://sourceforge.net/p/easymock/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/jstock/code jstock-code,JStock - Free Stock Market Software,MERCURIAL,http://sourceforge.net/p/jstock/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/openstego/code/trunk openstego-code,OpenStego,SVN,http://sourceforge.net/p/openstego/bugs/,SourceForge
+Source Forge,git clone git://git.code.sf.net/p/avr-eclipse/code avr-eclipse-code,AVR Plugin for Eclipse,GIT,http://sourceforge.net/p/avr-eclipse/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/mytourbook/code mytourbook-code,MyTourbook,GIT,http://sourceforge.net/p/mytourbook/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/megamek/code/trunk megamek-code,MegaMek,SVN,http://sourceforge.net/p/megamek/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/drgarbagetools/code/trunk drgarbagetools-code,drgarbagetools,SVN,http://sourceforge.net/p/drgarbagetools/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/msgviewer/code/ msgviewer-code,MsgViewer,SVN,http://sourceforge.net/p/msgviewer/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/fullsync/git fullsync-git,FullSync,GIT,http://sourceforge.net/p/fullsync/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/synergyandroid/code synergyandroid-code,Synergy Android Client,GIT,http://sourceforge.net/p/synergyandroid/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/e-guidedog/code/ e-guidedog-code,eGuideDog free software for the blind,SVN,http://sourceforge.net/p/e-guidedog/bugs/,SourceForge
+Source Forge,svn checkout svn://svn.code.sf.net/p/jnetpcap/code/ jnetpcap-code,jNetPcap - PCAP Java Wrapper,SVN,http://sourceforge.net/p/jnetpcap/bugs/,SourceForge
+Source Forge,git clone git://git.code.sf.net/p/opensearchserve/code opensearchserve-code,OpenSearchServer Search Engine,GIT,http://sourceforge.net/p/opensearchserve/bug-report/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/schemacrawler/code_git schemacrawler-code_git,SchemaCrawler,GIT,http://sourceforge.net/p/schemacrawler/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/advancemame/advancemame advancemame-advancemame,AdvanceMAME,Git,http://sourceforge.net/p/advancemame/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/dooble/code/trunk dooble-code,Dooble Web Browser,SVN,http://sourceforge.net/p/dooble/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/sourcecookifier/git sourcecookifier-git,SourceCookifier: Plugin for Notepad++,Git,http://sourceforge.net/p/sourcecookifier/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/boomerang/code/trunk boomerang-code,Boomerang decompiler,SVN,http://sourceforge.net/p/boomerang/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/hunspell/hunspell hunspell-hunspell,Hunspell,Git,http://sourceforge.net/p/hunspell/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/casparcg/code/ casparcg-code,CasparCG: Pro Video & Graphics Play-Out,SVN,http://sourceforge.net/p/casparcg/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/deng/code-0 deng-code-0,Doomsday Engine,Mercurial,http://tracker.skyjake.fi/projects/deng/issues?set_filter=1&tracker_id=1,Doomsday Engine
+Source Forge,svn checkout http://svn.code.sf.net/p/shairport4w/code/ shairport4w-code,Shairport4w,SVN,http://sourceforge.net/p/shairport4w/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/nikkhokkho/code/trunk nikkhokkho-code,Nikkho,SVN,http://sourceforge.net/p/nikkhokkho/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/armagetronad/code/ armagetronad-code,Armagetron Advanced,SVN,http://sourceforge.net/p/armagetronad/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/scidavis/svn/trunk scidavis-svn,SciDAVis,SVN,http://sourceforge.net/p/scidavis/scidavis-bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/onvifdm/code/trunk onvifdm-code,ONVIF Device Manager,SVN,http://sourceforge.net/p/onvifdm/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/npptranslate/code/ npptranslate-code,NppTranslate,SVN,http://sourceforge.net/p/npptranslate/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/alleg/allegro alleg-allegro,Allegro game programming library,Git,http://sourceforge.net/p/alleg/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/qwt/code/trunk qwt-code,"qwt
+",SVN,http://sourceforge.net/p/qwt/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/jslintnpp/code/trunk jslintnpp-code,JSLint Plugin for Notepad++,Git,http://sourceforge.net/p/jslintnpp/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/synkron/code/trunk synkron-code,Synkron,Git,http://sourceforge.net/p/synkron/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/veracrypt/code veracrypt-code,VeraCrypt,Git,http://sourceforge.net/p/veracrypt/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/sagethumbs/code/trunk sagethumbs-code,SageThumbs,SVN,http://sourceforge.net/p/sagethumbs/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/peerguardian/code peerguardian-code,PeerGuardian,Git,http://sourceforge.net/p/peerguardian/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/bowtie-bio/code/ bowtie-bio-code,Bowtie,SVN,http://sourceforge.net/p/bowtie-bio/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/saga-gis/code-0/trunk saga-gis-code-0,SAGA GIS,SVN,http://sourceforge.net/p/saga-gis/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/yabause/code/trunk yabause-code,Yabause,SVN,http://sourceforge.net/p/yabause/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/avogadro/code avogadro-code,Avogadro,Git,http://sourceforge.net/p/avogadro/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/tinycad/code/ tinycad-code,TinyCAD,SVN,http://sourceforge.net/p/tinycad/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/obsproject/code obsproject-code,Open Broadcaster Software,Git,http://sourceforge.net/p/obsproject/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/fceultra/code/fceu/trunk fceultra-code,FCEUX,SVN,http://sourceforge.net/p/fceultra/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/mediainfo/code/ mediainfo-code,MediaInfo,SVN,http://sourceforge.net/p/mediainfo/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/xml-copy-editor/code xml-copy-editor-code,XML Copy Editor,Git,http://sourceforge.net/p/xml-copy-editor/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/espeak/code/trunk espeak-code,eSpeak: speech synthesis,SVN,http://sourceforge.net/p/espeak/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/xviservicethief/code/trunk xviservicethief-code,xVideoServiceThief,SVN,http://sourceforge.net/p/xviservicethief/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/texstudio/hg texstudio-hg,TeXstudio - A LaTeX Editor,Mercurial,http://sourceforge.net/p/texstudio/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/pure-data/svn/trunk pure-data-svn,Pure Data Computer Music System,SVN,http://sourceforge.net/p/pure-data/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/kid3/code kid3-code,Kid3 Tag Editor,Git,http://sourceforge.net/p/kid3/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/vmpk/code/trunk vmpk-code,Virtual MIDI Piano Keyboard,SVN,http://sourceforge.net/p/vmpk/bugs/,SourceForge
+Source Forge,https://github.com/manisandro/gImageReader,gImageReader,Git,https://github.com/manisandro/gImageReader/issues,Git
+Source Forge,https://github.com/iTALC/italc,iTALC - OpenSource classroom management,Git,http://sourceforge.net/p/italc/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/miranda/svn/trunk miranda-svn,Miranda IM,SVN,http://sourceforge.net/p/miranda/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/qucs/git qucs-git,Quite Universal Circuit Simulator,Git,http://sourceforge.net/p/qucs/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/fourchan-dl/code fourchan-dl-code,4chan Downloader,Git,http://sourceforge.net/p/fourchan-dl/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/bochs/code/trunk bochs-code,Bochs x86 PC emulator,SVN,http://sourceforge.net/p/bochs/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/moneymanagerex/code moneymanagerex-code,Money Manager Ex,Git,http://sourceforge.net/p/moneymanagerex/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/freeglut/code/trunk freeglut-code,freeglut,SVN,http://sourceforge.net/p/freeglut/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/passwordsafe/git-code passwordsafe-git-code,Password Safe,Git,http://sourceforge.net/p/passwordsafe/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/scintilla/code scintilla-code,Scintilla,Mercurial,http://sourceforge.net/p/scintilla/bugs/,SourceForge
+Source Forge,https://github.com/pandorafms/pandorafms,Pandora FMS: Flexible Monitoring System,Git,https://github.com/pandorafms/pandorafms/issues,Git
+Source Forge,svn checkout http://svn.code.sf.net/p/swig/code/trunk swig-code,SWIG,SVN,http://sourceforge.net/p/swig/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/dualmonitortool/code/trunk dualmonitortool-code,Dual Monitor Tools,SVN,http://sourceforge.net/p/dualmonitortool/bugs/,SourceForge
+Source Forge,https://github.com/RigsOfRods/rigs-of-rods,Rigs of Rods,Git,https://github.com/RigsOfRods/rigs-of-rods/issues,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/celestia/code/trunk celestia-code,Celestia,SVN,http://sourceforge.net/p/celestia/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/flightgear/flightgear flightgear-flightgear,FlightGear - Flight Simulator,Git,http://sourceforge.net/p/flightgear/codetickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/npp-compare/code npp-compare-code,Notepad++ Compare plugin,Git,http://sourceforge.net/p/npp-compare/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/smplayer/code/ smplayer-code,SMPlayer,SVN,http://sourceforge.net/p/smplayer/bugs/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/texniccenter/code texniccenter-code,TeXnicCenter,Mercurial,http://sourceforge.net/p/texniccenter/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/equalizerapo/code/trunk equalizerapo-code,Equalizer APO,,http://sourceforge.net/p/equalizerapo/tickets/,SourceForge
+Source Forge,https://github.com/gitextensions/gitextensions.git,Git Extensions,Git,https://github.com/gitextensions/gitextensions/issues,Git
+Source Forge,git clone http://git.code.sf.net/p/kdiff3/code kdiff3-code,KDiff3,Git,http://sourceforge.net/p/kdiff3/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/glew/code glew-code,"The OpenGL Extension Wrangler Library
+",Git,http://sourceforge.net/p/glew/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/avisynth2/svn/ avisynth2-svn,Avisynth rev. 2,SVN,http://sourceforge.net/p/avisynth2/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/vbam/code/trunk vbam-code,VBA-M,SVN,http://sourceforge.net/p/vbam/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/djvu/code djvu-code,DjVuLibre,Git,http://sourceforge.net/p/djvu/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/nsis/code/ nsis-code,NSIS: Nullsoft Scriptable Install System,SVN,http://sourceforge.net/p/nsis/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/ultradefrag/code/trunk ultradefrag-code,UltraDefrag,SVN,http://sourceforge.net/p/ultradefrag/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/classicshell/code/ classicshell-code,Classic Shell,SVN,http://sourceforge.net/p/classicshell/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/cutter/code cutter-code,Cutter,Git,http://sourceforge.net/p/cutter/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/meshlab/code/trunk meshlab-code,MeshLab,SVN,http://sourceforge.net/p/meshlab/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/mpcbe/code/trunk mpcbe-code,MPC-BE,SVN,http://sourceforge.net/p/mpcbe/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/shareaza/code/trunk shareaza-code,Shareaza,SVN,http://sourceforge.net/p/shareaza/tickets/,SourceForge
+Source Forge,hg clone http://hg.code.sf.net/p/tdm-gcc/code tdm-gcc-code,TDM-GCC MinGW Compiler,Mercurial,http://sourceforge.net/p/tdm-gcc/bugs/,SourceForge
+Source Forge,https://github.com/angryziber/ipscan.git,Angry IP Scanner,Git,https://github.com/angryziber/ipscan/issues,Git
+Source Forge,git clone http://git.code.sf.net/p/camstudio/code camstudio-code,CamStudio - Screen Recorder,Git,http://sourceforge.net/p/camstudio/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/conemu/code conemu-code,ConEmu - Windows console with tabs,Git,http://sourceforge.net/p/conemu/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/infrarecorder/code infrarecorder-code,InfraRecorder,Git,http://sourceforge.net/p/infrarecorder/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/ext2fsd/code ext2fsd-code,Ext2 File System Driver for Windows,Git,http://sourceforge.net/p/ext2fsd/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/npppythonscript/code npppythonscript-code,Notepad++ Python Script,Git,http://sourceforge.net/p/npppythonscript/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/free-cad/code free-cad-code,FreeCAD,Git,http://www.freecadweb.org/tracker/my_view_page.php,mantis
+Source Forge,svn checkout http://svn.code.sf.net/p/sakura-editor/code/ sakura-editor-code,Sakura Editor,SVN,http://sourceforge.net/p/sakura-editor/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/clamwin/code clamwin-code,ClamWin,Git,http://sourceforge.net/p/clamwin/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/mingw-w64/code/trunk mingw-w64-code,MinGW-w64 - for 32 and 64 bit Windows,SVN,http://sourceforge.net/p/mingw-w64/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/ffdshow-tryout/code/trunk ffdshow-tryout-code,ffdshow,SVN,http://sourceforge.net/p/ffdshow-tryout/bugs/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/desmume/code/trunk desmume-code,DeSmuME Beta,Svn,http://sourceforge.net/p/desmume/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dosbox/code-0/dosbox/trunk dosbox-code-0,DOSBox,SVN,http://sourceforge.net/p/dosbox/bugs/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/orwelldevcpp/code orwelldevcpp-code,Dev-C++,Git,http://sourceforge.net/p/orwelldevcpp/tickets/,SourceForge
+Source Forge,git clone http://git.code.sf.net/p/win32diskimager/code win32diskimager-code,Win32 Disk Imager Beta,Git,http://sourceforge.net/p/win32diskimager/tickets/,SourceForge
+Source Forge,https://github.com/pelya/commandergenius.git,libsdl-android,Git,https://github.com/pelya/commandergenius/issues,Git
+Source Forge,svn checkout http://svn.code.sf.net/p/codeblocks/code/trunk codeblocks-code,Code::Blocks,SVN,http://sourceforge.net/p/codeblocks/tickets/,SourceForge
+Source Forge,svn checkout http://svn.code.sf.net/p/audacity/svn/ audacity-svn,Audacity,SVN,http://bugzilla.audacityteam.org/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__all__&product=Audacity&content=,Bugzilla
+Source Forge,svn checkout http://svn.code.sf.net/p/keepass/code/trunk keepass-code,KeePass,SVN,http://sourceforge.net/p/keepass/bugs/,SourceForge
+Source Forge,https://github.com/ashkulz/NppFTP.git,NppFTP,Git,https://github.com/ashkulz/NppFTP/issues,Git
+Source Forge,svn checkout http://svn.code.sf.net/p/portableapps/code/ portableapps-code,PortableApps.com,SVN,http://sourceforge.net/p/portableapps/bugs/,SourceForge
+Source Forge,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,FileZilla,SVN,http://trac.filezilla-project.org/wiki/Queries,Trac
+Source Forge,http://svn.code.sf.net/p/gsoap2/code/ gsoap2-code,gSOAP Toolkit,SVN,http://sourceforge.net/p/gsoap2/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/tortoisesvn/code/ tortoisesvn-code,TortoiseSVN,SVN,http://sourceforge.net/p/tortoisesvn/tickets/,SourceForge
