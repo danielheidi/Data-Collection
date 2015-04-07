@@ -532,199 +532,333 @@ Source Forge,https://github.com/exoplatform/chromattic.git,chromattic,Git,https:
 Source Forge,https://github.com/exoplatform/cp-opencloudware.git,exoplatform/cp-opencloudware,Git,https://github.com/exoplatform/cp-opencloudware/issues,Git
 Source Forge,https://github.com/exoplatform/chat-application.git,exoplatform/chat-application,Git,https://github.com/exoplatform/chat-application/issues,Git
 Source Forge,https://github.com/pelya/commandergenius.git,pelya/commandergenius,Git,https://github.com/pelya/commandergenius/issues,Git
-Source Forge,svn checkout http://svn.code.sf.net/p/tripleamaps/code/trunk tripleamaps-code,TripleA Maps,SVN,http://sourceforge.net/p/tripleamaps/bugs/,SourceForge
-Source Forge,git clone git://git.code.sf.net/p/squirrel-sql/git squirrel-sql-git,SQuirreL SQL Client,Git,http://sourceforge.net/p/squirrel-sql/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/freemind/code freemind-code,FreeMind,Git,http://sourceforge.net/p/freemind/issues/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/pdfsam/code/ pdfsam-code,PDF Split and Merge,SVN,http://sourceforge.net/p/pdfsam/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/linuxonandroid/codegit linuxonandroid-codegit,LinuxonAndroid,GIT,http://sourceforge.net/p/linuxonandroid/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/catacombae/catacombae catacombae-catacombae,Catacombae,GIT,http://sourceforge.net/p/catacombae/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/tripleamaps/code/trunk tripleamaps-code,TripleA Maps,SVN,http://sourceforge.net/p/tripleamaps/bugs/,SourceForge
+Source Forge,git://git.code.sf.net/p/squirrel-sql/git squirrel-sql-git,SQuirreL SQL Client,Git,http://sourceforge.net/p/squirrel-sql/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/freemind/code freemind-code,FreeMind,Git,http://sourceforge.net/p/freemind/issues/,SourceForge
+Source Forge,http://svn.code.sf.net/p/pdfsam/code/ pdfsam-code,PDF Split and Merge,SVN,http://sourceforge.net/p/pdfsam/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/linuxonandroid/codegit linuxonandroid-codegit,LinuxonAndroid,GIT,http://sourceforge.net/p/linuxonandroid/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/catacombae/catacombae catacombae-catacombae,Catacombae,GIT,http://sourceforge.net/p/catacombae/bugs/,SourceForge
 Source Forge,https://github.com/UniversalMediaServer/UniversalMediaServer.git,UniversalMediaServer/UniversalMediaServer,Git,https://github.com/UniversalMediaServer/UniversalMediaServer/issues,GIT
-Source Forge,git clone http://git.code.sf.net/p/projectlibre/code projectlibre-code,ProjectLibre,Git,http://sourceforge.net/p/projectlibre/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/crengine/crengine crengine-crengine,Cool Reader,GIT,http://sourceforge.net/p/crengine/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/projectlibre/code projectlibre-code,ProjectLibre,Git,http://sourceforge.net/p/projectlibre/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/crengine/crengine crengine-crengine,Cool Reader,GIT,http://sourceforge.net/p/crengine/bugs/,SourceForge
 Source Forge,https://github.com/angryziber/ipscan.git,angryziber/ipscan,GIT,https://github.com/angryziber/ipscan/issues,GIT
-Source Forge,git clone http://git.code.sf.net/p/subsonic/git subsonic-git,Subsonic,GIT,http://sourceforge.net/p/subsonic/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/winpenpack/code/trunk winpenpack-code,winPenPack,SVN,http://sourceforge.net/p/winpenpack/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/tuxguitar/code/trunk tuxguitar-code,TuxGuitar,SVN,http://sourceforge.net/p/tuxguitar/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/jedit/Accents jedit-Accents,jEdit,GIT,http://sourceforge.net/p/jedit/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/drjava/git_repo drjava-git_repo,DrJava,GIT,http://sourceforge.net/p/drjava/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/subsonic/git subsonic-git,Subsonic,GIT,http://sourceforge.net/p/subsonic/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/winpenpack/code/trunk winpenpack-code,winPenPack,SVN,http://sourceforge.net/p/winpenpack/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/tuxguitar/code/trunk tuxguitar-code,TuxGuitar,SVN,http://sourceforge.net/p/tuxguitar/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/jedit/Accents jedit-Accents,jEdit,GIT,http://sourceforge.net/p/jedit/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/drjava/git_repo drjava-git_repo,DrJava,GIT,http://sourceforge.net/p/drjava/bugs/,SourceForge
 Source Forge,https://github.com/freeplane/freeplane,freeplane,GIT,https://github.com/freeplane/freeplane/issues,GITHUB
 Source Forge,http://git.code.sf.net/p/jabref/code jabref-code,JabRef,GIT,http://sourceforge.net/p/jabref/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/jasperreports/code jasperreports-code,JasperReports Library,GIT,http://community.jaspersoft.com/bug-tracker?field_bug_project_target_id=202,JasperReports
-Source Forge,svn checkout http://svn.code.sf.net/p/jtds/code/trunk jtds-code,jTDS - SQL Server and Sybase JDBC driver,SVN,http://sourceforge.net/p/jtds/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/libjpeg-turbo/code/trunk libjpeg-turbo-code,libjpeg-turbo,SVN,http://sourceforge.net/p/libjpeg-turbo/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/jxplorer/code/ jxplorer-code,JXplorer - A Java Ldap Browser,SVN,http://sourceforge.net/p/jxplorer/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/shelled/code shelled-code,ShellEd,GIT,http://sourceforge.net/p/shelled/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/tvbrowser/code/trunk tvbrowser-code,TV-Browser - A free EPG,SVN,http://sourceforge.net/p/tvbrowser/_list/tickets,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/davmail/code/trunk davmail-code,DavMail POP/IMAP/SMTP/Caldav to Exchange,SVN,http://sourceforge.net/p/davmail/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/mobac/code/trunk/MOBAC mobac-code,Mobile Atlas Creator,SVN,http://sourceforge.net/p/mobac/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/omegat/code omegat-code,OmegaT - multiplatform CAT tool,GIT,http://sourceforge.net/p/omegat/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/ho1/code/trunk ho1-code,Hattrick Organizer,SVN,http://sourceforge.net/p/ho1/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/hsqldb/tmp hsqldb-tmp,HyperSQL Database Engine (HSQLDB),GIT,http://sourceforge.net/p/hsqldb/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/docfetcher/code docfetcher-code,DocFetcher,GIT,http://sourceforge.net/p/docfetcher/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/saxon/code/trunk saxon-code,Saxon XSLT and XQuery Processor,SVN,http://sourceforge.net/p/saxon/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/aoi/code/ aoi-code,Art of Illusion,SVN,http://sourceforge.net/p/aoi/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/triplea/code/trunk triplea-code,TripleA,SVN,http://sourceforge.net/p/triplea/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/freemarker/code/trunk freemarker-code,FreeMarker template engine,SVN,http://sourceforge.net/p/freemarker/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/freecol/git freecol-git,FreeCol,GIT,http://sourceforge.net/p/freecol/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/grinder/code grinder-code,The Grinder,GIT,http://sourceforge.net/p/grinder/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/proguard/code proguard-code,ProGuard Java Optimizer and Obfuscator,MERCURIAL,http://sourceforge.net/p/proguard/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/openbravo/code openbravo-code,Openbravo ERP,MERCURIAL,http://sourceforge.net/p/openbravo/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/openkm/code/trunk openkm-code,OpenKM Document Management - DMS,SVN,http://sourceforge.net/p/openkm/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/jasperreports/code jasperreports-code,JasperReports Library,GIT,http://community.jaspersoft.com/bug-tracker?field_bug_project_target_id=202,JasperReports
+Source Forge,http://svn.code.sf.net/p/jtds/code/trunk jtds-code,jTDS - SQL Server and Sybase JDBC driver,SVN,http://sourceforge.net/p/jtds/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/libjpeg-turbo/code/trunk libjpeg-turbo-code,libjpeg-turbo,SVN,http://sourceforge.net/p/libjpeg-turbo/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/jxplorer/code/ jxplorer-code,JXplorer - A Java Ldap Browser,SVN,http://sourceforge.net/p/jxplorer/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/shelled/code shelled-code,ShellEd,GIT,http://sourceforge.net/p/shelled/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/tvbrowser/code/trunk tvbrowser-code,TV-Browser - A free EPG,SVN,http://sourceforge.net/p/tvbrowser/_list/tickets,SourceForge
+Source Forge,http://svn.code.sf.net/p/davmail/code/trunk davmail-code,DavMail POP/IMAP/SMTP/Caldav to Exchange,SVN,http://sourceforge.net/p/davmail/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mobac/code/trunk/MOBAC mobac-code,Mobile Atlas Creator,SVN,http://sourceforge.net/p/mobac/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/omegat/code omegat-code,OmegaT - multiplatform CAT tool,GIT,http://sourceforge.net/p/omegat/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ho1/code/trunk ho1-code,Hattrick Organizer,SVN,http://sourceforge.net/p/ho1/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/hsqldb/tmp hsqldb-tmp,HyperSQL Database Engine (HSQLDB),GIT,http://sourceforge.net/p/hsqldb/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/docfetcher/code docfetcher-code,DocFetcher,GIT,http://sourceforge.net/p/docfetcher/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/saxon/code/trunk saxon-code,Saxon XSLT and XQuery Processor,SVN,http://sourceforge.net/p/saxon/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/aoi/code/ aoi-code,Art of Illusion,SVN,http://sourceforge.net/p/aoi/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/triplea/code/trunk triplea-code,TripleA,SVN,http://sourceforge.net/p/triplea/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/freemarker/code/trunk freemarker-code,FreeMarker template engine,SVN,http://sourceforge.net/p/triplea/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/freecol/git freecol-git,FreeCol,GIT,http://sourceforge.net/p/freecol/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/grinder/code grinder-code,The Grinder,GIT,http://sourceforge.net/p/grinder/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/proguard/code proguard-code,ProGuard Java Optimizer and Obfuscator,MERCURIAL,http://sourceforge.net/p/proguard/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/openbravo/code openbravo-code,Openbravo ERP,MERCURIAL,http://sourceforge.net/p/openbravo/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/openkm/code/trunk openkm-code,OpenKM Document Management - DMS,SVN,http://sourceforge.net/p/openkm/tickets/,SourceForge
 Source Forge,https://github.com/robo-code/robocode.git,robo-code/robocode,GITHUB,http://sourceforge.net/p/robocode/bugs/?source=navbar,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/keystore-explorer/code keystore-explorer-code,KeyStore Explorer,GIT,http://sourceforge.net/p/keystore-explorer/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/jmri/code/trunk jmri-code,JMRI Model Railroad Interface,SVN,http://sourceforge.net/p/jmri/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/adempiere/svn/ adempiere-svn,ADempiere ERP Business Suite,SVN,http://sourceforge.net/p/adempiere/_list/tickets,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/assimp/code/ assimp-code,Open Asset Import Library,SVN,http://sourceforge.net/p/assimp/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/openrocket/code/trunk openrocket-code,OpenRocket,SVN,http://sourceforge.net/p/openrocket/bug-reports/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/ganttproject/code-0 ganttproject-code-0,GanttProject,MERCURIAL,http://sourceforge.net/p/ganttproject/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/tomcatplugin/code tomcatplugin-code,Eclipse Tomcat Plugin,GIT,http://sourceforge.net/p/tomcatplugin/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/keystore-explorer/code keystore-explorer-code,KeyStore Explorer,GIT,http://sourceforge.net/p/keystore-explorer/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/jmri/code/trunk jmri-code,JMRI Model Railroad Interface,SVN,http://sourceforge.net/p/jmri/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/adempiere/svn/ adempiere-svn,ADempiere ERP Business Suite,SVN,http://sourceforge.net/p/adempiere/_list/tickets,SourceForge
+Source Forge,http://svn.code.sf.net/p/assimp/code/ assimp-code,Open Asset Import Library,SVN,http://sourceforge.net/p/assimp/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/openrocket/code/trunk openrocket-code,OpenRocket,SVN,http://sourceforge.net/p/openrocket/bug-reports/,SourceForge
+Source Forge,http://hg.code.sf.net/p/ganttproject/code-0 ganttproject-code-0,GanttProject,MERCURIAL,http://sourceforge.net/p/ganttproject/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/tomcatplugin/code tomcatplugin-code,Eclipse Tomcat Plugin,GIT,http://sourceforge.net/p/tomcatplugin/tickets/,SourceForge
 Source Forge,https://github.com/mballance/sveditor.git,mballance/sveditor,GITHUB,http://sourceforge.net/p/sveditor/bugs/?source=navbar,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/upnp-portmapper/code/trunk upnp-portmapper-code,UPnP PortMapper,SVN,http://sourceforge.net/p/upnp-portmapper/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/plotdigitizer/code/trunk plotdigitizer-code,Plot Digitizer,SVN,http://sourceforge.net/p/plotdigitizer/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/mcmc-jags/code-0 mcmc-jags-code-0,JAGS: Just Another Gibbs Sampler,MERCURIAL,http://sourceforge.net/p/mcmc-jags/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/opencsv/source opencsv-source,opencsv,GIT,http://sourceforge.net/p/opencsv/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/kmttg/code/trunk kmttg-code,kmttg,SVN,http://sourceforge.net/p/kmttg/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/eclemma/code/ eclemma-code,EclEmma - Java Code Coverage for Eclipse,SVN,http://sourceforge.net/p/eclemma/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/domination/code/Domination domination-code,Domination (Risk Board Game),SVN,http://sourceforge.net/p/domination/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/clipsrules/code/ clipsrules-code,CLIPS Rule Based Programming Language,SVN,http://sourceforge.net/p/clipsrules/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/ermaster/svn/ ermaster-svn,ERMaster Alpha,SVN,http://sourceforge.net/p/ermaster/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/jubler/code jubler-code,Jubler subtitle editor,MERCURIAL,http://sourceforge.net/p/jubler/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/rodin-b-sharp/svn/trunk rodin-b-sharp-svn,RODIN,SVN,http://sourceforge.net/p/rodin-b-sharp/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/htmlunit/code/trunk htmlunit-code,HtmlUnit,SVN,http://sourceforge.net/p/htmlunit/bugs/,SourceForge
-Source Forge,svn checkout svn://svn.code.sf.net/p/ytd2/code/trunk/ytd2 ytd2-code,java YouTube video Downloader (ytd2),SVN,http://sourceforge.net/p/ytd2/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/mtgbrowser/git mtgbrowser-git,Magic Assistant,GIT,http://sourceforge.net/p/mtgbrowser/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/neuroph/code/trunk neuroph-code,Java Neural Network Framework Neuroph,SVN,http://sourceforge.net/p/neuroph/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/portecle/code portecle-code,Portecle,GIT,http://sourceforge.net/p/portecle/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/hellonzb/code/trunk hellonzb-code,HelloNzb,SVN,http://sourceforge.net/p/hellonzb/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/jump-pilot/code/ jump-pilot-code,The JUMP Pilot Project,SVN,http://sourceforge.net/p/jump-pilot/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/cyberoam-iview/code/ cyberoam-iview-code,Cyberoam iView - Open Source SIEM Beta,SVN,http://sourceforge.net/p/cyberoam-iview/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/atunes/code/trunk atunes-code,aTunes,SVN,http://sourceforge.net/p/atunes/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/ucanaccess/code/ ucanaccess-code,UCanAccess,SVN,http://sourceforge.net/p/ucanaccess/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/fidocadj/code/trunk fidocadj-code,FidoCadJ,SVN,http://sourceforge.net/p/fidocadj/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/zk1/git zk1-git,ZK - Simply Ajax and Mobile,GIT,http://sourceforge.net/p/zk1/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/upnp-portmapper/code/trunk upnp-portmapper-code,UPnP PortMapper,SVN,http://sourceforge.net/p/upnp-portmapper/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/plotdigitizer/code/trunk plotdigitizer-code,Plot Digitizer,SVN,http://sourceforge.net/p/plotdigitizer/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/mcmc-jags/code-0 mcmc-jags-code-0,JAGS: Just Another Gibbs Sampler,MERCURIAL,http://sourceforge.net/p/mcmc-jags/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/opencsv/source opencsv-source,opencsv,GIT,http://sourceforge.net/p/opencsv/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/kmttg/code/trunk kmttg-code,kmttg,SVN,http://sourceforge.net/p/kmttg/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/eclemma/code/ eclemma-code,EclEmma - Java Code Coverage for Eclipse,SVN,http://sourceforge.net/p/eclemma/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/domination/code/Domination domination-code,Domination (Risk Board Game),SVN,http://sourceforge.net/p/domination/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/clipsrules/code/ clipsrules-code,CLIPS Rule Based Programming Language,SVN,http://sourceforge.net/p/clipsrules/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ermaster/svn/ ermaster-svn,ERMaster Alpha,SVN,http://sourceforge.net/p/ermaster/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/jubler/code jubler-code,Jubler subtitle editor,MERCURIAL,http://sourceforge.net/p/jubler/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/rodin-b-sharp/svn/trunk rodin-b-sharp-svn,RODIN,SVN,http://sourceforge.net/p/rodin-b-sharp/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/htmlunit/code/trunk htmlunit-code,HtmlUnit,SVN,http://sourceforge.net/p/htmlunit/bugs/,SourceForge
+Source Forge,svn://svn.code.sf.net/p/ytd2/code/trunk/ytd2 ytd2-code,java YouTube video Downloader (ytd2),SVN,http://sourceforge.net/p/ytd2/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/mtgbrowser/git mtgbrowser-git,Magic Assistant,GIT,http://sourceforge.net/p/mtgbrowser/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/neuroph/code/trunk neuroph-code,Java Neural Network Framework Neuroph,SVN,http://sourceforge.net/p/neuroph/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/portecle/code portecle-code,Portecle,GIT,http://sourceforge.net/p/portecle/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/hellonzb/code/trunk hellonzb-code,HelloNzb,SVN,http://sourceforge.net/p/hellonzb/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/jump-pilot/code/ jump-pilot-code,The JUMP Pilot Project,SVN,http://sourceforge.net/p/jump-pilot/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/cyberoam-iview/code/ cyberoam-iview-code,Cyberoam iView - Open Source SIEM Beta,SVN,http://sourceforge.net/p/cyberoam-iview/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/atunes/code/trunk atunes-code,aTunes,SVN,http://sourceforge.net/p/atunes/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ucanaccess/code/ ucanaccess-code,UCanAccess,SVN,http://sourceforge.net/p/ucanaccess/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/fidocadj/code/trunk fidocadj-code,FidoCadJ,SVN,http://sourceforge.net/p/fidocadj/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/zk1/git zk1-git,ZK - Simply Ajax and Mobile,GIT,http://sourceforge.net/p/zk1/bugs/,SourceForge
 Source Forge,https://github.com/lballabio/quantlib.git,lballabio/quantlib,GITHUB,https://github.com/lballabio/quantlib/issues,GIT
-Source Forge,svn checkout http://svn.code.sf.net/p/joda-time/svn/trunk joda-time-svn,Joda - Time,SVN,http://sourceforge.net/p/joda-time/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/floreantpos/code/trunk floreantpos-code,Floreant POS,SVN,http://sourceforge.net/p/floreantpos/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/arianne/stendhal arianne-stendhal,Arianne RPG,GIT,http://sourceforge.net/p/arianne/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/schemaspy/code/trunk schemaspy-code,SchemaSpy,SVN,http://sourceforge.net/p/schemaspy/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/bpmn/code/trunk bpmn-code,Yaoqiang BPMN Editor,SVN,http://sourceforge.net/p/bpmn/bugs/,SourceForge
-Source Forge,svn checkout svn://svn.code.sf.net/p/gate/code/gate/trunk gate-code,GATE,SVN,http://sourceforge.net/p/gate/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/sudokuki/svn/trunk sudokuki-svn,Sudokuki - essential sudoku game,SVN,http://sourceforge.net/p/sudokuki/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/freewrl/git freewrl-git,FreeWRL VRML/X3D browser,GIT,http://sourceforge.net/p/freewrl/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/launch4j/git launch4j-git,Launch4j Executable Wrapper,GIT,http://sourceforge.net/p/launch4j/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/editbox/code/ editbox-code,"EditBox Alpha
+Source Forge,http://svn.code.sf.net/p/joda-time/svn/trunk joda-time-svn,Joda - Time,SVN,http://sourceforge.net/p/joda-time/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/floreantpos/code/trunk floreantpos-code,Floreant POS,SVN,http://sourceforge.net/p/floreantpos/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/arianne/stendhal arianne-stendhal,Arianne RPG,GIT,http://sourceforge.net/p/arianne/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/schemaspy/code/trunk schemaspy-code,SchemaSpy,SVN,http://sourceforge.net/p/schemaspy/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/bpmn/code/trunk bpmn-code,Yaoqiang BPMN Editor,SVN,http://sourceforge.net/p/bpmn/bugs/,SourceForge
+Source Forge,svn://svn.code.sf.net/p/gate/code/gate/trunk gate-code,GATE,SVN,http://sourceforge.net/p/gate/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/sudokuki/svn/trunk sudokuki-svn,Sudokuki - essential sudoku game,SVN,http://sourceforge.net/p/sudokuki/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/freewrl/git freewrl-git,FreeWRL VRML/X3D browser,GIT,http://sourceforge.net/p/freewrl/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/launch4j/git launch4j-git,Launch4j Executable Wrapper,GIT,http://sourceforge.net/p/launch4j/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/editbox/code/ editbox-code,"EditBox Alpha
 ",SVN,http://sourceforge.net/p/editbox/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/camprocessor/camedit camprocessor-camedit,XML Editor/Validator/Designer with CAMV,GIT,http://sourceforge.net/p/camprocessor/patches/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/findandreplace/code/trunk findandreplace-code,FAR - Find And Replace,SVN,http://sourceforge.net/p/findandreplace/fartzzz/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/sbml/code/trunk sbml-code,Systems Biology Markup Language (SBML),SVN,http://sourceforge.net/p/sbml/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/easymock/code/trunk easymock-code,EasyMock,SVN,http://sourceforge.net/p/easymock/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/jstock/code jstock-code,JStock - Free Stock Market Software,MERCURIAL,http://sourceforge.net/p/jstock/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/openstego/code/trunk openstego-code,OpenStego,SVN,http://sourceforge.net/p/openstego/bugs/,SourceForge
-Source Forge,git clone git://git.code.sf.net/p/avr-eclipse/code avr-eclipse-code,AVR Plugin for Eclipse,GIT,http://sourceforge.net/p/avr-eclipse/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/mytourbook/code mytourbook-code,MyTourbook,GIT,http://sourceforge.net/p/mytourbook/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/megamek/code/trunk megamek-code,MegaMek,SVN,http://sourceforge.net/p/megamek/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/drgarbagetools/code/trunk drgarbagetools-code,drgarbagetools,SVN,http://sourceforge.net/p/drgarbagetools/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/msgviewer/code/ msgviewer-code,MsgViewer,SVN,http://sourceforge.net/p/msgviewer/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/fullsync/git fullsync-git,FullSync,GIT,http://sourceforge.net/p/fullsync/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/synergyandroid/code synergyandroid-code,Synergy Android Client,GIT,http://sourceforge.net/p/synergyandroid/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/e-guidedog/code/ e-guidedog-code,eGuideDog free software for the blind,SVN,http://sourceforge.net/p/e-guidedog/bugs/,SourceForge
-Source Forge,svn checkout svn://svn.code.sf.net/p/jnetpcap/code/ jnetpcap-code,jNetPcap - PCAP Java Wrapper,SVN,http://sourceforge.net/p/jnetpcap/bugs/,SourceForge
-Source Forge,git clone git://git.code.sf.net/p/opensearchserve/code opensearchserve-code,OpenSearchServer Search Engine,GIT,http://sourceforge.net/p/opensearchserve/bug-report/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/schemacrawler/code_git schemacrawler-code_git,SchemaCrawler,GIT,http://sourceforge.net/p/schemacrawler/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/advancemame/advancemame advancemame-advancemame,AdvanceMAME,Git,http://sourceforge.net/p/advancemame/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/dooble/code/trunk dooble-code,Dooble Web Browser,SVN,http://sourceforge.net/p/dooble/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/sourcecookifier/git sourcecookifier-git,SourceCookifier: Plugin for Notepad++,Git,http://sourceforge.net/p/sourcecookifier/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/boomerang/code/trunk boomerang-code,Boomerang decompiler,SVN,http://sourceforge.net/p/boomerang/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/hunspell/hunspell hunspell-hunspell,Hunspell,Git,http://sourceforge.net/p/hunspell/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/casparcg/code/ casparcg-code,CasparCG: Pro Video & Graphics Play-Out,SVN,http://sourceforge.net/p/casparcg/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/deng/code-0 deng-code-0,Doomsday Engine,Mercurial,http://tracker.skyjake.fi/projects/deng/issues?set_filter=1&tracker_id=1,Doomsday Engine
-Source Forge,svn checkout http://svn.code.sf.net/p/shairport4w/code/ shairport4w-code,Shairport4w,SVN,http://sourceforge.net/p/shairport4w/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/nikkhokkho/code/trunk nikkhokkho-code,Nikkho,SVN,http://sourceforge.net/p/nikkhokkho/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/armagetronad/code/ armagetronad-code,Armagetron Advanced,SVN,http://sourceforge.net/p/armagetronad/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/scidavis/svn/trunk scidavis-svn,SciDAVis,SVN,http://sourceforge.net/p/scidavis/scidavis-bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/onvifdm/code/trunk onvifdm-code,ONVIF Device Manager,SVN,http://sourceforge.net/p/onvifdm/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/npptranslate/code/ npptranslate-code,NppTranslate,SVN,http://sourceforge.net/p/npptranslate/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/alleg/allegro alleg-allegro,Allegro game programming library,Git,http://sourceforge.net/p/alleg/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/qwt/code/trunk qwt-code,"qwt
+Source Forge,http://git.code.sf.net/p/camprocessor/camedit camprocessor-camedit,XML Editor/Validator/Designer with CAMV,GIT,http://sourceforge.net/p/camprocessor/patches/,SourceForge
+Source Forge,http://svn.code.sf.net/p/findandreplace/code/trunk findandreplace-code,FAR - Find And Replace,SVN,http://sourceforge.net/p/findandreplace/fartzzz/,SourceForge
+Source Forge,http://svn.code.sf.net/p/sbml/code/trunk sbml-code,Systems Biology Markup Language (SBML),SVN,http://sourceforge.net/p/sbml/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/easymock/code/trunk easymock-code,EasyMock,SVN,http://sourceforge.net/p/easymock/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/jstock/code jstock-code,JStock - Free Stock Market Software,MERCURIAL,http://sourceforge.net/p/jstock/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/openstego/code/trunk openstego-code,OpenStego,SVN,http://sourceforge.net/p/openstego/bugs/,SourceForge
+Source Forge,git://git.code.sf.net/p/avr-eclipse/code avr-eclipse-code,AVR Plugin for Eclipse,GIT,http://sourceforge.net/p/avr-eclipse/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/mytourbook/code mytourbook-code,MyTourbook,GIT,http://sourceforge.net/p/mytourbook/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/megamek/code/trunk megamek-code,MegaMek,SVN,http://sourceforge.net/p/megamek/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/drgarbagetools/code/trunk drgarbagetools-code,drgarbagetools,SVN,http://sourceforge.net/p/drgarbagetools/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/msgviewer/code/ msgviewer-code,MsgViewer,SVN,http://sourceforge.net/p/msgviewer/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/fullsync/git fullsync-git,FullSync,GIT,http://sourceforge.net/p/fullsync/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/synergyandroid/code synergyandroid-code,Synergy Android Client,GIT,http://sourceforge.net/p/synergyandroid/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/e-guidedog/code/ e-guidedog-code,eGuideDog free software for the blind,SVN,http://sourceforge.net/p/e-guidedog/bugs/,SourceForge
+Source Forge,svn://svn.code.sf.net/p/jnetpcap/code/ jnetpcap-code,jNetPcap - PCAP Java Wrapper,SVN,http://sourceforge.net/p/jnetpcap/bugs/,SourceForge
+Source Forge,git://git.code.sf.net/p/opensearchserve/code opensearchserve-code,OpenSearchServer Search Engine,GIT,http://sourceforge.net/p/opensearchserve/bug-report/,SourceForge
+Source Forge,http://git.code.sf.net/p/schemacrawler/code_git schemacrawler-code_git,SchemaCrawler,GIT,http://sourceforge.net/p/schemacrawler/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/advancemame/advancemame advancemame-advancemame,AdvanceMAME,Git,http://sourceforge.net/p/advancemame/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dooble/code/trunk dooble-code,Dooble Web Browser,SVN,http://sourceforge.net/p/dooble/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/sourcecookifier/git sourcecookifier-git,SourceCookifier: Plugin for Notepad++,Git,http://sourceforge.net/p/sourcecookifier/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/boomerang/code/trunk boomerang-code,Boomerang decompiler,SVN,http://sourceforge.net/p/boomerang/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/hunspell/hunspell hunspell-hunspell,Hunspell,Git,http://sourceforge.net/p/hunspell/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/casparcg/code/ casparcg-code,CasparCG: Pro Video & Graphics Play-Out,SVN,http://sourceforge.net/p/casparcg/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/deng/code-0 deng-code-0,Doomsday Engine,Mercurial,http://tracker.skyjake.fi/projects/deng/issues?set_filter=1&tracker_id=1,Doomsday Engine
+Source Forge,http://svn.code.sf.net/p/shairport4w/code/ shairport4w-code,Shairport4w,SVN,http://sourceforge.net/p/shairport4w/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/nikkhokkho/code/trunk nikkhokkho-code,Nikkho,SVN,http://sourceforge.net/p/nikkhokkho/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/armagetronad/code/ armagetronad-code,Armagetron Advanced,SVN,http://sourceforge.net/p/armagetronad/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/scidavis/svn/trunk scidavis-svn,SciDAVis,SVN,http://sourceforge.net/p/scidavis/scidavis-bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/onvifdm/code/trunk onvifdm-code,ONVIF Device Manager,SVN,http://sourceforge.net/p/onvifdm/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/npptranslate/code/ npptranslate-code,NppTranslate,SVN,http://sourceforge.net/p/npptranslate/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/alleg/allegro alleg-allegro,Allegro game programming library,Git,http://sourceforge.net/p/alleg/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/qwt/code/trunk qwt-code,"qwt
 ",SVN,http://sourceforge.net/p/qwt/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/jslintnpp/code/trunk jslintnpp-code,JSLint Plugin for Notepad++,Git,http://sourceforge.net/p/jslintnpp/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/synkron/code/trunk synkron-code,Synkron,Git,http://sourceforge.net/p/synkron/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/veracrypt/code veracrypt-code,VeraCrypt,Git,http://sourceforge.net/p/veracrypt/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/sagethumbs/code/trunk sagethumbs-code,SageThumbs,SVN,http://sourceforge.net/p/sagethumbs/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/peerguardian/code peerguardian-code,PeerGuardian,Git,http://sourceforge.net/p/peerguardian/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/bowtie-bio/code/ bowtie-bio-code,Bowtie,SVN,http://sourceforge.net/p/bowtie-bio/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/saga-gis/code-0/trunk saga-gis-code-0,SAGA GIS,SVN,http://sourceforge.net/p/saga-gis/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/yabause/code/trunk yabause-code,Yabause,SVN,http://sourceforge.net/p/yabause/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/avogadro/code avogadro-code,Avogadro,Git,http://sourceforge.net/p/avogadro/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/tinycad/code/ tinycad-code,TinyCAD,SVN,http://sourceforge.net/p/tinycad/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/obsproject/code obsproject-code,Open Broadcaster Software,Git,http://sourceforge.net/p/obsproject/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/fceultra/code/fceu/trunk fceultra-code,FCEUX,SVN,http://sourceforge.net/p/fceultra/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/mediainfo/code/ mediainfo-code,MediaInfo,SVN,http://sourceforge.net/p/mediainfo/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/xml-copy-editor/code xml-copy-editor-code,XML Copy Editor,Git,http://sourceforge.net/p/xml-copy-editor/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/espeak/code/trunk espeak-code,eSpeak: speech synthesis,SVN,http://sourceforge.net/p/espeak/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/xviservicethief/code/trunk xviservicethief-code,xVideoServiceThief,SVN,http://sourceforge.net/p/xviservicethief/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/texstudio/hg texstudio-hg,TeXstudio - A LaTeX Editor,Mercurial,http://sourceforge.net/p/texstudio/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/pure-data/svn/trunk pure-data-svn,Pure Data Computer Music System,SVN,http://sourceforge.net/p/pure-data/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/kid3/code kid3-code,Kid3 Tag Editor,Git,http://sourceforge.net/p/kid3/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/vmpk/code/trunk vmpk-code,Virtual MIDI Piano Keyboard,SVN,http://sourceforge.net/p/vmpk/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/jslintnpp/code/trunk jslintnpp-code,JSLint Plugin for Notepad++,Git,http://sourceforge.net/p/jslintnpp/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/synkron/code/trunk synkron-code,Synkron,Git,http://sourceforge.net/p/synkron/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/veracrypt/code veracrypt-code,VeraCrypt,Git,http://sourceforge.net/p/veracrypt/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/brlcad/code/brlcad/trunk brlcad-code,BRL-CAD,SVN,http://sourceforge.net/p/brlcad/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/sagethumbs/code/trunk sagethumbs-code,SageThumbs,SVN,http://sourceforge.net/p/sagethumbs/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/peerguardian/code peerguardian-code,PeerGuardian,Git,http://sourceforge.net/p/peerguardian/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/bowtie-bio/code/ bowtie-bio-code,Bowtie,SVN,http://sourceforge.net/p/bowtie-bio/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/saga-gis/code-0/trunk saga-gis-code-0,SAGA GIS,SVN,http://sourceforge.net/p/saga-gis/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/yabause/code/trunk yabause-code,Yabause,SVN,http://sourceforge.net/p/yabause/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/avogadro/code avogadro-code,Avogadro,Git,http://sourceforge.net/p/avogadro/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/tinycad/code/ tinycad-code,TinyCAD,SVN,http://sourceforge.net/p/tinycad/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/obsproject/code obsproject-code,Open Broadcaster Software,Git,http://sourceforge.net/p/obsproject/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/fceultra/code/fceu/trunk fceultra-code,FCEUX,SVN,http://sourceforge.net/p/fceultra/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mediainfo/code/ mediainfo-code,MediaInfo,SVN,http://sourceforge.net/p/mediainfo/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/xml-copy-editor/code xml-copy-editor-code,XML Copy Editor,Git,http://sourceforge.net/p/xml-copy-editor/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/espeak/code/trunk espeak-code,eSpeak: speech synthesis,SVN,http://sourceforge.net/p/espeak/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/xviservicethief/code/trunk xviservicethief-code,xVideoServiceThief,SVN,http://sourceforge.net/p/xviservicethief/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/texstudio/hg texstudio-hg,TeXstudio - A LaTeX Editor,Mercurial,http://sourceforge.net/p/texstudio/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/pure-data/svn/trunk pure-data-svn,Pure Data Computer Music System,SVN,http://sourceforge.net/p/pure-data/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/kid3/code kid3-code,Kid3 Tag Editor,Git,http://sourceforge.net/p/kid3/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/vmpk/code/trunk vmpk-code,Virtual MIDI Piano Keyboard,SVN,http://sourceforge.net/p/vmpk/bugs/,SourceForge
 Source Forge,https://github.com/manisandro/gImageReader,gImageReader,Git,https://github.com/manisandro/gImageReader/issues,Git
 Source Forge,https://github.com/iTALC/italc,iTALC - OpenSource classroom management,Git,http://sourceforge.net/p/italc/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/miranda/svn/trunk miranda-svn,Miranda IM,SVN,http://sourceforge.net/p/miranda/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/qucs/git qucs-git,Quite Universal Circuit Simulator,Git,http://sourceforge.net/p/qucs/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/fourchan-dl/code fourchan-dl-code,4chan Downloader,Git,http://sourceforge.net/p/fourchan-dl/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/bochs/code/trunk bochs-code,Bochs x86 PC emulator,SVN,http://sourceforge.net/p/bochs/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/moneymanagerex/code moneymanagerex-code,Money Manager Ex,Git,http://sourceforge.net/p/moneymanagerex/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/freeglut/code/trunk freeglut-code,freeglut,SVN,http://sourceforge.net/p/freeglut/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/passwordsafe/git-code passwordsafe-git-code,Password Safe,Git,http://sourceforge.net/p/passwordsafe/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/scintilla/code scintilla-code,Scintilla,Mercurial,http://sourceforge.net/p/scintilla/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/miranda/svn/trunk miranda-svn,Miranda IM,SVN,http://sourceforge.net/p/miranda/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/qucs/git qucs-git,Quite Universal Circuit Simulator,Git,http://sourceforge.net/p/qucs/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/fourchan-dl/code fourchan-dl-code,4chan Downloader,Git,http://sourceforge.net/p/fourchan-dl/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/bochs/code/trunk bochs-code,Bochs x86 PC emulator,SVN,http://sourceforge.net/p/bochs/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/moneymanagerex/code moneymanagerex-code,Money Manager Ex,Git,http://sourceforge.net/p/moneymanagerex/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/freeglut/code/trunk freeglut-code,freeglut,SVN,http://sourceforge.net/p/freeglut/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/passwordsafe/git-code passwordsafe-git-code,Password Safe,Git,http://sourceforge.net/p/passwordsafe/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/scintilla/code scintilla-code,Scintilla,Mercurial,http://sourceforge.net/p/scintilla/bugs/,SourceForge
 Source Forge,https://github.com/pandorafms/pandorafms,Pandora FMS: Flexible Monitoring System,Git,https://github.com/pandorafms/pandorafms/issues,Git
-Source Forge,svn checkout http://svn.code.sf.net/p/swig/code/trunk swig-code,SWIG,SVN,http://sourceforge.net/p/swig/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/dualmonitortool/code/trunk dualmonitortool-code,Dual Monitor Tools,SVN,http://sourceforge.net/p/dualmonitortool/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/swig/code/trunk swig-code,SWIG,SVN,http://sourceforge.net/p/swig/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dualmonitortool/code/trunk dualmonitortool-code,Dual Monitor Tools,SVN,http://sourceforge.net/p/dualmonitortool/bugs/,SourceForge
 Source Forge,https://github.com/RigsOfRods/rigs-of-rods,Rigs of Rods,Git,https://github.com/RigsOfRods/rigs-of-rods/issues,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/celestia/code/trunk celestia-code,Celestia,SVN,http://sourceforge.net/p/celestia/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/flightgear/flightgear flightgear-flightgear,FlightGear - Flight Simulator,Git,http://sourceforge.net/p/flightgear/codetickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/npp-compare/code npp-compare-code,Notepad++ Compare plugin,Git,http://sourceforge.net/p/npp-compare/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/smplayer/code/ smplayer-code,SMPlayer,SVN,http://sourceforge.net/p/smplayer/bugs/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/texniccenter/code texniccenter-code,TeXnicCenter,Mercurial,http://sourceforge.net/p/texniccenter/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/equalizerapo/code/trunk equalizerapo-code,Equalizer APO,,http://sourceforge.net/p/equalizerapo/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/celestia/code/trunk celestia-code,Celestia,SVN,http://sourceforge.net/p/celestia/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/flightgear/flightgear flightgear-flightgear,FlightGear - Flight Simulator,Git,http://sourceforge.net/p/flightgear/codetickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/npp-compare/code npp-compare-code,Notepad++ Compare plugin,Git,http://sourceforge.net/p/npp-compare/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/smplayer/code/ smplayer-code,SMPlayer,SVN,http://sourceforge.net/p/smplayer/bugs/,SourceForge
+Source Forge,http://hg.code.sf.net/p/texniccenter/code texniccenter-code,TeXnicCenter,Mercurial,http://sourceforge.net/p/texniccenter/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/equalizerapo/code/trunk equalizerapo-code,Equalizer APO,,http://sourceforge.net/p/equalizerapo/tickets/,SourceForge
 Source Forge,https://github.com/gitextensions/gitextensions.git,Git Extensions,Git,https://github.com/gitextensions/gitextensions/issues,Git
-Source Forge,git clone http://git.code.sf.net/p/kdiff3/code kdiff3-code,KDiff3,Git,http://sourceforge.net/p/kdiff3/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/glew/code glew-code,"The OpenGL Extension Wrangler Library
+Source Forge,http://git.code.sf.net/p/kdiff3/code kdiff3-code,KDiff3,Git,http://sourceforge.net/p/kdiff3/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/glew/code glew-code,"The OpenGL Extension Wrangler Library
 ",Git,http://sourceforge.net/p/glew/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/avisynth2/svn/ avisynth2-svn,Avisynth rev. 2,SVN,http://sourceforge.net/p/avisynth2/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/vbam/code/trunk vbam-code,VBA-M,SVN,http://sourceforge.net/p/vbam/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/djvu/code djvu-code,DjVuLibre,Git,http://sourceforge.net/p/djvu/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/nsis/code/ nsis-code,NSIS: Nullsoft Scriptable Install System,SVN,http://sourceforge.net/p/nsis/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/ultradefrag/code/trunk ultradefrag-code,UltraDefrag,SVN,http://sourceforge.net/p/ultradefrag/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/classicshell/code/ classicshell-code,Classic Shell,SVN,http://sourceforge.net/p/classicshell/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/cutter/code cutter-code,Cutter,Git,http://sourceforge.net/p/cutter/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/meshlab/code/trunk meshlab-code,MeshLab,SVN,http://sourceforge.net/p/meshlab/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/mpcbe/code/trunk mpcbe-code,MPC-BE,SVN,http://sourceforge.net/p/mpcbe/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/shareaza/code/trunk shareaza-code,Shareaza,SVN,http://sourceforge.net/p/shareaza/tickets/,SourceForge
-Source Forge,hg clone http://hg.code.sf.net/p/tdm-gcc/code tdm-gcc-code,TDM-GCC MinGW Compiler,Mercurial,http://sourceforge.net/p/tdm-gcc/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/avisynth2/svn/ avisynth2-svn,Avisynth rev. 2,SVN,http://sourceforge.net/p/avisynth2/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/vbam/code/trunk vbam-code,VBA-M,SVN,http://sourceforge.net/p/vbam/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/djvu/code djvu-code,DjVuLibre,Git,http://sourceforge.net/p/djvu/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/nsis/code/ nsis-code,NSIS: Nullsoft Scriptable Install System,SVN,http://sourceforge.net/p/nsis/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ultradefrag/code/trunk ultradefrag-code,UltraDefrag,SVN,http://sourceforge.net/p/ultradefrag/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/classicshell/code/ classicshell-code,Classic Shell,SVN,http://sourceforge.net/p/classicshell/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/cutter/code cutter-code,Cutter,Git,http://sourceforge.net/p/cutter/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/meshlab/code/trunk meshlab-code,MeshLab,SVN,http://sourceforge.net/p/meshlab/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mpcbe/code/trunk mpcbe-code,MPC-BE,SVN,http://sourceforge.net/p/mpcbe/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/shareaza/code/trunk shareaza-code,Shareaza,SVN,http://sourceforge.net/p/shareaza/tickets/,SourceForge
+Source Forge,http://hg.code.sf.net/p/tdm-gcc/code tdm-gcc-code,TDM-GCC MinGW Compiler,Mercurial,http://sourceforge.net/p/tdm-gcc/bugs/,SourceForge
 Source Forge,https://github.com/angryziber/ipscan.git,Angry IP Scanner,Git,https://github.com/angryziber/ipscan/issues,Git
-Source Forge,git clone http://git.code.sf.net/p/camstudio/code camstudio-code,CamStudio - Screen Recorder,Git,http://sourceforge.net/p/camstudio/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/conemu/code conemu-code,ConEmu - Windows console with tabs,Git,http://sourceforge.net/p/conemu/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/infrarecorder/code infrarecorder-code,InfraRecorder,Git,http://sourceforge.net/p/infrarecorder/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/ext2fsd/code ext2fsd-code,Ext2 File System Driver for Windows,Git,http://sourceforge.net/p/ext2fsd/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/npppythonscript/code npppythonscript-code,Notepad++ Python Script,Git,http://sourceforge.net/p/npppythonscript/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/free-cad/code free-cad-code,FreeCAD,Git,http://www.freecadweb.org/tracker/my_view_page.php,mantis
-Source Forge,svn checkout http://svn.code.sf.net/p/sakura-editor/code/ sakura-editor-code,Sakura Editor,SVN,http://sourceforge.net/p/sakura-editor/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/clamwin/code clamwin-code,ClamWin,Git,http://sourceforge.net/p/clamwin/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/mingw-w64/code/trunk mingw-w64-code,MinGW-w64 - for 32 and 64 bit Windows,SVN,http://sourceforge.net/p/mingw-w64/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/ffdshow-tryout/code/trunk ffdshow-tryout-code,ffdshow,SVN,http://sourceforge.net/p/ffdshow-tryout/bugs/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/desmume/code/trunk desmume-code,DeSmuME Beta,Svn,http://sourceforge.net/p/desmume/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/camstudio/code camstudio-code,CamStudio - Screen Recorder,Git,http://sourceforge.net/p/camstudio/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/conemu/code conemu-code,ConEmu - Windows console with tabs,Git,http://sourceforge.net/p/conemu/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/infrarecorder/code infrarecorder-code,InfraRecorder,Git,http://sourceforge.net/p/infrarecorder/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/ext2fsd/code ext2fsd-code,Ext2 File System Driver for Windows,Git,http://sourceforge.net/p/ext2fsd/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/npppythonscript/code npppythonscript-code,Notepad++ Python Script,Git,http://sourceforge.net/p/npppythonscript/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/free-cad/code free-cad-code,FreeCAD,Git,http://www.freecadweb.org/tracker/my_view_page.php,mantis
+Source Forge,http://svn.code.sf.net/p/sakura-editor/code/ sakura-editor-code,Sakura Editor,SVN,http://sourceforge.net/p/sakura-editor/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/clamwin/code clamwin-code,ClamWin,Git,http://sourceforge.net/p/clamwin/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mingw-w64/code/trunk mingw-w64-code,MinGW-w64 - for 32 and 64 bit Windows,SVN,http://sourceforge.net/p/mingw-w64/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ffdshow-tryout/code/trunk ffdshow-tryout-code,ffdshow,SVN,http://sourceforge.net/p/ffdshow-tryout/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/desmume/code/trunk desmume-code,DeSmuME Beta,Svn,http://sourceforge.net/p/desmume/bugs/,SourceForge
 Source Forge,http://svn.code.sf.net/p/dosbox/code-0/dosbox/trunk dosbox-code-0,DOSBox,SVN,http://sourceforge.net/p/dosbox/bugs/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/orwelldevcpp/code orwelldevcpp-code,Dev-C++,Git,http://sourceforge.net/p/orwelldevcpp/tickets/,SourceForge
-Source Forge,git clone http://git.code.sf.net/p/win32diskimager/code win32diskimager-code,Win32 Disk Imager Beta,Git,http://sourceforge.net/p/win32diskimager/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/orwelldevcpp/code orwelldevcpp-code,Dev-C++,Git,http://sourceforge.net/p/orwelldevcpp/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/win32diskimager/code win32diskimager-code,Win32 Disk Imager Beta,Git,http://sourceforge.net/p/win32diskimager/tickets/,SourceForge
 Source Forge,https://github.com/pelya/commandergenius.git,libsdl-android,Git,https://github.com/pelya/commandergenius/issues,Git
-Source Forge,svn checkout http://svn.code.sf.net/p/codeblocks/code/trunk codeblocks-code,Code::Blocks,SVN,http://sourceforge.net/p/codeblocks/tickets/,SourceForge
-Source Forge,svn checkout http://svn.code.sf.net/p/audacity/svn/ audacity-svn,Audacity,SVN,http://bugzilla.audacityteam.org/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__all__&product=Audacity&content=,Bugzilla
-Source Forge,svn checkout http://svn.code.sf.net/p/keepass/code/trunk keepass-code,KeePass,SVN,http://sourceforge.net/p/keepass/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/codeblocks/code/trunk codeblocks-code,Code::Blocks,SVN,http://sourceforge.net/p/codeblocks/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/audacity/svn/ audacity-svn,Audacity,SVN,http://bugzilla.audacityteam.org/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__all__&product=Audacity&content=,Bugzilla
+Source Forge,http://svn.code.sf.net/p/keepass/code/trunk keepass-code,KeePass,SVN,http://sourceforge.net/p/keepass/bugs/,SourceForge
 Source Forge,https://github.com/ashkulz/NppFTP.git,NppFTP,Git,https://github.com/ashkulz/NppFTP/issues,Git
-Source Forge,svn checkout http://svn.code.sf.net/p/portableapps/code/ portableapps-code,PortableApps.com,SVN,http://sourceforge.net/p/portableapps/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/portableapps/code/ portableapps-code,PortableApps.com,SVN,http://sourceforge.net/p/portableapps/bugs/,SourceForge
 Source Forge,https://svn.filezilla-project.org/svn/FileZilla3/trunk/,FileZilla,SVN,http://trac.filezilla-project.org/wiki/Queries,Trac
 Source Forge,http://svn.code.sf.net/p/gsoap2/code/ gsoap2-code,gSOAP Toolkit,SVN,http://sourceforge.net/p/gsoap2/bugs/,SourceForge
 Source Forge,http://svn.code.sf.net/p/tortoisesvn/code/ tortoisesvn-code,TortoiseSVN,SVN,http://sourceforge.net/p/tortoisesvn/tickets/,SourceForge
+Apache,git://git.apache.org/mrunit.git,Apache MRUnit,Git,https://issues.apache.org/jira/browse/MRUNIT/,JIRA
+Apache,git://git.apache.org/myfaces-extcdi.git,Apache MyFaces ExtCDI (CODI),Git,https://issues.apache.org/jira/browse/EXTCDI,JIRA
+Apache,git://git.apache.org/myfaces-extval.git,Apache MyFaces ExtVal,Git,https://issues.apache.org/jira/browse/EXTVAL,JIRA
+Apache,git://git.apache.org/myfaces-html5.git,Apache MyFaces Html5 Renderkit,Git,https://issues.apache.org/jira/browse/MFHTML5,JIRA
+Apache,git://git.apache.org/myfaces-portlet-bridge.git,Apache MyFaces Portlet-Bridge,Git,https://issues.apache.org/jira/browse/PORTLETBRIDGE,JIRA
+Apache,git://git.apache.org/myfaces-scripting.git,Apache MyFaces Scripting,Git,https://issues.apache.org/jira/browse/EXTSCRIPT,JIRA
+Apache,git://git.apache.org/myfaces.git,Apache MyFaces,Git,https://issues.apache.org/jira/browse/MYFACES,JIRA
+Apache,git://git.apache.org/npanday.git,Apache NPanday,Git,https://issues.apache.org/jira/browse/NPANDAY,JIRA
+Apache,git://git.apache.org/nutch.git,Apache Nutch,Git,https://issues.apache.org/jira/browse/NUTCH,JIRA
+Apache,git://git.apache.org/nuvem.git,Apache Nuvem,Git,https://issues.apache.org/jira/browse/NUVEM,JIRA
+Apache,git://git.apache.org/ode-jacob.git,Apache Ode Jacob,Git,https://issues.apache.org/jira/browse/JACOB,JIRA
+Apache,git://git.apache.org/ode.git,Apache Ode,Git,https://issues.apache.org/jira/browse/ODE,JIRA
+Apache,git://git.apache.org/odftoolkit.git,Apache ODF Toolkit (incubating),Git,https://issues.apache.org/jira/browse/ODFTOOLKIT,JIRA
+Apache,git://git.apache.org/ofbiz.git,Apache OFBiz,Git,https://issues.apache.org/jira/browse/OFBIZ,JIRA
+Apache,git://git.apache.org/olingo-odata2.git,Apache Olingo,Git,https://issues.apache.org/jira/browse/OLINGO,JIRA
+Apache,git://git.apache.org/oltu.git,Apache Oltu,Git,,JIRA
+Apache,git://git.apache.org/oodt.git,Apache OODT,Git,,JIRA
+Apache,git://git.apache.org/oozie.git,Apache Oozie,Git,,JIRA
+Apache,git://git.apache.org/openejb.git,Apache OpenEJB,Git,,JIRA
+Apache,git://git.apache.org/openjpa.git,Apache OpenJPA,Git,,JIRA
+Apache,git://git.apache.org/openmeetings.git,Apache Openmeetings,Git,,JIRA
+Apache,git://git.apache.org/opennlp.git,Apache OpenNLP (Incubating),Git,,JIRA
+Apache,git://git.apache.org/openoffice.git,Apache OpenOffice,Git,,JIRA
+Apache,git://git.apache.org/openwebbeans.git,Apache OpenWebBeans,Git,,JIRA
+Apache,git://git.apache.org/pdfbox.git,Apache PDFBox,Git,,JIRA
+Apache,git://git.apache.org/phoenix.git,Apache Phoenix,Git,,JIRA
+Apache,git://git.apache.org/photark.git,Apache Photark - Server (Incubating),Git,,JIRA
+Apache,git://git.apache.org/pig.git,Apache Pig,Git,,JIRA
+Apache,git://git.apache.org/pivot.git,Apache Pivot,Git,,JIRA
+Apache,git://git.apache.org/pluto.git,Apache Pluto,Git,,JIRA
+Apache,git://git.apache.org/poi.git,Apache POI,Git,,JIRA
+Apache,git://git.apache.org/portals-pluto.git,Apache Pluto,Git,,JIRA
+Apache,git://git.apache.org/qpid-jms.git,Apache Qpid JMS,Git,,JIRA
+Apache,git://git.apache.org/qpid-proton.git,Apache Qpid Proton,Git,,JIRA
+Apache,git://git.apache.org/qpid.git,Apache Qpid,Git,,JIRA
+Apache,git://git.apache.org/rampart.git,Apache Rampart,Git,,JIRA
+Apache,git://git.apache.org/rat.git,Apache RAT (incubating),Git,,JIRA
+Apache,git://git.apache.org/rave.git,Apache Rave,Git,,JIRA
+Apache,git://git.apache.org/redback-components.git,Apache Redback components,Git,,JIRA
+Apache,git://git.apache.org/river-container.git,Apache River,Git,,JIRA
+Apache,git://git.apache.org/river.git,Apache River,Git,,JIRA
+Apache,git://git.apache.org/roller.git,Apache Roller,Git,,JIRA
+Apache,git://git.apache.org/samza-hello-samza.git,Apache Samza,Git,,JIRA
+Apache,git://git.apache.org/sandesha.git,Apache Sandesha,Git,,JIRA
+Apache,git://git.apache.org/sanselan.git,Commons Sanselan,Git,,JIRA
+Apache,git://git.apache.org/santuario-cpp.git,Apache Santuario C++,Git,,JIRA
+Apache,git://git.apache.org/santuario-java.git,Apache Santuario Java,Git,,JIRA
+Apache,git://git.apache.org/savan.git,Apache Savan,Git,,JIRA
+Apache,git://git.apache.org/servicemix-archetypes.git,Apache ServiceMix archetypes,Git,,JIRA
+Apache,git://git.apache.org/servicemix-bundles.git,Apache ServiceMix Bundles,Git,,JIRA
+Apache,git://git.apache.org/servicemix-components.git,Apache ServiceMix components,Git,,JIRA
+Apache,git://git.apache.org/servicemix-maven-plugins.git,Apache ServiceMix Maven plug-ins,Git,,JIRA
+Apache,git://git.apache.org/servicemix-specs.git,Apache ServiceMix Specs,Git,,JIRA
+Apache,git://git.apache.org/servicemix-utils.git,Apache ServiceMix utils,Git,,JIRA
+Apache,git://git.apache.org/servicemix.git,Apache ServiceMix,Git,,JIRA
+Apache,git://git.apache.org/servicemix3.git,Apache ServiceMix 3,Git,,JIRA
+Apache,git://git.apache.org/servicemix4-bundles.git,Apache ServiceMix 4 bundles,Git,,JIRA
+Apache,git://git.apache.org/servicemix4-features.git,Apache ServiceMix 4 features,Git,,JIRA
+Apache,git://git.apache.org/servicemix4-kernel.git,Apache ServiceMix 4 kernel,Git,,JIRA
+Apache,git://git.apache.org/servicemix4-nmr.git,Apache ServiceMix 4 NMR,Git,,JIRA
+Apache,git://git.apache.org/servicemix4-specs.git,Apache ServiceMix 4 specs,Git,,JIRA
+Apache,git://git.apache.org/shiro.git,Apache Shiro,Git,,JIRA
+Apache,git://git.apache.org/sis.git,Apache SIS,Git,,JIRA
+Apache,git://git.apache.org/sling.git,Apache Sling,Git,,JIRA
+Apache,git://git.apache.org/solr.git,Apache Solr,Git,,JIRA
+Apache,git://git.apache.org/spamassassin.git,Apache SpamAssassin,Git,,JIRA
+Apache,git://git.apache.org/sqoop.git,Apache Sqoop,Git,,JIRA
+Apache,git://git.apache.org/stanbol.git,Apache Stanbol,Git,,JIRA
+Apache,git://git.apache.org/stdcxx.git,Apache C++ Standard Library,Git,,JIRA
+Apache,git://git.apache.org/storm.git,Apache Storm,Git,,JIRA
+Apache,git://git.apache.org/stratos.git,Apache Stratos,Git,,JIRA
+Apache,git://git.apache.org/streams.git,Apache Streams (Incubating),Git,,JIRA
+Apache,git://git.apache.org/struts-annotations.git,Apache Struts Annotations,Git,,JIRA
+Apache,git://git.apache.org/struts-examples.git,Apache Struts,Git,,JIRA
+Apache,git://git.apache.org/struts-maven.git,Apache Struts Maven,Git,,JIRA
+Apache,git://git.apache.org/struts-sandbox.git,Apache Struts Sandbox,Git,,JIRA
+Apache,git://git.apache.org/struts.git,Apache Struts,Git,,JIRA
+Apache,git://git.apache.org/subversion.git,Apache Subversion,Git,,JIRA
+Apache,git://git.apache.org/synapse.git,Apache Synapse,Git,,JIRA
+Apache,git://git.apache.org/syncope.git,Apache Syncope,Git,,JIRA
+Apache,git://git.apache.org/tajo.git,Apache Tajo,Git,,JIRA
+Apache,git://git.apache.org/tapestry-5.git,Apache Tapestry 5,Git,,JIRA
+Apache,git://git.apache.org/tapestry3.git,Apache Tapestry 3,Git,,JIRA
+Apache,git://git.apache.org/tapestry4.git,Apache Tapestry 4,Git,,JIRA
+Apache,git://git.apache.org/tashi.git,Apache Tashi,Git,,JIRA
+Apache,git://git.apache.org/tez.git,Apache Tez,Git,,JIRA
+Apache,git://git.apache.org/thrift.git,Apache Thrift,Git,,JIRA
+Apache,git://git.apache.org/tika.git,Apache Tika,Git,,JIRA
+Apache,git://git.apache.org/tiles-autotag.git,Apache Tiles Autotag,Git,,JIRA
+Apache,git://git.apache.org/tiles-request.git,Apache Tiles Request,Git,,JIRA
+Apache,git://git.apache.org/tiles.git,Apache Tiles,Git,,JIRA
+Apache,git://git.apache.org/tomcat-connectors.git,Apache Tomcat Connectors,Git,,JIRA
+Apache,git://git.apache.org/tomcat-maven-plugin.git,Apache Tomcat Maven plugin,Git,,JIRA
+Apache,git://git.apache.org/tomcat-native.git,Apache Tomcat Native,Git,,JIRA
+Apache,git://git.apache.org/tomcat.git,Apache Tomcat,Git,,JIRA
+Apache,git://git.apache.org/tomcat60.git,Apache Tomcat 6.0.x,Git,,JIRA
+Apache,git://git.apache.org/tomcat70.git,Apache Tomcat 7.0.x,Git,,JIRA
+Apache,git://git.apache.org/tomcat80.git,Apache Tomcat 8.0.x,Git,,JIRA
+Apache,git://git.apache.org/tomee.git,Apache TomEE,Git,,JIRA
+Apache,git://git.apache.org/trafficserver-qa.git,Apache TrafficServer QA,Git,,JIRA
+Apache,git://git.apache.org/trafficserver.git,Apache TrafficServer,Git,,JIRA
+Apache,git://git.apache.org/tuscany-das.git,Apache Tuscany DAS,Git,,JIRA
+Apache,git://git.apache.org/tuscany-sca-1.x.git,Apache Tuscany SCA 1.x,Git,,JIRA
+Apache,git://git.apache.org/tuscany-sca-2.x.git,Apache Tuscany SCA 2.x,Git,,JIRA
+Apache,git://git.apache.org/tuscany-sca-cpp.git,Apache Tuscany SCA C++,Git,,JIRA
+Apache,git://git.apache.org/tuscany-sdo.git,Apache Tuscany SDO,Git,,JIRA
+Apache,git://git.apache.org/uima-addons.git,Apache UIMA addons,Git,,JIRA
+Apache,git://git.apache.org/uima-as.git,Apache UIMA uima-as,Git,,JIRA
+Apache,git://git.apache.org/uima-ducc.git,Apache UIMA uima-ducc,Git,,JIRA
+Apache,git://git.apache.org/uima-ruta.git,Apache UIMA ruta,Git,,JIRA
+Apache,git://git.apache.org/uima-sandbox.git,Apache UIMA sandbox,Git,,JIRA
+Apache,git://git.apache.org/uima-uimacpp.git,Apache UIMA uimacpp,Git,,JIRA
+Apache,git://git.apache.org/uima-uimafit.git,Apache UIMA uimafit,Git,,JIRA
+Apache,git://git.apache.org/uima-uimaj.git,Apache UIMA,Git,,JIRA
+Apache,git://git.apache.org/velocity-engine.git,Apache Velocity Engine,Git,,JIRA
+Apache,git://git.apache.org/velocity-tools.git,Apache Velocity Tools,Git,,JIRA
+Apache,git://git.apache.org/vxquery.git,Apache VXQuery,Git,,JIRA
+Apache,git://git.apache.org/vysper.git,,Git,,JIRA
+Apache,git://git.apache.org/webservices-axiom.git,Apache Webservices Axiom,Git,,JIRA
+Apache,git://git.apache.org/webservices-commons-xmlschema.git,Apache Web Services Commons XMLSchema,Git,,JIRA
+Apache,git://git.apache.org/webservices-neethi.git,Apache Webservices Neethi,Git,,JIRA
+Apache,git://git.apache.org/webservices-xmlschema.git,Apache Web Services XmlSchema,Git,,JIRA
+Apache,git://git.apache.org/whirr.git,Apache Whirr,Git,,JIRA
+Apache,git://git.apache.org/wicket.git,Apache Wicket,Git,,JIRA
+Apache,git://git.apache.org/wink.git,Apache Wink,Git,,JIRA
+Apache,git://git.apache.org/wookie.git,Apache Wookie,Git,,JIRA
+Apache,git://git.apache.org/wss4j.git,Apache WSS4J,Git,,JIRA
+Apache,git://git.apache.org/xalan-c.git,Apache Xalan C++,Git,,JIRA
+Apache,git://git.apache.org/xalan-j.git,Apache Xalan Java,Git,,JIRA
+Apache,git://git.apache.org/xerces-c.git,Apache Xerces C++,Git,,JIRA
+Apache,git://git.apache.org/xerces2-j.git,Apache Xerces2 Java,Git,,JIRA
+Apache,git://git.apache.org/xml-graphics-commons.git,Apache XML Graphics Commons,Git,,JIRA
+Apache,git://git.apache.org/xmlbeans.git,Apache XMLBeans,Git,,JIRA
+Apache,git://git.apache.org/zookeeper.git,Apache Hadoop ZooKeeper,Git,,JIRA
