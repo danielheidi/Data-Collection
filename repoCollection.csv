@@ -743,122 +743,210 @@ Apache,git://git.apache.org/ode.git,Apache Ode,Git,https://issues.apache.org/jir
 Apache,git://git.apache.org/odftoolkit.git,Apache ODF Toolkit (incubating),Git,https://issues.apache.org/jira/browse/ODFTOOLKIT,JIRA
 Apache,git://git.apache.org/ofbiz.git,Apache OFBiz,Git,https://issues.apache.org/jira/browse/OFBIZ,JIRA
 Apache,git://git.apache.org/olingo-odata2.git,Apache Olingo,Git,https://issues.apache.org/jira/browse/OLINGO,JIRA
-Apache,git://git.apache.org/oltu.git,Apache Oltu,Git,,JIRA
-Apache,git://git.apache.org/oodt.git,Apache OODT,Git,,JIRA
-Apache,git://git.apache.org/oozie.git,Apache Oozie,Git,,JIRA
-Apache,git://git.apache.org/openejb.git,Apache OpenEJB,Git,,JIRA
-Apache,git://git.apache.org/openjpa.git,Apache OpenJPA,Git,,JIRA
-Apache,git://git.apache.org/openmeetings.git,Apache Openmeetings,Git,,JIRA
-Apache,git://git.apache.org/opennlp.git,Apache OpenNLP (Incubating),Git,,JIRA
-Apache,git://git.apache.org/openoffice.git,Apache OpenOffice,Git,,JIRA
-Apache,git://git.apache.org/openwebbeans.git,Apache OpenWebBeans,Git,,JIRA
-Apache,git://git.apache.org/pdfbox.git,Apache PDFBox,Git,,JIRA
-Apache,git://git.apache.org/phoenix.git,Apache Phoenix,Git,,JIRA
-Apache,git://git.apache.org/photark.git,Apache Photark - Server (Incubating),Git,,JIRA
-Apache,git://git.apache.org/pig.git,Apache Pig,Git,,JIRA
-Apache,git://git.apache.org/pivot.git,Apache Pivot,Git,,JIRA
-Apache,git://git.apache.org/pluto.git,Apache Pluto,Git,,JIRA
-Apache,git://git.apache.org/poi.git,Apache POI,Git,,JIRA
-Apache,git://git.apache.org/portals-pluto.git,Apache Pluto,Git,,JIRA
-Apache,git://git.apache.org/qpid-jms.git,Apache Qpid JMS,Git,,JIRA
-Apache,git://git.apache.org/qpid-proton.git,Apache Qpid Proton,Git,,JIRA
-Apache,git://git.apache.org/qpid.git,Apache Qpid,Git,,JIRA
-Apache,git://git.apache.org/rampart.git,Apache Rampart,Git,,JIRA
-Apache,git://git.apache.org/rat.git,Apache RAT (incubating),Git,,JIRA
-Apache,git://git.apache.org/rave.git,Apache Rave,Git,,JIRA
-Apache,git://git.apache.org/redback-components.git,Apache Redback components,Git,,JIRA
-Apache,git://git.apache.org/river-container.git,Apache River,Git,,JIRA
-Apache,git://git.apache.org/river.git,Apache River,Git,,JIRA
-Apache,git://git.apache.org/roller.git,Apache Roller,Git,,JIRA
-Apache,git://git.apache.org/samza-hello-samza.git,Apache Samza,Git,,JIRA
-Apache,git://git.apache.org/sandesha.git,Apache Sandesha,Git,,JIRA
-Apache,git://git.apache.org/sanselan.git,Commons Sanselan,Git,,JIRA
-Apache,git://git.apache.org/santuario-cpp.git,Apache Santuario C++,Git,,JIRA
-Apache,git://git.apache.org/santuario-java.git,Apache Santuario Java,Git,,JIRA
-Apache,git://git.apache.org/savan.git,Apache Savan,Git,,JIRA
-Apache,git://git.apache.org/servicemix-archetypes.git,Apache ServiceMix archetypes,Git,,JIRA
-Apache,git://git.apache.org/servicemix-bundles.git,Apache ServiceMix Bundles,Git,,JIRA
-Apache,git://git.apache.org/servicemix-components.git,Apache ServiceMix components,Git,,JIRA
-Apache,git://git.apache.org/servicemix-maven-plugins.git,Apache ServiceMix Maven plug-ins,Git,,JIRA
-Apache,git://git.apache.org/servicemix-specs.git,Apache ServiceMix Specs,Git,,JIRA
-Apache,git://git.apache.org/servicemix-utils.git,Apache ServiceMix utils,Git,,JIRA
-Apache,git://git.apache.org/servicemix.git,Apache ServiceMix,Git,,JIRA
-Apache,git://git.apache.org/servicemix3.git,Apache ServiceMix 3,Git,,JIRA
-Apache,git://git.apache.org/servicemix4-bundles.git,Apache ServiceMix 4 bundles,Git,,JIRA
-Apache,git://git.apache.org/servicemix4-features.git,Apache ServiceMix 4 features,Git,,JIRA
-Apache,git://git.apache.org/servicemix4-kernel.git,Apache ServiceMix 4 kernel,Git,,JIRA
-Apache,git://git.apache.org/servicemix4-nmr.git,Apache ServiceMix 4 NMR,Git,,JIRA
-Apache,git://git.apache.org/servicemix4-specs.git,Apache ServiceMix 4 specs,Git,,JIRA
-Apache,git://git.apache.org/shiro.git,Apache Shiro,Git,,JIRA
-Apache,git://git.apache.org/sis.git,Apache SIS,Git,,JIRA
-Apache,git://git.apache.org/sling.git,Apache Sling,Git,,JIRA
-Apache,git://git.apache.org/solr.git,Apache Solr,Git,,JIRA
-Apache,git://git.apache.org/spamassassin.git,Apache SpamAssassin,Git,,JIRA
-Apache,git://git.apache.org/sqoop.git,Apache Sqoop,Git,,JIRA
-Apache,git://git.apache.org/stanbol.git,Apache Stanbol,Git,,JIRA
-Apache,git://git.apache.org/stdcxx.git,Apache C++ Standard Library,Git,,JIRA
-Apache,git://git.apache.org/storm.git,Apache Storm,Git,,JIRA
-Apache,git://git.apache.org/stratos.git,Apache Stratos,Git,,JIRA
-Apache,git://git.apache.org/streams.git,Apache Streams (Incubating),Git,,JIRA
-Apache,git://git.apache.org/struts-annotations.git,Apache Struts Annotations,Git,,JIRA
-Apache,git://git.apache.org/struts-examples.git,Apache Struts,Git,,JIRA
-Apache,git://git.apache.org/struts-maven.git,Apache Struts Maven,Git,,JIRA
-Apache,git://git.apache.org/struts-sandbox.git,Apache Struts Sandbox,Git,,JIRA
-Apache,git://git.apache.org/struts.git,Apache Struts,Git,,JIRA
-Apache,git://git.apache.org/subversion.git,Apache Subversion,Git,,JIRA
-Apache,git://git.apache.org/synapse.git,Apache Synapse,Git,,JIRA
-Apache,git://git.apache.org/syncope.git,Apache Syncope,Git,,JIRA
-Apache,git://git.apache.org/tajo.git,Apache Tajo,Git,,JIRA
-Apache,git://git.apache.org/tapestry-5.git,Apache Tapestry 5,Git,,JIRA
-Apache,git://git.apache.org/tapestry3.git,Apache Tapestry 3,Git,,JIRA
-Apache,git://git.apache.org/tapestry4.git,Apache Tapestry 4,Git,,JIRA
-Apache,git://git.apache.org/tashi.git,Apache Tashi,Git,,JIRA
-Apache,git://git.apache.org/tez.git,Apache Tez,Git,,JIRA
-Apache,git://git.apache.org/thrift.git,Apache Thrift,Git,,JIRA
-Apache,git://git.apache.org/tika.git,Apache Tika,Git,,JIRA
-Apache,git://git.apache.org/tiles-autotag.git,Apache Tiles Autotag,Git,,JIRA
-Apache,git://git.apache.org/tiles-request.git,Apache Tiles Request,Git,,JIRA
-Apache,git://git.apache.org/tiles.git,Apache Tiles,Git,,JIRA
-Apache,git://git.apache.org/tomcat-connectors.git,Apache Tomcat Connectors,Git,,JIRA
-Apache,git://git.apache.org/tomcat-maven-plugin.git,Apache Tomcat Maven plugin,Git,,JIRA
-Apache,git://git.apache.org/tomcat-native.git,Apache Tomcat Native,Git,,JIRA
-Apache,git://git.apache.org/tomcat.git,Apache Tomcat,Git,,JIRA
-Apache,git://git.apache.org/tomcat60.git,Apache Tomcat 6.0.x,Git,,JIRA
-Apache,git://git.apache.org/tomcat70.git,Apache Tomcat 7.0.x,Git,,JIRA
-Apache,git://git.apache.org/tomcat80.git,Apache Tomcat 8.0.x,Git,,JIRA
-Apache,git://git.apache.org/tomee.git,Apache TomEE,Git,,JIRA
-Apache,git://git.apache.org/trafficserver-qa.git,Apache TrafficServer QA,Git,,JIRA
-Apache,git://git.apache.org/trafficserver.git,Apache TrafficServer,Git,,JIRA
-Apache,git://git.apache.org/tuscany-das.git,Apache Tuscany DAS,Git,,JIRA
-Apache,git://git.apache.org/tuscany-sca-1.x.git,Apache Tuscany SCA 1.x,Git,,JIRA
-Apache,git://git.apache.org/tuscany-sca-2.x.git,Apache Tuscany SCA 2.x,Git,,JIRA
-Apache,git://git.apache.org/tuscany-sca-cpp.git,Apache Tuscany SCA C++,Git,,JIRA
-Apache,git://git.apache.org/tuscany-sdo.git,Apache Tuscany SDO,Git,,JIRA
-Apache,git://git.apache.org/uima-addons.git,Apache UIMA addons,Git,,JIRA
-Apache,git://git.apache.org/uima-as.git,Apache UIMA uima-as,Git,,JIRA
-Apache,git://git.apache.org/uima-ducc.git,Apache UIMA uima-ducc,Git,,JIRA
-Apache,git://git.apache.org/uima-ruta.git,Apache UIMA ruta,Git,,JIRA
-Apache,git://git.apache.org/uima-sandbox.git,Apache UIMA sandbox,Git,,JIRA
-Apache,git://git.apache.org/uima-uimacpp.git,Apache UIMA uimacpp,Git,,JIRA
-Apache,git://git.apache.org/uima-uimafit.git,Apache UIMA uimafit,Git,,JIRA
-Apache,git://git.apache.org/uima-uimaj.git,Apache UIMA,Git,,JIRA
-Apache,git://git.apache.org/velocity-engine.git,Apache Velocity Engine,Git,,JIRA
-Apache,git://git.apache.org/velocity-tools.git,Apache Velocity Tools,Git,,JIRA
-Apache,git://git.apache.org/vxquery.git,Apache VXQuery,Git,,JIRA
-Apache,git://git.apache.org/vysper.git,,Git,,JIRA
-Apache,git://git.apache.org/webservices-axiom.git,Apache Webservices Axiom,Git,,JIRA
-Apache,git://git.apache.org/webservices-commons-xmlschema.git,Apache Web Services Commons XMLSchema,Git,,JIRA
-Apache,git://git.apache.org/webservices-neethi.git,Apache Webservices Neethi,Git,,JIRA
-Apache,git://git.apache.org/webservices-xmlschema.git,Apache Web Services XmlSchema,Git,,JIRA
-Apache,git://git.apache.org/whirr.git,Apache Whirr,Git,,JIRA
-Apache,git://git.apache.org/wicket.git,Apache Wicket,Git,,JIRA
-Apache,git://git.apache.org/wink.git,Apache Wink,Git,,JIRA
-Apache,git://git.apache.org/wookie.git,Apache Wookie,Git,,JIRA
-Apache,git://git.apache.org/wss4j.git,Apache WSS4J,Git,,JIRA
-Apache,git://git.apache.org/xalan-c.git,Apache Xalan C++,Git,,JIRA
-Apache,git://git.apache.org/xalan-j.git,Apache Xalan Java,Git,,JIRA
-Apache,git://git.apache.org/xerces-c.git,Apache Xerces C++,Git,,JIRA
-Apache,git://git.apache.org/xerces2-j.git,Apache Xerces2 Java,Git,,JIRA
-Apache,git://git.apache.org/xml-graphics-commons.git,Apache XML Graphics Commons,Git,,JIRA
-Apache,git://git.apache.org/xmlbeans.git,Apache XMLBeans,Git,,JIRA
-Apache,git://git.apache.org/zookeeper.git,Apache Hadoop ZooKeeper,Git,,JIRA
+Apache,git://git.apache.org/oltu.git,Apache Oltu,Git,https://issues.apache.org/jira/browse/OLTU,JIRA
+Apache,git://git.apache.org/oodt.git,Apache OODT,Git,https://issues.apache.org/jira/browse/OODT,JIRA
+Apache,git://git.apache.org/oozie.git,Apache Oozie,Git,https://issues.apache.org/jira/browse/OOZIE,JIRA
+Apache,git://git.apache.org/openejb.git,Apache OpenEJB,Git,https://issues.apache.org/jira/browse/OPENEJB,JIRA
+Apache,git://git.apache.org/openjpa.git,Apache OpenJPA,Git,https://issues.apache.org/jira/browse/OPENJPA,JIRA
+Apache,git://git.apache.org/openmeetings.git,Apache Openmeetings,Git,https://issues.apache.org/jira/browse/OPENMEETINGS,JIRA
+Apache,git://git.apache.org/opennlp.git,Apache OpenNLP (Incubating),Git,https://issues.apache.org/jira/browse/OPENNLP,JIRA
+Apache,git://git.apache.org/openoffice.git,Apache OpenOffice,Git,https://bz.apache.org/ooo/buglist.cgi?bug_status=__all__&content=&limit=0&no_redirect=1&order=priority%2Cbug_severity&product=&query_format=specific,Bugzilla
+Apache,git://git.apache.org/openwebbeans.git,Apache OpenWebBeans,Git,https://issues.apache.org/jira/browse/OWB,JIRA
+Apache,git://git.apache.org/pdfbox.git,Apache PDFBox,Git,https://issues.apache.org/jira/browse/PDFBOX,JIRA
+Apache,git://git.apache.org/phoenix.git,Apache Phoenix,Git,https://issues.apache.org/jira/browse/PHOENIX,JIRA
+Apache,git://git.apache.org/photark.git,Apache Photark - Server (Incubating),Git,https://issues.apache.org/jira/browse/PHOTARK,JIRA
+Apache,git://git.apache.org/pig.git,Apache Pig,Git,https://issues.apache.org/jira/browse/PIG,JIRA
+Apache,git://git.apache.org/pivot.git,Apache Pivot,Git,https://issues.apache.org/jira/browse/PIVOT,JIRA
+Apache,git://git.apache.org/pluto.git,Apache Pluto,Git,https://issues.apache.org/jira/browse/PLUTO,JIRA
+Apache,git://git.apache.org/poi.git,Apache POI,Git,https://bz.apache.org/bugzilla/buglist.cgi?product=POI,Bugzilla
+Apache,git://git.apache.org/portals-pluto.git,Apache Pluto,Git,https://issues.apache.org/jira/browse/PLUTO,JIRA
+Apache,git://git.apache.org/qpid-jms.git,Apache Qpid JMS,Git,https://issues.apache.org/jira/browse/QPIDJMS,JIRA
+Apache,git://git.apache.org/qpid-proton.git,Apache Qpid Proton,Git,https://issues.apache.org/jira/browse/PROTON,JIRA
+Apache,git://git.apache.org/qpid.git,Apache Qpid,Git,https://issues.apache.org/jira/browse/QPID,JIRA
+Apache,git://git.apache.org/rampart.git,Apache Rampart,Git,https://issues.apache.org/jira/browse/RAMPART,JIRA
+Apache,git://git.apache.org/rat.git,Apache RAT (incubating),Git,https://issues.apache.org/jira/browse/RAT,JIRA
+Apache,git://git.apache.org/rave.git,Apache Rave,Git,https://issues.apache.org/jira/browse/RAVE,JIRA
+Apache,git://git.apache.org/river.git,Apache River,Git,https://issues.apache.org/jira/browse/RIVER,JIRA
+Apache,git://git.apache.org/roller.git,Apache Roller,Git,https://issues.apache.org/jira/browse/ROL,JIRA
+Apache,git://git.apache.org/samza-hello-samza.git,Apache Samza,Git,https://issues.apache.org/jira/browse/SAMZA,JIRA
+Apache,git://git.apache.org/sandesha.git,Apache Sandesha,Git,https://issues.apache.org/jira/browse/SAND,JIRA
+Apache,git://git.apache.org/sanselan.git,Commons Sanselan,Git,https://issues.apache.org/jira/browse/SANSELAN,JIRA
+Apache,git://git.apache.org/santuario-java.git,Apache Santuario Java,Git,https://issues.apache.org/jira/browse/SANTUARIO,JIRA
+Apache,git://git.apache.org/savan.git,Apache Savan,Git,https://issues.apache.org/jira/browse/SAVAN,JIRA
+Apache,git://git.apache.org/servicemix-components.git,Apache ServiceMix components,Git,https://issues.apache.org/jira/browse/SMXCOMP,JIRA
+Apache,git://git.apache.org/servicemix.git,Apache ServiceMix,Git,https://issues.apache.org/jira/browse/SM,JIRA
+Apache,git://git.apache.org/servicemix4-kernel.git,Apache ServiceMix 4 kernel,Git,https://issues.apache.org/jira/browse/SMX4KNL,JIRA
+Apache,git://git.apache.org/servicemix4-nmr.git,Apache ServiceMix 4 NMR,Git,https://issues.apache.org/jira/browse/SMX4NMR,JIRA
+Apache,git://git.apache.org/shiro.git,Apache Shiro,Git,https://issues.apache.org/jira/browse/SHIRO,JIRA
+Apache,git://git.apache.org/sis.git,Apache SIS,Git,https://issues.apache.org/jira/browse/SIS,JIRA
+Apache,git://git.apache.org/sling.git,Apache Sling,Git,https://issues.apache.org/jira/browse/SLING,JIRA
+Apache,git://git.apache.org/solr.git,Apache Solr,Git,https://issues.apache.org/jira/browse/SOLR,JIRA
+Apache,git://git.apache.org/spamassassin.git,Apache SpamAssassin,Git,https://bz.apache.org/SpamAssassin/buglist.cgi?bug_status=__all__&content=&limit=0&no_redirect=1&order=priority%2Cbug_severity&product=&query_format=specific,Bugzilla
+Apache,git://git.apache.org/sqoop.git,Apache Sqoop,Git,https://issues.apache.org/jira/browse/SQOOP,JIRA
+Apache,git://git.apache.org/stanbol.git,Apache Stanbol,Git,https://issues.apache.org/jira/browse/STANBOL,JIRA
+Apache,git://git.apache.org/stdcxx.git,Apache C++ Standard Library,Git,https://issues.apache.org/jira/browse/STDCXX,JIRA
+Apache,git://git.apache.org/storm.git,Apache Storm,Git,https://issues.apache.org/jira/browse/STORM,JIRA
+Apache,git://git.apache.org/stratos.git,Apache Stratos,Git,https://issues.apache.org/jira/browse/STRATOS,JIRA
+Apache,git://git.apache.org/streams.git,Apache Streams (Incubating),Git,https://issues.apache.org/jira/browse/STREAMS,JIRA
+Apache,git://git.apache.org/struts-sandbox.git,Apache Struts Sandbox,Git,https://issues.apache.org/jira/browse/SB,JIRA
+Apache,git://git.apache.org/subversion.git,Apache Subversion,Git,http://subversion.tigris.org/issues/buglist.cgi,Scarab
+Apache,git://git.apache.org/synapse.git,Apache Synapse,Git,https://issues.apache.org/jira/browse/SYNAPSE,JIRA
+Apache,git://git.apache.org/syncope.git,Apache Syncope,Git,https://issues.apache.org/jira/browse/SYNCOPE,JIRA
+Apache,git://git.apache.org/tajo.git,Apache Tajo,Git,https://issues.apache.org/jira/browse/TAJO,JIRA
+Apache,git://git.apache.org/tapestry-5.git,Apache Tapestry 5,Git,https://issues.apache.org/jira/browse/TAP5,JIRA
+Apache,git://git.apache.org/tashi.git,Apache Tashi,Git,https://issues.apache.org/jira/browse/TASHI,JIRA
+Apache,git://git.apache.org/tez.git,Apache Tez,Git,https://issues.apache.org/jira/browse/TEZ,JIRA
+Apache,git://git.apache.org/thrift.git,Apache Thrift,Git,https://issues.apache.org/jira/browse/THRIFT,JIRA
+Apache,git://git.apache.org/tika.git,Apache Tika,Git,https://issues.apache.org/jira/browse/TIKA,JIRA
+Apache,git://git.apache.org/tiles-autotag.git,Apache Tiles Autotag,Git,https://issues.apache.org/jira/browse/AUTOTAG,JIRA
+Apache,git://git.apache.org/tiles-request.git,Apache Tiles Request,Git,https://issues.apache.org/jira/browse/TREQ,JIRA
+Apache,git://git.apache.org/tiles.git,Apache Tiles,Git,https://issues.apache.org/jira/browse/TILES,JIRA
+Apache,git://git.apache.org/tomcat-maven-plugin.git,Apache Tomcat Maven plugin,Git,https://issues.apache.org/jira/browse/MTOMCAT,JIRA
+Apache,git://git.apache.org/tomee.git,Apache TomEE,Git,https://issues.apache.org/jira/browse/TOMEE,JIRA
+Apache,git://git.apache.org/trafficserver.git,Apache TrafficServer,Git,https://issues.apache.org/jira/browse/TS,JIRA
+Apache,git://git.apache.org/uima-uimaj.git,Apache UIMA,Git,https://issues.apache.org/jira/browse/UIMA,JIRA
+Apache,git://git.apache.org/velocity-tools.git,Apache Velocity Tools,Git,https://issues.apache.org/jira/browse/VELTOOLS,JIRA
+Apache,git://git.apache.org/vxquery.git,Apache VXQuery,Git,https://issues.apache.org/jira/browse/VXQUERY,JIRA
+Apache,git://git.apache.org/vysper.git,Apache vysper,Git,https://issues.apache.org/jira/browse/VYSPER,JIRA
+Apache,git://git.apache.org/webservices-axiom.git,Apache Webservices Axiom,Git,https://issues.apache.org/jira/browse/AXIOM,JIRA
+Apache,git://git.apache.org/webservices-commons-xmlschema.git,Apache Web Services Commons XMLSchema,Git,https://issues.apache.org/jira/browse/XMLCOMMONS,JIRA
+Apache,git://git.apache.org/webservices-neethi.git,Apache Webservices Neethi,Git,https://issues.apache.org/jira/browse/NEETHI,JIRA
+Apache,git://git.apache.org/webservices-xmlschema.git,Apache Web Services XmlSchema,Git,https://issues.apache.org/jira/browse/XMLSCHEMA,JIRA
+Apache,git://git.apache.org/whirr.git,Apache Whirr,Git,https://issues.apache.org/jira/browse/WHIRR,JIRA
+Apache,git://git.apache.org/wicket.git,Apache Wicket,Git,https://issues.apache.org/jira/browse/WICKET,JIRA
+Apache,git://git.apache.org/wink.git,Apache Wink,Git,https://issues.apache.org/jira/browse/WINK,JIRA
+Apache,git://git.apache.org/wookie.git,Apache Wookie,Git,https://issues.apache.org/jira/browse/WOOKIE,JIRA
+Apache,git://git.apache.org/wss4j.git,Apache WSS4J,Git,https://issues.apache.org/jira/browse/WSS,JIRA
+Apache,git://git.apache.org/xalan-c.git,Apache Xalan C++,Git,https://issues.apache.org/jira/browse/XALANC,JIRA
+Apache,git://git.apache.org/xalan-j.git,Apache Xalan Java,Git,https://issues.apache.org/jira/browse/XALANJ,JIRA
+Apache,git://git.apache.org/xerces-c.git,Apache Xerces C++,Git,https://issues.apache.org/jira/browse/XERCESC,JIRA
+Apache,git://git.apache.org/xerces2-j.git,Apache Xerces2 Java,Git,https://issues.apache.org/jira/browse/XERCESJ,JIRA
+Apache,git://git.apache.org/xml-graphics-commons.git,Apache XML Graphics Commons,Git,https://issues.apache.org/jira/browse/XGC,JIRA
+Apache,git://git.apache.org/xmlbeans.git,Apache XMLBeans,Git,https://issues.apache.org/jira/browse/XMLBEANS,JIRA
+Apache,git://git.apache.org/zookeeper.git,Apache Hadoop ZooKeeper,Git,https://issues.apache.org/jira/browse/ZOOKEEPER,JIRA
+Source Forge,http://svn.code.sf.net/p/keepass/code/trunk keepass-code,KeePass,SVN,http://sourceforge.net/p/keepass/bugs/,SourceForge
+Source Forge,https://bitbucket.org/greenshot/greenshot.git,Greenshot,Bit Bucket,http://sourceforge.net/p/greenshot/bugs/?source=navbar,SourceForge
+Source Forge,http://svn.code.sf.net/p/flacsquisher/code/ flacsquisher-code,FlacSquisher,SVN,http://sourceforge.net/p/flacsquisher/bugs/,SourceForge
+Source Forge,https://github.com/gitextensions/gitextensions/,gitextensions,GitHub,https://github.com/gitextensions/gitextensions/issues,Git
+Source Forge,http://svn.code.sf.net/p/megui/code/ megui-code,MeGUI,SVN,http://sourceforge.net/p/megui/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dualmonitortb/code/ dualmonitortb-code,Dual Monitor Taskbar,SVN,http://sourceforge.net/p/dualmonitortb/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/freeghost/code/trunk freeghost-code,FOG - A Free Cloning Solution,SVN,http://sourceforge.net/p/freeghost/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/googlesyncmod/code/trunk googlesyncmod-code,GO Contact Sync Mod,SVN,http://sourceforge.net/p/googlesyncmod/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/naps2/code naps2-code,NAPS2 (Not Another PDF Scanner 2),GIT,http://sourceforge.net/p/naps2/tickets/?source=navbar,SourceForge
+Source Forge,http://svn.code.sf.net/p/dualmonitortool/code/trunk dualmonitortool-code,Dual Monitor Tools,SVN,http://sourceforge.net/p/dualmonitortool/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/odf-converter/code/trunk odf-converter-code,OpenXML/ODF Translator Add-in for Office,SVN,http://sourceforge.net/p/odf-converter/bugs-common-for-all/,SourceForge
+Source Forge,http://svn.code.sf.net/p/album-art/code/ album-art-code,Album Art Downloader,SVN,http://sourceforge.net/p/album-art/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/digicamcontrol/code/trunk digicamcontrol-code,digiCamControl,SVN,http://sourceforge.net/p/digicamcontrol/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/nbuexplorer/code/trunk nbuexplorer-code,NbuExplorer,SVN,http://sourceforge.net/p/nbuexplorer/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/antidupl/code/trunk antidupl-code,AntiDupl,SVN,http://sourceforge.net/p/antidupl/tickets/,SourceForge
+Source Forge,https://github.com/robo-code/robocode.git,robocode,GITHUb,http://sourceforge.net/p/robocode/bugs/?source=navbar,SourceForge
+Source Forge,http://svn.code.sf.net/p/icopy/code/trunk icopy-code,iCopy - Free Photocopier,SVN,http://sourceforge.net/p/icopy/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/onvifdm/code/trunk onvifdm-code,ONVIF Device Manager,SVN,http://sourceforge.net/p/onvifdm/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/gmkvextractgui/code/ gmkvextractgui-code,gMKVExtractGUI,SVN,http://sourceforge.net/p/gmkvextractgui/tickets/,SourceForge
+Source Forge,http://git.code.sf.net/p/samschanneledit/git samschanneledit-git,SamsChannelEditor Beta,GIT,http://sourceforge.net/p/samschanneledit/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/assimp/code/ assimp-code,"Open Asset Import Library
+",SVN,http://sourceforge.net/p/assimp/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/sourcecookifier/git sourcecookifier-git,SourceCookifier: Plugin for Notepad++,GIT,http://sourceforge.net/p/sourcecookifier/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/casparcg/code/ casparcg-code,CasparCG: Pro Video & Graphics Play-Out,SVN,http://sourceforge.net/p/casparcg/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/nasa-exp/svn/trunk nasa-exp-svn,NASA WorldWind,SVN,http://sourceforge.net/p/nasa-exp/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/aaxtomp3/source/ aaxtomp3-source,AAX to MP3,SVN,http://sourceforge.net/p/aaxtomp3/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/zedgraph/code/trunk zedgraph-code,ZedGraph,SVN,http://sourceforge.net/p/zedgraph/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/astrogrep/code/trunk astrogrep-code,AstroGrep,SVN,http://sourceforge.net/p/astrogrep/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/irrlicht/code/trunk irrlicht-code,Irrlicht Engine,SVN,http://sourceforge.net/p/irrlicht/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/vietocr/code/ vietocr-code,VietOCR,SVN,http://sourceforge.net/p/vietocr/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/epicpen/code/ epicpen-code,Epic Pen,SVN,http://sourceforge.net/p/epicpen/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/subtitlecreator/svn/trunk subtitlecreator-svn,"SubtitleCreator
+",SVN,http://sourceforge.net/p/subtitlecreator/bugs/,SourceForge
+Source Forge,https://github.com/lballabio/quantlib.git,lballabio/quantlib,GITHUB,https://github.com/lballabio/quantlib/issues,Git
+Source Forge,http://svn.code.sf.net/p/nclass/code/ nclass-code,NClass,SVN,http://sourceforge.net/p/nclass/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/coced/code/ coced-code,CoCEd,SVN,http://sourceforge.net/p/coced/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/autokindle/code/ autokindle-code,Auto Kindle eBook Converter,SVN,http://sourceforge.net/p/autokindle/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/movirtualrouter/code movirtualrouter-code,MO Virtual Router,GIT,http://sourceforge.net/p/movirtualrouter/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/morrgraphext/code/ morrgraphext-code,Morrowind Graphics Extender (MGE),SVN,http://sourceforge.net/p/morrgraphext/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/tumblone/code tumblone-code,TumblOne,GIT,http://sourceforge.net/p/tumblone/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ahdsubtitles/code/trunk ahdsubtitles-code,AHD Subtitles Maker Professional,SVN,http://sourceforge.net/p/ahdsubtitles/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/smsclictr/code/ smsclictr-code,SCCM Client Center,SVN,http://sourceforge.net/p/smsclictr/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/pdfmergetool/code/trunk pdfmergetool-code,PDF Merge Tool,SVN,http://sourceforge.net/p/pdfmergetool/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/kickassundelete/git kickassundelete-git,Kickass Undelete,GIT,http://sourceforge.net/p/kickassundelete/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/sharpssh/svn/trunk sharpssh-svn,SharpSSH,SVN,http://sourceforge.net/p/sharpssh/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dockpanelsuite/code/trunk dockpanelsuite-code,DockPanel Suite,SVN,http://sourceforge.net/p/dockpanelsuite/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/wepcrackgui/code wepcrackgui-code,WepCrackGui,GIT,http://sourceforge.net/p/wepcrackgui/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/puttysm/code/trunk puttysm-code,PuTTY Session Manager,SVN,http://sourceforge.net/p/puttysm/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/hdgraph/code/ hdgraph-code,HDGraph,SVN,http://sourceforge.net/p/hdgraph/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/libusbdotnet/code/trunk libusbdotnet-code,LibUsbDotNet C# USB Library,SVN,http://sourceforge.net/p/libusbdotnet/libusbdotnet-bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/quickfix/code/trunk quickfix-code,QuickFIX,SVN,http://sourceforge.net/p/quickfix/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/uncrustify/code uncrustify-code,Uncrustify Code Beautifier,GIT,http://sourceforge.net/p/uncrustify/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/polyclipping/code/trunk polyclipping-code,Clipper,SVN,http://sourceforge.net/p/polyclipping/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ta-lib/code/trunk ta-lib-code,TA-Lib: Technical Analysis Library,SVN,http://sourceforge.net/p/ta-lib/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ychan/code/ ychan-code,YChan - 4chan and 8chan image downloader,SVN,http://sourceforge.net/p/ychan/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/rssbandit/code/trunk rssbandit-code,RSS Bandit,SVN,http://sourceforge.net/p/rssbandit/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/btnet/code/ btnet-code,BugTracker.NET,SVN,http://sourceforge.net/p/btnet/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/yaprocmon/code/ yaprocmon-code,Yet Another (remote) Process Monitor,SVN,http://sourceforge.net/p/yaprocmon/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/clown/code/trunk clown-code,PDF Clown,SVN,http://sourceforge.net/p/clown/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/dile/code/trunk dile-code,Dotnet IL Editor,SVN,http://sourceforge.net/p/dile/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/manicdigger/code manicdigger-code,Manic Digger,GIT,http://sourceforge.net/p/manicdigger/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/openmiracle/Sourcecode openmiracle-Sourcecode,OpenMiracle,GIT,http://sourceforge.net/p/openmiracle/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mynes/code/trunk mynes-code,My Nes,SVN,http://sourceforge.net/p/mynes/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/snarlwin/code/trunk snarlwin-code,Snarl,SVN,http://sourceforge.net/p/snarlwin/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/gdcm/socketxx gdcm-socketxx,Grassroots DICOM,GIT,http://sourceforge.net/p/gdcm/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/oblivionworks/code/ oblivionworks-code,Oblivion Works,SVN,http://sourceforge.net/p/oblivionworks/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/wmrx00/code/trunk wmrx00-code,Weather Station Data Logger,SVN,http://sourceforge.net/p/wmrx00/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/orphamielautoclicker/code orphamielautoclicker-code,utoClicker,GIT,http://sourceforge.net/p/orphamielautoclicker/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/openflashchart/code/ openflashchart-code,Open Flash Chart,SVN,http://sourceforge.net/p/openflashchart/bugs/,SourceForge
+Source Forge,https://github.com/MarcosMeli/FileHelpers.git,MarcosMeli/FileHelpers,GITHUB,https://github.com/MarcosMeli/FileHelpers/issues,GIT
+Source Forge,http://svn.code.sf.net/p/watin/code/trunk watin-code,WatiN,SVN,http://sourceforge.net/p/watin/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/ifcexporter/code/trunk ifcexporter-code,IFC for Revit,SVN,http://sourceforge.net/p/ifcexporter/tickets/,SourceForge
+Source Forge,https://github.com/jni4net/jni4net.git,jni4net,GITHUB,https://github.com/jni4net/jni4net/issues,GIT
+Source Forge,http://svn.code.sf.net/p/sharpe/code/ sharpe-code,SharpEnviro,SVN,http://sourceforge.net/p/sharpe/bug-reports/,SourceForge
+Source Forge,http://svn.code.sf.net/p/watin/code/trunk watin-code,WatiN,SVN,http://sourceforge.net/p/watin/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/lyricsfetcher/code/trunk lyricsfetcher-code,LyricsFetcher,SVN,http://sourceforge.net/p/lyricsfetcher/bug-reports/,SourceForge
+Source Forge,http://svn.code.sf.net/p/lntogoogle/code/ lntogoogle-code,Lotus Notes to Google Calendar tool,SVN,http://sourceforge.net/p/lntogoogle/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/libdmtx/libdmtx libdmtx-libdmtx,libdmtx,GIT,http://sourceforge.net/p/libdmtx/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mkvavi2mp4/code/ mkvavi2mp4-code,mkv avi to mp4 for iPad,SVN,http://sourceforge.net/p/mkvavi2mp4/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/aite/code/trunk aite-code,AHD ID3 Tag Editor,SVN,http://sourceforge.net/p/aite/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/csjson/code/ csjson-code,JSON for .NET,SVN,http://sourceforge.net/p/csjson/bugs/,SourceForge
+Source Forge,http://git.code.sf.net/p/libdmtx/libdmtx libdmtx-libdmtx,libdmtx,GIT,http://sourceforge.net/p/libdmtx/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mkvavi2mp4/code/ mkvavi2mp4-code,mkv avi to mp4 for iPad,SVN,http://sourceforge.net/p/mkvavi2mp4/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/aite/code/trunk aite-code,AHD ID3 Tag Editor,SVN,http://sourceforge.net/p/aite/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/csjson/code/ csjson-code,JSON for .NET,SVN,http://sourceforge.net/p/csjson/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/skrybotdomowy/code/ skrybotdomowy-code,Speech Recognition SkryBot in Polish,SVN,http://sourceforge.net/p/skrybotdomowy/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/monocalendar/code/ monocalendar-code,MonoCalendar,SVN,http://sourceforge.net/p/monocalendar/bugs/,SourceForge
+Source Forge,http://svn.code.sf.net/p/mxxru/code/ mxxru-code,Mxx_ru,SVN,http://sourceforge.net/p/mxxru/tickets/,SourceForge
+Source Forge,http://svn.code.sf.net/p/lignedetemps/code/trunk lignedetemps-code,Ligne du temps (Flex 2),SVN,http://sourceforge.net/p/lignedetemps/bogue-amelioration/,Sourceforge
+Source Forge,hg clone http://hg.code.sf.net/p/rubyrl/codehg rubyrl-codehg,RubyRL,Mercurial,http://sourceforge.net/p/rubyrl/tickets/,Sourceforge
+Source Forge,http://git.code.sf.net/p/grailrtls/code grailrtls-code,GRAIL RTLS,Git,http://sourceforge.net/p/grailrtls/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/discretizer/code/ discretizer-code,Discretizer,SVN,http://sourceforge.net/p/discretizer/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/rpgnet/code/ rpgnet-code,Rpg.NET,SVN,http://sourceforge.net/p/rpgnet/tickets/,Sourceforge
+Source Forge,https://github.com/mcarbonneaux/Apache-Authmemcookie-Module.git,Auth MemCache Cookie,Git,https://github.com/mcarbonneaux/Apache-Authmemcookie-Module/issues,Git
+Source Forge,http://git.code.sf.net/p/sexpr/code sexpr-code,sexpr,Git,http://sourceforge.net/p/sexpr/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/spscan/code/ spscan-code,SPScan,SVN,http://sourceforge.net/p/spscan/tickets/,Sourceforge
+Source Forge,http://git.code.sf.net/p/vesselsimulator/code vesselsimulator-code,Vessel Simulator,Git,http://sourceforge.net/p/vesselsimulator/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/gtkmmviewer/code/ gtkmmviewer-code,GImageView,SVN,http://sourceforge.net/p/gtkmmviewer/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/freemis/code/trunk freemis-code,FreeMIS,SVN,http://sourceforge.net/p/freemis/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/crunchpwn/code crunchpwn-code,CrunchPwn,Git,http://sourceforge.net/p/crunchpwn/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/chipfilebrowser/code/trunk chipfilebrowser-code,ChipFile Browser,SVN,http://sourceforge.net/p/chipfilebrowser/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/redcase/svn/trunk redcase-svn,Redcase,SVN,http://sourceforge.net/p/redcase/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/xchat-ruby/xchat-ruby xchat-ruby-xchat-ruby,XChat-Ruby Plugin,Git,http://sourceforge.net/p/xchat-ruby/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/sshmenu/git sshmenu-git,SSHMenu,Git,http://sourceforge.net/p/sshmenu/bugs/,Sourceforge
+Source Forge,svn://svn.code.sf.net/p/adlint-goodies/code/trunk adlint-goodies-code,AdLint Goodies,SVN,http://sourceforge.net/p/adlint-goodies/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/ossdiscovery/code/trunk ossdiscovery-code,OSS Discovery,SVN,http://sourceforge.net/p/ossdiscovery/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/xchat-ruby/xchat-ruby xchat-ruby-xchat-ruby,XChat-Ruby Plugin,Git,http://sourceforge.net/p/xchat-ruby/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/adlint/code/ adlint-code,AdLint,SVN,http://sourceforge.net/p/adlint/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/emdros/code/trunk emdros-code,Emdros,SVN,http://sourceforge.net/p/emdros/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/sword-app/code/ sword-app-code,SWORD,SVN,http://sourceforge.net/p/sword-app/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/musicmaster/code musicmaster-code,Music Master,Git,http://sourceforge.net/p/musicmaster/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/simspark/svn/trunk simspark-svn,Spark - A generic physical simulator Beta,SVN,http://sourceforge.net/p/simspark/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/mrviewer/code mrviewer-code,mrViewer,Git,http://sourceforge.net/p/mrviewer/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/solunas/code/ solunas-code,"Solunas Hotel Booking Engine Beta
+",SVN,http://sourceforge.net/p/solunas/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/atlas2/code/trunk atlas2-code,Atlas2,SVN,http://sourceforge.net/p/atlas2/tickets/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/hipaatalk/code/ hipaatalk-code,HIPAATalk,SVN,http://sourceforge.net/p/hipaatalk/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/datavision/code/trunk datavision-code,DataVision,SVN,http://sourceforge.net/p/datavision/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/ajax-chat/code/ ajax-chat-code,AJAX Chat - Open Source Web Chat,SVN,http://sourceforge.net/p/ajax-chat/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/vym/code vym-code,vym - view your mind,Git,http://sourceforge.net/p/vym/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/quickfix/code/trunk quickfix-code,QuickFIX,SVN,http://sourceforge.net/p/quickfix/bugs/,Sourceforge
+Source Forge,http://svn.code.sf.net/p/sbml/code/trunk sbml-code,Systems Biology Markup Language (SBML),SVN,http://sourceforge.net/p/sbml/tickets/,Sourceforge
+Source Forge,http://git.code.sf.net/p/zero-install/code zero-install-code,Zero Install,Git,http://sourceforge.net/p/zero-install/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/redmin-mylyncon/redmine-mylyn-connector redmin-mylyncon-redmine-mylyn-connector,Redmine-Mylyn Connector,Git,http://sourceforge.net/p/redmin-mylyncon/bugs/,Sourceforge
+Source Forge,https://github.com/lballabio/quantlib.git,QuantLib,Git,http://sourceforge.net/p/quantlib/bugs/,Sourceforge
+Source Forge,http://git.code.sf.net/p/milter-manager/code milter-manager-code,milter manager,Git,http://sourceforge.net/p/milter-manager/bugs/,Sourceforge
